@@ -1,0 +1,72 @@
+{
+  "paper_id": "32_InfinityGAN_Towards_Infinite-Pixel_Image_Synthesis",
+  "content": {
+    "1_INTRODUCTION": [
+      "Aim to generate infinite-pixel images from partial observations",
+      "Train a patch-based generator",
+      "Infer arbitrarily large images at test time",
+      "Synthesize globally plausible structures and heterogeneous textures",
+      "TITLE: Introduction"
+    ],
+    "2_RELATED_WORK": [
+      "Latent models mostly fixed-size; 1024×1024 achieved but poor size generalization",
+      "Patch-based GANs synthesize by parts; repeat statistics and barely extrapolate",
+      "ALIS concurrently targets infinite-pixel images via horizontal latent in-betweening",
+      "Autoregressive models can scale arbitrarily; infinite-pixel synthesis remains unexplored",
+      "TITLE: Related Work"
+    ],
+    "3_PROPOSED_METHOD": [
+      "Introduces InfinityGAN with structure and texture synthesizers",
+      "Uses implicit G_S to sample coordinates and build local structure",
+      "Conditions on coordinates via landscape prior: tanh vertical, sinusoidal horizontal",
+      "Modifies StyleGAN2: replace constant input, inject style, remove zero-padding",
+      "Achieves spatially independent generation and consistent per-location synthesis",
+      "Enables patch queries to assemble arbitrarily large images with constant memory",
+      "TITLE: Proposed Method"
+    ],
+    "4_EXPERIMENTAL_RESULTS": [
+      "Introduces ScaleInv FID for larger-than-training evaluation",
+      "InfinityGAN composes 121 patches into seamless 1024x1024 images",
+      "Delivers reasonable global structure; baselines fail and FID surges",
+      "Wins 90%+ preference in 2AFC user study",
+      "Enables arbitrary-size outpainting without seams; supports multimodal sampling",
+      "Uses latent inversion and parallel batching; achieves up to 7.2x speedup",
+      "TITLE: Experimental Results"
+    ],
+    "5_CONCLUSIONS": [
+      "Propose InfinityGAN for infinite-pixel image synthesis",
+      "Demonstrate applications: image outpainting and inbetweening",
+      "Dataset mixes FoVs and distances, causing scale-composition artifacts",
+      "Foreground leaves induce green textures; model hallucinates trees in sky",
+      "Slight FID drop versus StyleGAN2; suspect joint-training convergence issues",
+      "TITLE: Conclusions"
+    ],
+    "6_ACKNOWLEDGEMENTS": [
+      "Supported by NSF CAREER Grant 1149783 and Snap Inc. gift",
+      "TITLE: Acknowledgements"
+    ],
+    "7_ETHICS_STATEMENT": [
+      "Adhere to ICLR Code of Ethics",
+      "Acknowledge generative modeling misuse risks",
+      "Do not enhance fine-grained manipulation or human hallucination",
+      "Note potential misuse for fake scenery images",
+      "Commit to ethical modeling and image forensics",
+      "TITLE: Ethics Statement"
+    ],
+    "Abstract": [
+      "Proposes InfinityGAN for arbitrary-sized image generation",
+      "Trains and infers patchwise, requiring low compute and no large-FOV data",
+      "Disentangles global appearance, local structure, and texture for consistent, non-repetitive realism",
+      "Generates images with unprecedented spatial size and detail",
+      "Outperforms baselines in realism; supports parallelizable inference",
+      "Enables spatial style fusion, multimodal outpainting, and image inbetweening at arbitrary sizes",
+      "TITLE: Abstract"
+    ]
+  },
+  "token_usage": {
+    "input_text": 4912,
+    "input_image": 3096,
+    "input_total": 8008,
+    "output": 9972
+  }
+}

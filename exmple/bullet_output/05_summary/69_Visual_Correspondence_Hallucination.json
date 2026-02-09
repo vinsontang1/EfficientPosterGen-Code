@@ -1,0 +1,75 @@
+{
+  "paper_id": "69_Visual_Correspondence_Hallucination",
+  "content": {
+    "1_INTRODUCTION": [
+      "Introduce learning-based correspondence hallucination for non-covisible image regions",
+      "Propose NeurHal: network to identify and hallucinate correspondences",
+      "Input: image pair and source keypoints; output per-keypoint target-location probability distribution",
+      "Design task-specific loss and architecture via problem analysis",
+      "Demonstrate hallucinations on unseen scenes",
+      "Boost absolute pose estimation robustness over SOTA feature matching",
+      "TITLE: Introduction"
+    ],
+    "3_OUR_APPROACH": [
+      "Train network to localize correspondents despite occlusion and field-of-view gaps",
+      "Predict per-keypoint probability map over the target image plane",
+      "Use NRE to unify identify, inpaint, and outpaint correspondents",
+      "Propose memory-efficient architecture NeurHal with low-resolution correspondence maps",
+      "Employ CNN with effective stride eight for correspondence map computation",
+      "Low-resolution maps enable correspondence hallucination for absolute pose estimation",
+      "TITLE: Our Approach"
+    ],
+    "4_EXPERIMENTS": [
+      "Evaluate NeurHal's hallucination ability and impact on absolute pose robustness",
+      "Baselines fail at inpainting and cannot outpaint correspondences",
+      "NeurHal hallucinates correspondences with strong cross-dataset generalization",
+      "Low-overlap: NeurHal estimates camera pose correctly far more often",
+      "High-overlap: SOTA slightly better due to higher-resolution correspondence maps",
+      "Overall, hallucinated outpainting improves absolute pose estimation",
+      "TITLE: Experiments"
+    ],
+    "5_LIMITATIONS": [
+      "Inpainted correspondence maps are less peaked than outpainted maps",
+      "Architecture outputs low-resolution correspondences due to quadratic attention complexity",
+      "Finite map extent misses correspondents outside, producing erroneous maps",
+      "TITLE: Limitations"
+    ],
+    "6_CONCLUSION": [
+      "Introduces first method to learn inpaint and outpaint correspondences",
+      "Analyzes the task to choose loss and design architecture",
+      "Demonstrates strong generalization across unseen indoor/outdoor scenes and datasets",
+      "Validates on ScanNet, MegaDepth, ETH3D, and NYU",
+      "Boosts absolute pose estimation; outpainted correspondences outperform SOTA feature matching",
+      "Enables robust SfM when few images are available",
+      "TITLE: Conclusion"
+    ],
+    "7_ETHICS_STATEMENT": [
+      "Improves vision-based industrial applications, especially GPS-denied visual localization.",
+      "Boosts robotics and AR relocalization, promoting safer system behavior.",
+      "Enables autonomous driving and drone search-and-rescue benefits.",
+      "Carries misuse risk: stronger weaponized UAVs, environment re-identification privacy threats.",
+      "Urges ethical debates and regulatory oversight by governments and public entities.",
+      "Anticipates net societal benefits outweigh potential harms.",
+      "TITLE: Ethics Statement"
+    ],
+    "8_REPRODUCIBILITY": [
+      "Release NeurHal architecture and pretrained weights",
+      "Provide simple evaluation script for qualitative results",
+      "Share notebook with indoor smartphone image example",
+      "TITLE: Reproducibility"
+    ],
+    "ABSTRACT": [
+      "Trains a network to predict correspondences under occlusion or outside FOV",
+      "Outputs a peaked probability map over target keypoint location",
+      "Hallucinates correspondences in scenes unseen during training",
+      "Significantly improves robustness for absolute pose estimation versus SOTA matchers",
+      "TITLE: Abstract"
+    ]
+  },
+  "token_usage": {
+    "input_text": 4912,
+    "input_image": 3096,
+    "input_total": 8008,
+    "output": 10843
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "paper_id": "16_A_Context-Integrated_Transformer-Based_Neural_Network_for_Auction_Design",
+  "content": {
+    "1_Introduction": [
+      "Formulates contextual auction design with bidder and item features",
+      "Proposes CITransNet: context-integrated Transformer auction mechanism",
+      "Enforces permutation equivariance over bidders, items, and contexts",
+      "Uses size-invariant parameters to generalize across auction sizes",
+      "Provides sample complexity bound for mechanism generalization",
+      "Near-Myerson single-item; outperforms baselines on complex multi-item auctions",
+      "TITLE: Introduction"
+    ],
+    "2.2_Contextual_Auction_Design_as_a_Learning_Problem": [
+      "Formalize contextual auctions with bidder and item contexts in allocation and payments.",
+      "Target maximum expected revenue under DSIC and IR constraints.",
+      "Define ex-post regret; show DSIC equivalent to zero regret.",
+      "Provide sample-complexity bounds linking empirical and expected revenue and regret.",
+      "Learn mechanisms by minimizing empirical ex-post regret with IR constraints.",
+      "Parameterize allocation and payment rules; estimate expectations via samples.",
+      "TITLE: Contextual Auction Learning"
+    ],
+    "3_Model_Architecture": [
+      "Introduces CTransNet: transformer-based network for auction allocation and payment",
+      "Builds bidder–item pair features from continuous or embedded contexts",
+      "Models bidder-item, bidder-wise, item-wise, and global interactions via transformers",
+      "Stacks 1x1 3D conv layers to reduce dimensions and mix features",
+      "Produces three feature maps for allocation and payments; enforces IR",
+      "Maintains permutation equivariance; trains with augmented Lagrangian constraints",
+      "TITLE: Model Architecture"
+    ],
+    "4_Experiments": [
+      "Evaluate CITransNet on single and multi-item contextual auctions, discrete and continuous",
+      "Compare against Item-wise Myerson, RegretNet, CREgretNet, and CEquivariantNet baselines",
+      "Achieves best revenue across all settings with regret under 0.003",
+      "Transformer interaction layer drives gains; matches near-optimal Myerson in single-item",
+      "Permutation-equivariant inductive bias improves over CREgretNet in large-scale auctions",
+      "Generalizes across unseen bidder and item counts; retains low regret, outperforms Myerson",
+      "TITLE: Experiments"
+    ],
+    "5_Conclusion": [
+      "Proposes CITransNet, a transformer-based architecture for contextual auctions",
+      "Ensures permutation equivariance to bids and contexts; handles asymmetric information",
+      "Recovers known optimal solutions in simple auctions",
+      "Validates transformer interaction layers vs. context-integrated RegretNet and EquivariantNet",
+      "Demonstrates out-of-setting generalization across varying bidders and items",
+      "TITLE: Conclusion"
+    ],
+    "Abstract": [
+      "Proposes CITransNet: context-integrated transformer for auction design",
+      "Incorporates public bidder and item context into learning",
+      "Maintains permutation-equivariance over bids and contexts",
+      "Finds asymmetric mechanisms beyond symmetry-limited approaches",
+      "Recovers known optima in single-item auctions",
+      "Outperforms baselines and generalizes beyond training cases",
+      "TITLE: Abstract"
+    ]
+  },
+  "token_usage": {
+    "input_text": 3684,
+    "input_image": 4492,
+    "input_total": 8176,
+    "output": 10004
+  }
+}

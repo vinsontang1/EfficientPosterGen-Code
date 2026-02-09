@@ -1,0 +1,110 @@
+{
+  "paper_id": "42_VideoComposer_Compositional_Video_Synthesis_with_Motion_Controllability",
+  "selected_nodes": [
+    {
+      "unique_id": "61a9715e-5400-4949-8a8f-20689c3cede9",
+      "score": 2.967006741439479,
+      "pagerank": 2.967006741439479,
+      "section_title": "5 Conclusion",
+      "context": "In this paper, we present VideoComposer, which aims to explore the compositionality within the realm of video synthesis, striving to obtain a flexible and controllable synthesis system. In particular, we explore the use of temporal conditions for videos, specifically motion vectors, as powerful control signals to provide guidance in terms of temporal dynamics. An STC-encoder is further designed as a unified interface to aggregate the spatial and temporal dependencies of the sequential inputs for inter-frame consistency. Our experiments, which involve the combination of various conditions to augment controllability, underscore the pivotal role of our design choices and reveal the impressive creativity of the proposed VideoComposer."
+    },
+    {
+      "unique_id": "5d586292-5143-4da9-b018-230c44209841",
+      "score": 2.7695406620366265,
+      "pagerank": 2.7695406620366265,
+      "section_title": "4 Experiments",
+      "context": "Quantitative evaluation. To validate superior motion controllability, we utilize the motion control metric. We randomly select 1000 caption-video pairs and synthesize corresponding videos. The results are presented in Tab. 2. We observe that the inclusion of motion vectors as a condition reduces the motion control error, indicating an enhancement of motion controllability. The incorporation of STC-encoder further advances the motion controllability."
+    },
+    {
+      "unique_id": "12aaf512-8d3a-4412-bf9d-4a3c5b816f56",
+      "score": 2.614101344323273,
+      "pagerank": 2.614101344323273,
+      "section_title": "3 VideoComposer",
+      "context": "After processing the conditions by STC-encoder, the final condition sequences are all in an identical spatial shape to  $z_{t}$  and then fused by element-wise addition. Finally, we concatenate the merged condition sequence with  $z_{t}$  along the channel dimension as control signals. For textual and stylistic conditions organized as a sequence of embeddings, we utilize the cross-attention mechanism to inject textual and stylistic guidance."
+    },
+    {
+      "unique_id": "6efcae8e-c9a8-475a-b213-3563fba74219",
+      "score": 1.2426692729288769,
+      "pagerank": 1.2426692729288769,
+      "section_title": "3 VideoComposer",
+      "context": "In this section, we will comprehensively present VideoComposer to showcase how it can enhance the controllability of video synthesis and enable the creation of highly customized videos. Firstly, we in brief introduce Video Latent Diffusion Models (VLDMs) upon which VideoComposer is designed, given their impressive success in various generative tasks. Subsequently, we delve into the details of VideoComposer's architecture, including the composable conditions and unified Spatio-Temporal Condition encoder (STC-encoder) as illustrated in Fig. 2. Finally, the concrete implementations, including the training and inference processes, will be analyzed."
+    },
+    {
+      "unique_id": "18b11cf2-d8b7-4d19-b619-c51694ec87f0",
+      "score": 0.9535871005637373,
+      "pagerank": 0.9535871005637373,
+      "section_title": "Abstract",
+      "context": "The pursuit of controllability as a higher standard of visual content creation has yielded remarkable progress in customizable image synthesis. However, achieving controllable video synthesis remains challenging due to the large variation of temporal dynamics and the requirement of cross-frame temporal consistency. Based on the paradigm of compositional generation, this work presents VideoComposer that allows users to flexibly compose a video with textual conditions, spatial conditions, and more importantly temporal conditions. Specifically, considering the characteristic of video data, we introduce the motion vector from compressed videos as an explicit control signal to provide guidance regarding temporal dynamics. In addition, we develop a Spatio-Temporal Condition encoder (STC-encoder) that serves as a unified interface to effectively incorporate the spatial and temporal relations of sequential inputs, with which the model could make better use of temporal conditions and hence achieve higher inter-frame consistency. Extensive experimental results suggest that VideoComposer is able to control the spatial and temporal patterns simultaneously within a synthesized video in various forms, such as text description, sketch sequence, reference video, or even simply hand-crafted motions. The code and models are publicly available at https://videocomposer.github.io."
+    },
+    {
+      "unique_id": "f4ad25ec-4f5b-4154-989f-d64acde2d7d5",
+      "score": 0.9383264639836721,
+      "pagerank": 0.9383264639836721,
+      "section_title": "4 Experiments",
+      "context": "Compositional Image-to-video generation. Compositional training with a single image endows VideoComposer with the ability of animating static images. In Fig. 4, we present six examples to demonstrate this ability. VideoComposer is capable of synthesizing videos conformed to texts and the initial frame. To further obtain enhanced control over the structure, we can incorporate additional temporal conditions. We observe resultant videos consistently adhere to the given conditions.\n**Compositional video inpainting.** Jointly training with masked video endows the model with the ability of filling the masked regions with prescribed content, as shown in Fig. 5. VideoComposer can replenish the mask-corrupted regions based on textual descriptions. By further incorporating temporal conditions, i.e., depth maps and sketches, we obtain more advanced control over the structure."
+    },
+    {
+      "unique_id": "03587299-e2c4-4362-9a14-831c4cb91746",
+      "score": 0.7650592346828654,
+      "pagerank": 0.7650592346828654,
+      "section_title": "4 Experiments",
+      "context": "Compositional sketch-to-video generation. Compositional training with single sketch empowers VideoComposer with the ability of animating static sketches, as illustrated in Fig. 6. We observe that VideoComposer synthesizes videos conforming to texts and the initial sketch. Furthermore, we observe that the inclusion of mask and style guidance can facilitate structure and style control.\nDepth-to-video controllability comparison. In Fig. 7, we compare our VideoComposer with Text2Video-Zero [30] and existing state-of-the-art Gen-1 [16]. We observed that Text2Video-Zero suffers from appearance inconsistency and structural flickering due to the lack of temporal awareness. Meanwhile, Gen-1 produces a video with color inconsistency and structure misalignment (revealed by the orientation of the bird head). The video generated by VideoComposer is faithful to the structure of the input depth sequence and maintains a continuous appearance. This shows the superiority of our VideoComposer in terms of controllability."
+    },
+    {
+      "unique_id": "06397b20-731e-4a4d-bb5f-1a35d650bf6f",
+      "score": 0.6627778864633379,
+      "pagerank": 0.6627778864633379,
+      "section_title": "4 Experiments",
+      "context": "(a) Source video (b) Depth-guided generation (c) Sketch-guided generation Motion vectors prioritizing moving visual cues. Thanks to the nature of motion vectors, which encode inter-frame variation, static regions within an image are inherently omitted. This prioritization of moving regions facilitates motion control during synthesis. In Fig. 8, we present results of video-to-video translation to substantiate such superiority. We observe that motion vectors exclude the static background, i.e., human legs, a feat that other temporal conditions such as depth maps and sketches cannot accomplish. This advantage lays the foundation for a broader range of applications.\nVersatile motion control with motion vectors. Motion vectors, easily derived from hand-crafted strokes, enable more versatile motion control. In Fig. 9, we present visualization comparing CogVideo [26] and VideoComposer. While CogVideo is limited to insufficient text-guided motion control, VideoComposer expands this functionality by additionally leveraging motion vectors derived from hand-crafted strokes to facilitate more flexible and precise motion control."
+    },
+    {
+      "unique_id": "872127e9-a68a-433e-809d-64288ad4ca76",
+      "score": 0.2981330419397331,
+      "pagerank": 0.2981330419397331,
+      "section_title": "2 Related work",
+      "context": "Image synthesis with diffusion models. Recently, research efforts on image synthesis have shifted from utilizing GANs [18], VAEs [31], and flow models [14] to diffusion models [9, 19, 23, 32, 34, 54, 59, 74, 80, 81] due to more stable training, enhanced sample quality, and increased flexibility in a conditional generation. Regarding image generation, notable works such as DALL-E 2 [46] and GLIDE [40] employ diffusion models for text-to-image generation by conducting the diffusion process in pixel space, guided by CLIP [44] or classifier-free approaches. Imagen [50] introduces generic large language models, i.e., T5 [45], improving sample fidelity. The pioneering work LDMs [48] uses an autoencoder [15] to reduce pixel-level redundancy, making LDMs computationally efficient. Regarding image editing, pix2pix-zero [42] and prompt-to-prompt editing [21] follow instructional texts by manipulating cross-attention maps. Imagic [29] interpolates between an optimized embedding and the target embedding derived from text instructions to manipulate images. DiffEdit [11] introduces automatically generated masks to assist text-driven image editing. To enable conditional synthesis with flexible input, ControlNet [79] and T2I-Adapter [38] incorporate a specific spatial condition into the model, providing more fine-grained control. One milestone,Composer [28], trains a multi-condition diffusion model that broadly expands the control space and displays remarkable results. Nonetheless, this compositionality has not yet been proven effective in video synthesis, and VideoComposer aims to fill this gap."
+    },
+    {
+      "unique_id": "0e04fbe8-b516-47aa-bf7b-4cd9fdd3366d",
+      "score": 0.2981330419397331,
+      "pagerank": 0.2981330419397331,
+      "section_title": "3 VideoComposer",
+      "context": "Two-stage training strategy. Although VideoComposer can initialize with the pre-training of LDMs [48], which mitigates the training difficulty to some extent, the model still struggles in learning to simultaneously handle temporal dynamics and synthesize video content from multiple compositions. To address this issue, we leverage a two-stage training strategy to optimize VideoComposer. Specifically, the first stage targets pre-training the model to specialize in temporal modeling through text-to-video generation. In the second stage, we optimize VideoComposer to excel in video synthesis controlled by the diverse conditions through compositional training.\nInference. During inference, DDIM [80] is employed to enhance the sample quality and improve inference efficiency. We incorporate classifier-free guidance [22] to ensure that the generative results adhere to specified conditions. The generative process can be formalized as: $$ \\hat {\\epsilon} _ {\\theta} \\left(\\boldsymbol {z} _ {t}, \\boldsymbol {c}, t\\right) = \\epsilon_ {\\theta} \\left(\\boldsymbol {z} _ {t}, \\boldsymbol {c} _ {1}, t\\right) + \\omega \\left(\\epsilon_ {\\theta} \\left(\\boldsymbol {z} _ {t}, \\boldsymbol {c} _ {2}, t\\right) - \\epsilon_ {\\theta} \\left(\\boldsymbol {z} _ {t}, \\boldsymbol {c} _ {1}, t\\right)\\right) \\tag {2} $$ where  $\\omega$  is the guidance scale;  $c_{1}$  and  $c_{2}$  are two sets of conditions. This guidance mechanism extrapolates between two condition sets, placing emphasis on the elements in  $(c_{2} \\setminus c_{1})$  and empowering flexible application. For instance, in text-driven video inpainting,  $c_{2}$  represents the expected caption and a masked video, while  $c_{1}$  is an empty caption and the same masked video."
+    },
+    {
+      "unique_id": "777bd1da-1f10-49da-a300-ad0b8635c60f",
+      "score": 0.2981330419397331,
+      "pagerank": 0.2981330419397331,
+      "section_title": "1 Introduction",
+      "context": "Driven by the advances in computation, data scaling and architectural design, current visual generative models, especially diffusion-based models, have made remarkable strides in automating content creation, empowering designers to generate realistic images or videos from a textual prompt as input [24, 48, 53, 62]. These approaches typically train a powerful diffusion model [48] conditioned by text [23] on large-scale video-text and image-text datasets [2, 51], reaching unprecedented levels of fidelity and diversity. However, despite this impressive progress, a significant challenge remains in the limited controllability of the synthesis system, which impedes its practical applications.\nMost existing methods typically achieve controllable generation mainly by introducing new conditions, such as segmentation maps [48, 65], inpainting masks [72] or sketches [38, 79], in addition to texts. Expanding upon this idea,Composer [28] proposes a new generative paradigm centered on the concept of compositionality, which is capable of composing an image with various input conditions, leading to remarkable flexibility. However,Composer primarily focuses on considering \"Rotation view of a beautiful long-haired woman standing in the forest\""
+    },
+    {
+      "unique_id": "6f522ff5-595d-43de-a9cb-e7bd14b79957",
+      "score": 0.2981330419397331,
+      "pagerank": 0.2981330419397331,
+      "section_title": "1 Introduction",
+      "context": "(a) Text and sketch (b) Image and depth (c) Style, depth, sketch and motions multi-level conditions within the spatial dimension, hence it may encounter difficulties when comes to video generation due to the inherent properties of video data. This challenge arises from the complex temporal structure of videos, which exhibits a large variation of temporal dynamics while simultaneously maintaining temporal continuity among different frames. Therefore, incorporating suitable temporal conditions with spatial clues to facilitate controllable video synthesis becomes significantly essential.\nAbove observations motivate the proposed VideoComposer, which equips video synthesis with improved controllability in both spatial and temporal perception. For this purpose, we decompose a video into three kinds of representative factors, i.e., textual condition, spatial conditions and the crucial temporal conditions, and then train a latent diffusion model to recompose the input video conditioned by them. In particular, we introduce the video-specific motion vector as a kind of temporal guidance during video synthesis to explicitly capture the inter-frame dynamics, thereby providing direct control over the internal motions. To ensure temporal consistency, we additionally present a unified STC-encoder that captures the spatio-temporal relations within sequential input utilizing cross-frame attention mechanisms, leading to an enhanced cross-frame consistency of the output videos. Moreover, STC-encoder serves as an interface that allows for efficient and unified utilization of the control signals from various condition sequences. As a result, VideoComposer is capable of flexibly composing a video with diverse conditions while simultaneously maintaining the synthesis quality, as shown in Fig. 1. Notably, we can even control the motion patterns with simple hand-crafted motions, such as an arrow indicating the moon's trajectory in Fig. 1d, a feat that is nearly impossible with current methods. Finally, we demonstrate the efficacy of VideoComposer through extensive qualitative and quantitative results, and achieve exceptional creativity in the various downstream generative tasks."
+    },
+    {
+      "unique_id": "c62eb1dd-1f2e-4e7c-bc2e-35ed2a5bf524",
+      "score": 0.2981330419397331,
+      "pagerank": 0.2981330419397331,
+      "section_title": "4 Experiments",
+      "context": "In this subsection, we conduct qualitative and quantitative analysis on VideoComposer, aiming to demonstrate the effectiveness of incorporating STC-encoder. Quantitative analysis. In Tab. 3, we present the frame consistency metric computed on 1000 test videos. We observe that incorporating STC-encoder augments the frame consistency, which we \"A box moves from left to right\" \"A moving box\" \"A tiger walking on the grassland\" attribute to its temporal modeling capacity. This observation holds for various temporal conditions such as sketches, depth maps and motion vectors.\nQualitative analysis. In Fig. 10, we exemplify the usefulness of STC-encoder. We observe that in the first example, videos generated by VideoComposer without STC-encoder generally adhere to the sketches but omit certain detailed information, such as several round-shaped ingredients. For the left two examples, VideoComposer without STC-encoder generates videos that are structurally inconsistent with conditions. We can also spot the noticeable defects in terms of human faces and poses. Thus, all the above examples can validate the effectiveness of STC-encoder."
+    },
+    {
+      "unique_id": "10540ed2-89a1-41f1-acad-75b5de9dadcd",
+      "score": 0.2981330419397331,
+      "pagerank": 0.2981330419397331,
+      "section_title": "4 Experiments",
+      "context": "Datasets. To optimize VideoComposer, we leverage two widely recognized and publicly accessible datasets: WebVid10M [2] and LAION-400M [51]. WebVid10M [2] is a large-scale benchmark scrapped from the web that contains 10.3M video-caption pairs. LAION-400M [51] is an image-caption paired dataset, filtered using CLIP [44]. Evaluation metrics. We utilize two metrics to evaluate VideoComposer:  $i$  ) To evaluate video continuity, we follow Gen-1 [16] to compute the average CLIP cosine similarity of two consecutive frames, serving as a frame consistency metric; ii) To evaluate motion controllability, we adopt end-point-error [56, 73] as a motion control metric, which measures the Euclidean distance between the predicted and the ground truth optical flow for each pixel.\nIn this section, we demonstrate the ability of VideoComposer to tackle various tasks in a controllable and versatile manner, leveraging its inherent compositionality. It's important to note that the conditions employed in these examples are customizable to specific requirements. We also provide additional results in the supplementary material for further reference."
+    },
+    {
+      "unique_id": "4eb6687f-8427-4026-8fd1-a5f2bc8e62e1",
+      "score": 0.2981330419397331,
+      "pagerank": 0.2981330419397331,
+      "section_title": "3 VideoComposer",
+      "context": "Temporal conditions. To accomplish finer control along the temporal dimension, we introduce four temporal conditions: i) Motion vector. Motion vector as a videospecific element is represented as two-dimension vectors, i.e., horizontal and vertical orientations. It explicitly encodes the pixel-wise movements between two adjacent frames, as visualized by red arrows in Fig. 3. Due to the natural properties of motion vector, we treat this condition as a motion control signal for temporal-smooth synthesis. Following [52, 69], we extract motion vectors in standard MPEG-4 format from compressed videos. ii) Depth sequence. To introduce depth information, we utilize the pre-trained model from [47] to extract depth maps of video frames. iii) Mask sequence. To facilitate video regional editing and inpainting, we manually add masks. We introduce tube masks [17, 57] to mask out videos and enforce the model to predict the masked regions based on observable information. iv) Sketch sequence. Compared with the single sketch, sketch sequence can provide more control details and thus achieve precisely customized synthesis.\nSTC-encoder. Sequential conditions contain rich and complex space-time dependencies, posing challenges for controllable guidance. In order to enhance the temporal awareness of input conditions, we design a Spatio-Temporal Condition encoder (STC-encoder) to incorporate the space-time relations, as shown in Fig. 2. Specifically, a light-weight spatial architecture consisting of two 2D convolutions and an average pooling layer is first applied to the input sequences, aiming to extract local spatial information. Subsequently, the resulting condition sequence is fed into a temporal Transformer layer [61] for temporal modeling. In this way, STC-encoder facilitates the explicit embedding of temporal cues, allowing for a unified condition interface for diverse inputs, thereby enhancing inter-frame consistency. It is worth noting that we repeat the spatial conditions of a single image and single sketch along the temporal dimension to ensure their consistency with temporal conditions, hence facilitating the condition fusion process."
+    }
+  ]
+}

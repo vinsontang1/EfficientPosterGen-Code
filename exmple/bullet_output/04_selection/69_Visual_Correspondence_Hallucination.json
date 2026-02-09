@@ -1,0 +1,110 @@
+{
+  "paper_id": "69_Visual_Correspondence_Hallucination",
+  "selected_nodes": [
+    {
+      "unique_id": "7b20526a-9d5b-4f0d-870c-da1eaec2af81",
+      "score": 0.8689456077791295,
+      "pagerank": 1.0861820097239119,
+      "section_title": "3 OUR APPROACH",
+      "context": "The NRE provides us with a framework to learn to identify, inpaint or outpaint the correspondent of  $\\mathbf{p}_{\\mathrm{S}}$  in  $\\mathsf{I}_{\\mathsf{T}}$  in a unified manner since Eq. (1) is differentiable w.r.t.  $C_{\\mathrm{T}}$  and there is no assumption regarding可视ibility. The main difficulty to overcome is the definition of a network architecture able to output a consistent  $C_{\\mathrm{T}}$  being given only  $\\mathbf{p}_{\\mathrm{S}}$ ,  $\\mathsf{I}_{\\mathsf{S}}$  and  $\\mathsf{I}_{\\mathsf{T}}$  as inputs, i.e. the network must figure out whether the correspondent of  $\\mathbf{p}_{\\mathrm{S}}$  in  $\\mathsf{I}_{\\mathsf{T}}$  can be identified or has to be inpainted or outpainted."
+    },
+    {
+      "unique_id": "3cb2e929-3955-4dd1-be25-ccf780791388",
+      "score": 0.6144437764413587,
+      "pagerank": 0.8004547205516983,
+      "section_title": "4 EXPERIMENTS",
+      "context": "In Fig. 7, we compare the results of NeurHal against state-of-the-art local feature matching methods. In low-overlap settings, very few keypoints' correspondents can be identified and many keypoints' correspondents have to be outpainted. In this case, we find that NeurHal is able to estimate the camera pose correctly significantly more often than any other method, since NeurHal is the only method able to outpaint correspondences (see Fig. 4). For high-overlap image pairs, the ability to hallucinate is not useful since many keypoints' correspondents can be identified. In this case, we find that state-of-the-art local feature matching methods to be slightly better than NeurHal. This is likely due to the fact that NeurHal outputs low resolution correspondences maps while the other methods output high resolution correspondences. The overall performance shows that NeurHal significantly outperforms all the competitors, which allows us to conclude that the ability of NeurHal to outpaint correspondences is beneficial for absolute pose estimation. Technical details concerning the previous experiment as well as additional experiments concerning the application to absolute camera pose estimation are provided in Sec. B)."
+    },
+    {
+      "unique_id": "8193d122-a316-4855-860f-6982fded30cd",
+      "score": 0.4287348165037732,
+      "pagerank": 0.6259185206297164,
+      "section_title": "4 EXPERIMENTS",
+      "context": "In Fig. 4, we compare the hallucination performances of NeurHal against state-of-the-art local feature matching methods. Since all these local feature matching methods were designed and trained on pairs of images with significant overlap to perform only identification, they obtain poor inpainting results. Concerning the outpainting task, these methods seek to find a correspondent within the image boundaries, consequently they cannot outpaint correspondences and obtain very poor results. In Fig. 5 we show several qualitative inpainting/outpainting results on ScanNet and MegaDepth datasets. In the appendix, we also report qualitative results obtained on the NYU Depth dataset (Fig. 15) and on the ETH-3D dataset (Fig. 14). These results allow us to conclude that NeurHal is able to hallucinate correspondences with a strong generalization capacity. Additional experiments concerning the ability to hallucinate correspondences are provided in Sec. A as well as technical details regarding the evaluation protocol in Sec. C.3."
+    },
+    {
+      "unique_id": "c6a112bc-4649-48ce-861d-1d8d4f250643",
+      "score": 0.3166872815407182,
+      "pagerank": 0.4498591019258976,
+      "section_title": "1 INTRODUCTION",
+      "context": "Contributions. In this paper we tackle the problem of correspondence hallucination. In doing so we seek to answer two questions:  $(i)$  can we derive a network architecture able to learn to hallucinate correspondences? and  $(ii)$  is correspondence hallucination beneficial for absolute pose estimation? The answer to these questions is the main novelty of this paper. More precisely, we consider a network that takes as input a pair of partially overlapping source/target images and keypoints in the source image, and outputs for each keypoint a probability distribution over its correspondent's location in the target image plane. We propose to train this network to both identify and hallucinate the keypoints' correspondents. We call the resulting method NeurHal, for Neural Hallucinations. To the best of our knowledge, learning to hallucinate correspondences is a virgin territory, thus we first provide an analysis of the specific features of that novel learning task. This analysis guides us towards employing an appropriate loss function and designing the architecture of the network. After training the network, we experimentally demonstrate that it is indeed able to hallucinate correspondences on unseen pairs of images captured in novel scenes. We also apply this network to a camera pose estimation problem and find it is significantly more robust than state-of-the-art local feature matching-based competitors."
+    },
+    {
+      "unique_id": "cd1e3cca-f992-4573-883c-a447a9c93739",
+      "score": 0.2878872815407182,
+      "pagerank": 0.4498591019258976,
+      "section_title": "3 OUR APPROACH",
+      "context": "The analysis from Sec. 3.1 and the use of the NRE as a loss (Sec. 3.2) call for: - a non-siamese architecture to be able to link the information from  $\\mathsf{I}_{\\mathbb{S}}$  with the information from  $\\mathsf{I}_{\\mathbb{T}}$ to outpaint or inpaint the correspondent if needed; - an architecture that outputs a matching score for all the possible locations in  $\\mathsf{I}_{\\mathrm{T}}$  as well as locations beyond the field of view of  $\\mathsf{I}_{\\mathrm{T}}$  as the network could decide to identify, inpaint or outpaint a correspondent at these locations."
+    },
+    {
+      "unique_id": "c67233c1-311f-425d-a8da-4b8807b31a01",
+      "score": 0.15988728154071818,
+      "pagerank": 0.4498591019258976,
+      "section_title": "1 INTRODUCTION",
+      "context": "Establishing correspondences between two partially overlapping images is a fundamental computer vision problem with many applications. For example, state-of-the-art methods for visual localization from an input image rely on keypoint matches between the input image and a reference image (Sattler et al., 2018; Sarlin et al., 2019; 2020; Revaud et al., 2019). However, these local feature matching methods will still fail when few keypoints are covisible, i.e. when many image locations in one image are outside the field of view or become occluded in the second image. These failures are to be expected since these methods are pure pattern recognition approaches that seek to identify correspondences, i.e. to find correspondences in covisible regions, and consider the non-covisible regions as noise. By contrast, humans explain the presence of these non-covisible regions through geometric reasoning and consequently are able to hallucinate (i.e. predict) correspondences at those locations. Geometric reasoning has already been used in computer vision for image matching, but usually as an a posteriori processing (Fischler & Bolles, 1981; Luong & Faugeras, 1996; Barath & Matas, 2018; Chum et al., 2003; 2005; Barath et al., 2019; 2020). These methods seek to remove outliers from the set of correspondences produced by a local feature matching approach using only limited geometric models such as epipolar geometry or planar assumptions."
+    },
+    {
+      "unique_id": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 3.5745716217508416,
+      "pagerank": 4.558214527188552,
+      "section_title": "8 REPRODUCIBILITY",
+      "context": "We provide the NeurHal model architecture and weights in the supplementary material. We also release a simple evaluation script that generates qualitative results, and show in a notebook the results obtained on an image pair captured indoors using a smartphone."
+    },
+    {
+      "unique_id": "3d9cecf7-cd85-4089-b5bf-643804bc0ef8",
+      "score": 1.5134765547848328,
+      "pagerank": 1.981845693481041,
+      "section_title": "ABSTRACT",
+      "context": "Given a pair of partially overlapping source and target images and a keypoint in the source image, the keypoint's correspondent in the target image can be either visible, occluded or outside the field of view. Local feature matching methods are only able to identify the correspondent's location when it is visible, while humans can also hallucinate (i.e. predict) its location when it is occluded or outside the field of view through geometric reasoning. In this paper, we bridge this gap by training a network to output a peaked probability distribution over the correspondent's location, regardless of this correspondent being visible, occluded, or outside the field of view. We experimentally demonstrate that this network is indeed able to hallucinate correspondences on pairs of images captured in scenes that were not seen at training-time. We also apply this network to an absolute camera pose estimation problem and find it is significantly more robust than state-of-the-art local feature matching-based competitors."
+    },
+    {
+      "unique_id": "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf",
+      "score": 1.1495156469296777,
+      "pagerank": 1.526894558662097,
+      "section_title": "6 CONCLUSION",
+      "context": "To the best of our knowledge, this paper is the first attempt to learn to inpaint and outpaint correspondences. We proposed an analysis of this novel learning task, which has guided us towards employing an appropriate loss function and designing the architecture of our network. We experimentally demonstrated that our network is indeed able to inpaint and outpaint correspondences on pairs of images captured in scenes that were not seen at training-time, in both indoor (ScanNet) and outdoor (Megadepth) settings. We also tested our network on other datasets (ETH3D and NYU) and discovered that our model has strong generalization ability. We then tried to experimentally illustrate that hallucinating correspondences is not just a fundamental AI problem but is also interesting from a practical point of view. We applied our network to an absolute camera pose estimation problem and found that hallucinating correspondences, especially outpainting correspondences, allowed to significantly outperform the state-of-the-art feature matching methods in terms of robustness of the resulting pose estimate. Beyond this absolute pose estimation application, this work points to new research directions such as integrating correspondence hallucination into Structure-from-Motion pipelines to make them more robust when few images are available."
+    },
+    {
+      "unique_id": "585a7072-33b1-4db8-ba34-6f76716a6a64",
+      "score": 0.8707440275809976,
+      "pagerank": 1.1784300344762468,
+      "section_title": "5 LIMITATIONS",
+      "context": "We identified the following limitations for our approach:  $(i)$  - The previous experiments showed that NeurHal is able to inpaint correspondences but the inpainted correspondence maps are much less peaked compared to the outpainted correspondence maps. This is likely due to the fact that inpainting correspondences is much more difficult than outpainting correspondences (see Sec 3.1).  $(ii)$  - The proposed architecture outputs low resolution correspondence maps (see Sec. 3.3), e.g.  $160\\times 120$  for input images of size  $640\\times 480$  and an amount of padding  $\\gamma = 50\\%$ . This is essentially due to the quadratic complexity of attention layers we use (see Sec. C.1 of the appendix).  $(iii)$  - Our approach is able to outpaint correspondences but our correspondence maps have a finite size. Thus, in the case where a keypoint's correspondent falls outside the correspondence map, the resulting correspondence map would be erroneous. We believe these three limitations are interesting future research directions. (a)  $\\tau_{t} = 1.5m,\\tau_{r} = 20^{\\circ}$"
+    },
+    {
+      "unique_id": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "score": 0.3945496959036464,
+      "pagerank": 0.643187119879558,
+      "section_title": "4 EXPERIMENTS",
+      "context": "In these experiments, we seek to answer two questions: 1) \"Is the proposed NeurHal approach presented in Sec. 3 capable of hallucinating correspondences?\" and 2) \"In the context of absolute camera pose estimation, does the ability to hallucinate correspondences bring further robustness?\"."
+    },
+    {
+      "unique_id": "e70b2f37-11e3-4dcb-97d6-923d65bc13e8",
+      "score": 0.2878872815407182,
+      "pagerank": 0.4498591019258976,
+      "section_title": "7 ETHICS STATEMENT",
+      "context": "The method described in this paper has the potential to greatly improve many computer vision-based industrial applications, especially those involving visual localization in GPS-denied or cluttered environments. For example robotics or augmented reality applications could benefit from our algorithm to better relocalize within their surroundings, which could lead to more reliable and overall safer behaviours. If this was to be applied to autonomous driving or drone-based search and rescue, one could appreciate the positive societal impact of our method. On the other hand like many computer vision algorithms, it could be applied to improve robustness of malicious devices such as weaponized UAVs, or invade citizens privacy through environment re-identification. Thankfully as AI technology advances, discussions and regulations are brought forward by governments and public entities. These ethical debates pave the way for a brighter future and can only make us think NeurHal will more bring benefits than harms to society."
+    },
+    {
+      "unique_id": "c27f99b5-9c80-4950-a09c-1414bdb76a2e",
+      "score": 0.2878872815407182,
+      "pagerank": 0.4498591019258976,
+      "section_title": "3 OUR APPROACH",
+      "context": "Identifying the correspondent. In the case where a network has to establish a correspondence between a keypoint  $\\mathbf{p}_{\\mathrm{S}}$  in  $\\mathbb{I}_S$  and its visible correspondent  $\\mathbf{p}_{\\mathrm{T}}$  in  $\\mathbb{I}_{\\mathrm{T}}$ , standard approaches, such as comparing a local descriptor computed at  $\\mathbf{p}_S$  in  $\\mathbb{I}_{\\mathbb{S}}$  with local descriptors computed at detected keypoints in  $\\mathbb{I}_{\\mathbb{T}}$ , are applicable to identify the correspondent  $\\mathbf{p}_{\\mathrm{T}}$ ."
+    },
+    {
+      "unique_id": "a70cd16b-aa6a-4c5f-8d46-f62fd2b0f7e2",
+      "score": 0.23988728154071817,
+      "pagerank": 0.4498591019258976,
+      "section_title": "3 OUR APPROACH",
+      "context": "Our goal is to train a network that takes as input a pair of partially overlapping source/target images and keypoints in the source image, and outputs for each keypoint a probability distribution over its correspondent's location in the target image plane, regardless of this correspondent being visible, occluded, or outside the field of view. While the problem of learning to find the location of a visible correspondent received a lot of attention in the past few years (see Sec. 2), to the best of our knowledge, this paper is the first attempt of learning to find the location of a correspondent regardless of this correspondent being visible, occluded, or outside the field of view. Since this learning task is virgin territory, we first analyze its specific features below, before defining a loss function and a network architecture able to handle these features."
+    },
+    {
+      "unique_id": "47670cd2-acee-47f9-b0fd-dbef73bad745",
+      "score": 0.15988728154071818,
+      "pagerank": 0.4498591019258976,
+      "section_title": "3 OUR APPROACH",
+      "context": "An overview of our architecture, that we call NeurHal, is presented in Fig. 2. In practice, in order to keep the required amount of memory and the computational time reasonably low, the correspondence maps  $\\{\\mathsf{C}_{\\mathrm{T},n}\\}_{n = 1\\dots N}$  have a low resolution, i.e. for a target image of size  $640\\times$ 480, we use a CNN with an effective stride of  $s = 8$  and consequently the resulting correspondence maps (with  $\\gamma = 50\\%$ ) are of size  $160 \\times 120$ . Producing low resolution correspondence maps prevents NeurHal from predicting accurate correspondences. But as we show in the experiments, this low resolution is sufficient to hallucinate correspondences and have an affirmative answer to both questions: (i) can we derive a network architecture able to learn to hallucinate correspondences? and (ii) is correspondence hallucination beneficial for absolute pose estimation? Thus, we leave the question of the accuracy of hallucinated correspondences for future research. Additional details concerning the architecture are provided in Sec. C.1 of the appendix."
+    }
+  ]
+}

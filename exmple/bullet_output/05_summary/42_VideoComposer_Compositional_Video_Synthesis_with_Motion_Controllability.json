@@ -1,0 +1,64 @@
+{
+  "paper_id": "42_VideoComposer_Compositional_Video_Synthesis_with_Motion_Controllability",
+  "content": {
+    "1_Introduction": [
+      "Propose VideoComposer for spatiotemporal controllable video synthesis",
+      "Decompose videos into text, spatial, and temporal conditions",
+      "Train a latent diffusion model to recompose conditioned videos",
+      "Introduce video-specific motion vectors for direct dynamic control",
+      "Present STC-encoder with cross-frame attention for temporal consistency",
+      "Enable flexible multi-condition composition and hand-crafted motion control",
+      "TITLE: Introduction"
+    ],
+    "2_Related_work": [
+      "Shift from GANs/VAEs/flows to diffusion for stability, quality, flexibility",
+      "Text-to-image via pixel-space diffusion; guided by CLIP or classifier-free",
+      "Imagen uses large language models to boost fidelity",
+      "LDMs compress with autoencoder for efficient diffusion",
+      "Editing: manipulate cross-attention, embeddings, or masks for text-driven edits",
+      "ControlNet, T2I-Adapter, Composer expand control; video effectiveness remains unproven",
+      "TITLE: Related Work"
+    ],
+    "3_VideoComposer": [
+      "Introduce VideoComposer for controllable, highly customized video synthesis",
+      "STC encoder: 2D convs + temporal Transformer unify spatiotemporal conditions",
+      "Leverage four temporal conditions: motion vectors, depth, masks, sketches",
+      "Align, fuse conditions; concatenate with latents; cross-attend text and style",
+      "Optimize with two-stage training: text-to-video pretrain, compositional finetune",
+      "Apply DDIM sampling with classifier-free guidance between condition sets",
+      "TITLE: VideoComposer"
+    ],
+    "4_Experiments": [
+      "Demonstrates compositional control: image-to-video, inpainting, sketch-to-video.",
+      "Combines depth, sketches, masks, style to strengthen structural control.",
+      "Outperforms Text2Video-Zero and Gen-1 in controllability and appearance consistency.",
+      "Employs motion vectors for flexible, precise, user-guided motion control.",
+      "STC-encoder boosts motion controllability and frame consistency across conditions.",
+      "Quantitative gains: reduced motion error; metrics include CLIP and EPE.",
+      "TITLE: Experiments"
+    ],
+    "5_Conclusion": [
+      "Introduce VideoComposer for compositional, controllable video synthesis",
+      "Leverage temporal conditions, especially motion vectors, as control signals",
+      "Design STC-encoder unifying spatial-temporal aggregation for inter-frame consistency",
+      "Combine multiple conditions to boost controllability in experiments",
+      "Demonstrate strong creativity and validate design choices empirically",
+      "TITLE: Conclusion"
+    ],
+    "Abstract": [
+      "Introduces VideoComposer for flexible compositional video control",
+      "Enables text, spatial, and temporal conditioning in one framework",
+      "Uses compressed-video motion vectors as explicit temporal control signals",
+      "Proposes STC-encoder unifying spatio-temporal relations, boosting inter-frame consistency",
+      "Supports diverse inputs: text, sketches, reference video, hand-crafted motions",
+      "Releases code and models at videocomposer.github.io",
+      "TITLE: Abstract"
+    ]
+  },
+  "token_usage": {
+    "input_text": 3684,
+    "input_image": 2672,
+    "input_total": 6356,
+    "output": 8667
+  }
+}

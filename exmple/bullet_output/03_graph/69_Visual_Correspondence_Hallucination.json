@@ -1,0 +1,750 @@
+{
+  "edges": [
+    {
+      "source": "c6a112bc-4649-48ce-861d-1d8d4f250643",
+      "target": "3d9cecf7-cd85-4089-b5bf-643804bc0ef8",
+      "score": 0.6726
+    },
+    {
+      "source": "c6a112bc-4649-48ce-861d-1d8d4f250643",
+      "target": "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf",
+      "score": 0.5686
+    },
+    {
+      "source": "c6a112bc-4649-48ce-861d-1d8d4f250643",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.6211
+    },
+    {
+      "source": "47670cd2-acee-47f9-b0fd-dbef73bad745",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.6207
+    },
+    {
+      "source": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.6459
+    },
+    {
+      "source": "198eec34-836b-4650-935d-e4dae7fecbab",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.6348
+    },
+    {
+      "source": "8193d122-a316-4855-860f-6982fded30cd",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.6615
+    },
+    {
+      "source": "3cb2e929-3955-4dd1-be25-ccf780791388",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.6411
+    },
+    {
+      "source": "585a7072-33b1-4db8-ba34-6f76716a6a64",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.527
+    },
+    {
+      "source": "8193d122-a316-4855-860f-6982fded30cd",
+      "target": "3cb2e929-3955-4dd1-be25-ccf780791388",
+      "score": 0.4932
+    },
+    {
+      "source": "e70b2f37-11e3-4dcb-97d6-923d65bc13e8",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.4874
+    },
+    {
+      "source": "47670cd2-acee-47f9-b0fd-dbef73bad745",
+      "target": "585a7072-33b1-4db8-ba34-6f76716a6a64",
+      "score": 0.4693
+    },
+    {
+      "source": "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf",
+      "target": "3d9cecf7-cd85-4089-b5bf-643804bc0ef8",
+      "score": 0.4606
+    },
+    {
+      "source": "3d9cecf7-cd85-4089-b5bf-643804bc0ef8",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.4449
+    },
+    {
+      "source": "a70cd16b-aa6a-4c5f-8d46-f62fd2b0f7e2",
+      "target": "3d9cecf7-cd85-4089-b5bf-643804bc0ef8",
+      "score": 0.4366
+    },
+    {
+      "source": "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf",
+      "target": "5fd35c28-0f9f-4926-95ae-dc189ec2dced",
+      "score": 0.4303
+    },
+    {
+      "source": "c6a112bc-4649-48ce-861d-1d8d4f250643",
+      "target": "3cb2e929-3955-4dd1-be25-ccf780791388",
+      "score": 0.4275
+    },
+    {
+      "source": "8193d122-a316-4855-860f-6982fded30cd",
+      "target": "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf",
+      "score": 0.4106
+    },
+    {
+      "source": "47670cd2-acee-47f9-b0fd-dbef73bad745",
+      "target": "3cb2e929-3955-4dd1-be25-ccf780791388",
+      "score": 0.407
+    },
+    {
+      "source": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "target": "8193d122-a316-4855-860f-6982fded30cd",
+      "score": 0.3971
+    },
+    {
+      "source": "3d9cecf7-cd85-4089-b5bf-643804bc0ef8",
+      "target": "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf",
+      "score": 0.3949
+    },
+    {
+      "source": "c6a112bc-4649-48ce-861d-1d8d4f250643",
+      "target": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "score": 0.3836
+    },
+    {
+      "source": "8193d122-a316-4855-860f-6982fded30cd",
+      "target": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "score": 0.3814
+    },
+    {
+      "source": "3cb2e929-3955-4dd1-be25-ccf780791388",
+      "target": "585a7072-33b1-4db8-ba34-6f76716a6a64",
+      "score": 0.3791
+    },
+    {
+      "source": "8193d122-a316-4855-860f-6982fded30cd",
+      "target": "585a7072-33b1-4db8-ba34-6f76716a6a64",
+      "score": 0.3771
+    },
+    {
+      "source": "cd1e3cca-f992-4573-883c-a447a9c93739",
+      "target": "7b20526a-9d5b-4f0d-870c-da1eaec2af81",
+      "score": 0.3755
+    },
+    {
+      "source": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "target": "3cb2e929-3955-4dd1-be25-ccf780791388",
+      "score": 0.3754
+    },
+    {
+      "source": "c27f99b5-9c80-4950-a09c-1414bdb76a2e",
+      "target": "7b20526a-9d5b-4f0d-870c-da1eaec2af81",
+      "score": 0.375
+    },
+    {
+      "source": "c67233c1-311f-425d-a8da-4b8807b31a01",
+      "target": "3d9cecf7-cd85-4089-b5bf-643804bc0ef8",
+      "score": 0.3614
+    },
+    {
+      "source": "47670cd2-acee-47f9-b0fd-dbef73bad745",
+      "target": "7b20526a-9d5b-4f0d-870c-da1eaec2af81",
+      "score": 0.3597
+    },
+    {
+      "source": "47670cd2-acee-47f9-b0fd-dbef73bad745",
+      "target": "8193d122-a316-4855-860f-6982fded30cd",
+      "score": 0.3591
+    },
+    {
+      "source": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "target": "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf",
+      "score": 0.3556
+    },
+    {
+      "source": "198eec34-836b-4650-935d-e4dae7fecbab",
+      "target": "585a7072-33b1-4db8-ba34-6f76716a6a64",
+      "score": 0.3546
+    },
+    {
+      "source": "47670cd2-acee-47f9-b0fd-dbef73bad745",
+      "target": "d981a9bd-6697-4a5e-af6f-28b08f021ee2",
+      "score": 0.3421
+    },
+    {
+      "source": "cd1e3cca-f992-4573-883c-a447a9c93739",
+      "target": "585a7072-33b1-4db8-ba34-6f76716a6a64",
+      "score": 0.3418
+    }
+  ],
+  "id_map": {
+    "3d9cecf7-cd85-4089-b5bf-643804bc0ef8": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "099546b8-a931-40ac-8cbf-2c7c362f9095"
+      ],
+      "section_title": "ABSTRACT",
+      "group_content": [
+        {
+          "id": "91149a93-28dc-4872-8fb2-42a63bb3913a",
+          "text": "Given a pair of partially overlapping source and target images and a keypoint in the source image, the keypoint's correspondent in the target image can be either visible, occluded or outside the field of view. Local feature matching methods are only able to identify the correspondent's location when it is visible, while humans can also hallucinate (i.e. predict) its location when it is occluded or outside the field of view through geometric reasoning. In this paper, we bridge this gap by training a network to output a peaked probability distribution over the correspondent's location, regardless of this correspondent being visible, occluded, or outside the field of view. We experimentally demonstrate that this network is indeed able to hallucinate correspondences on pairs of images captured in scenes that were not seen at training-time. We also apply this network to an absolute camera pose estimation problem and find it is significantly more robust than state-of-the-art local feature matching-based competitors.",
+          "depth": 1,
+          "section_title": "ABSTRACT",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "099546b8-a931-40ac-8cbf-2c7c362f9095"
+          ]
+        }
+      ]
+    },
+    "c67233c1-311f-425d-a8da-4b8807b31a01": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "2ac09b82-0b7b-497a-92ec-e63280ea82ca"
+      ],
+      "section_title": "1 INTRODUCTION",
+      "group_content": [
+        {
+          "id": "02227aa2-c169-453e-b2c1-a899c2ef1e54",
+          "text": "Establishing correspondences between two partially overlapping images is a fundamental computer vision problem with many applications. For example, state-of-the-art methods for visual localization from an input image rely on keypoint matches between the input image and a reference image (Sattler et al., 2018; Sarlin et al., 2019; 2020; Revaud et al., 2019). However, these local feature matching methods will still fail when few keypoints are covisible, i.e. when many image locations in one image are outside the field of view or become occluded in the second image. These failures are to be expected since these methods are pure pattern recognition approaches that seek to identify correspondences, i.e. to find correspondences in covisible regions, and consider the non-covisible regions as noise. By contrast, humans explain the presence of these non-covisible regions through geometric reasoning and consequently are able to hallucinate (i.e. predict) correspondences at those locations. Geometric reasoning has already been used in computer vision for image matching, but usually as an a posteriori processing (Fischler & Bolles, 1981; Luong & Faugeras, 1996; Barath & Matas, 2018; Chum et al., 2003; 2005; Barath et al., 2019; 2020). These methods seek to remove outliers from the set of correspondences produced by a local feature matching approach using only limited geometric models such as epipolar geometry or planar assumptions.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "2ac09b82-0b7b-497a-92ec-e63280ea82ca"
+          ]
+        }
+      ]
+    },
+    "c6a112bc-4649-48ce-861d-1d8d4f250643": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "2ac09b82-0b7b-497a-92ec-e63280ea82ca"
+      ],
+      "section_title": "1 INTRODUCTION",
+      "group_content": [
+        {
+          "id": "78e51188-17f1-424e-af17-de13d75edb31",
+          "text": "Contributions. In this paper we tackle the problem of correspondence hallucination. In doing so we seek to answer two questions:  $(i)$  can we derive a network architecture able to learn to hallucinate correspondences? and  $(ii)$  is correspondence hallucination beneficial for absolute pose estimation? The answer to these questions is the main novelty of this paper. More precisely, we consider a network that takes as input a pair of partially overlapping source/target images and keypoints in the source image, and outputs for each keypoint a probability distribution over its correspondent's location in the target image plane. We propose to train this network to both identify and hallucinate the keypoints' correspondents. We call the resulting method NeurHal, for Neural Hallucinations. To the best of our knowledge, learning to hallucinate correspondences is a virgin territory, thus we first provide an analysis of the specific features of that novel learning task. This analysis guides us towards employing an appropriate loss function and designing the architecture of the network. After training the network, we experimentally demonstrate that it is indeed able to hallucinate correspondences on unseen pairs of images captured in novel scenes. We also apply this network to a camera pose estimation problem and find it is significantly more robust than state-of-the-art local feature matching-based competitors.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "2ac09b82-0b7b-497a-92ec-e63280ea82ca"
+          ]
+        },
+        {
+          "id": "0161645a-4504-41af-be82-36abde635c21",
+          "text": "Figure 1: Visual correspondence hallucination. Our network, called NeurHal, takes as input a pair of partially overlapping source and target images and a set of keypoints detected in the source image, and outputs for each keypoint a probability distribution over its correspondent's location in the target image. When the correspondent is actually visible, its location can be identified; when it is not, its location must be hallucinated. Two types of hallucination tasks can be distinguished: 1) if the correspondent is occluded, its location has to be inpainted; 2) if it is outside the field of view of the target image, its location needs to be outpainted. NeurHal generalizes to scenes not seen during training: For each of these three pairs of source/target images coming from the test scenes of ScanNet (Dai et al., 2017) and MegaDepth (Li & Snavely, 2018), we show (top row) the source image with a small subset of keypoints, and (bottom row) the target image with the probability distributions predicted by our network and the ground truth correspondents:  $\\circ$  for the identified correspondents,  $+$  for the inpainted ones, and  $\\times$  for the outpainted correspondents.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "2ac09b82-0b7b-497a-92ec-e63280ea82ca"
+          ]
+        }
+      ]
+    },
+    "344f2012-cceb-42b8-8875-8beca7f0c426": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "7d49913a-5bd8-4003-8afe-de054943e2da"
+      ],
+      "section_title": "2 RELATED WORK",
+      "group_content": [
+        {
+          "id": "b5f73571-0244-49d8-9d40-a7efbae5d834",
+          "text": "To the best of our knowledge, aiming at hallucinating visual correspondences has never been done but the related fields of local feature description and matching are immensely vast, and we focus here only on recent learning-based approaches. Learning-based local feature description. Using deep neural networks to learn to compute local feature descriptors have shown to bring significant improvements in invariance to viewpoint and illumination changes compared to handcrafted methods (Csurka & Humenberger, 2018; Gauglitz et al., 2011; Salahat & Qasaimeh, 2017; Balntas et al., 2017). Most methods learn descriptors locally around pre-computed covisible interest regions in both images (Yi et al., 2016; Detone et al., 2018; Balntas et al., 2016a; Luo et al., 2019), using convolutional-based siamese architectures trained with a contrastive loss (Gordo et al., 2016; Schroff et al., 2015; Balntas et al., 2016b; Radenović et al., 2016; Mishchuk et al., 2017; Simonyan et al., 2014), or using pose (??) or self (?) supervision. To further improve the performances, (Dusmanu et al., 2019; Revaud et al., 2019) propose to jointly learn to detect and describe keypoints in both images, while Germain et al. (2020) only detects in one image and densely matches descriptors in the other.",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7d49913a-5bd8-4003-8afe-de054943e2da"
+          ]
+        }
+      ]
+    },
+    "21f7f1dc-980f-4096-9062-d66555845295": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "7d49913a-5bd8-4003-8afe-de054943e2da"
+      ],
+      "section_title": "2 RELATED WORK",
+      "group_content": [
+        {
+          "id": "ea4e64a5-12e7-4022-b898-9c607757b206",
+          "text": "Learning-based local feature matching. All the methods described in the previous paragraph establish correspondences by comparing descriptors using a simple operation such as a dot product. Thus the combination of such a simple matching method with a siamese architecture inevitably produces outlier correspondences, especially in non-covisible regions. To reduce the amount of outliers, most approaches employ so-called Mutual Nearest Neighbor (MNN) filtering. However, it is possible to go beyond a simple MNN and learn to match descriptors. Learning-based matching methods (Zhang et al., 2019; Brachmann & Rother, 2019; Moo Yi et al., 2018; Sun et al., 2020; Choy et al., 2020; 2016) take as input local descriptors and/or putative correspondences, and learn to output correspondences probabilities. However, all these matching methods focus only on predicting correctly covisible correspondences.",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7d49913a-5bd8-4003-8afe-de054943e2da"
+          ]
+        },
+        {
+          "id": "107e0128-b4eb-4c4f-a77e-5fceed3c8ed8",
+          "text": "Jointly learning local feature description and matching. Several methods have recently proposed to jointly learn to compute and match descriptors (Sarlin et al., 2020; Sun et al., 2021; Li et al., 2020; Rocco et al., 2018; 2020). All these methods use a siamese Convolutional Neural Network (CNN) to obtain dense local descriptors, but they significantly differ regarding the way they establish matches. They actually fall into two categories. The first category of methods (Li et al., 2020; Rocco et al., 2018; 2020) computes a 4D correlation tensor that essentially represents the scores of all the possible correspondences. This 4D correlation tensor is then used as input to a second network that learns to modify it using soft-MNN and 4D convolutions. Instead of summarizing all the information into a 4D correlation tensor, the second category of methods (Sarlin et al., 2020; Sun et al., 2021) rely on Transformers (Vaswani et al., 2017; Dosovitskiy et al., 2020; Ramachandran et al., 2019; Caron et al., 2021; Cordonnier et al., 2020; Zhao et al., 2020; Katharopoulos et al., 2020) to let the descriptors of both images communicate and adapt to each other. All these methods again focus on identifying correctly covisible correspondences and consider non-covisible correspondences as noise. While our architecture is closely related to the second category of methods as we also rely on Transformers, the motivation for using it is quite different since it is our goal of hallucinating correspondences that calls for a non-siamese architecture (see Sec.3).",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7d49913a-5bd8-4003-8afe-de054943e2da"
+          ]
+        }
+      ]
+    },
+    "fd3f294f-dfcb-4ec1-94ad-fe0d4ad877d3": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "7d49913a-5bd8-4003-8afe-de054943e2da"
+      ],
+      "section_title": "2 RELATED WORK",
+      "group_content": [
+        {
+          "id": "3d3d6738-b0a2-4667-8258-b52f7c77ced5",
+          "text": "Visual content hallucination. (Yang et al., 2019) proposes to hallucinate the content of RGB-D scans to perform relative pose estimation between two images. More recently (Chen et al., 2021) regresses distributions over relative camera poses for spherical images using joint processing of both images. The work of (Yang et al., 2020; Qian et al., 2020; Jin et al., 2021) shows that employing a hallucinate-then-match paradigm can be a reliable way of recovering 3D geometry or relative pose from sparsely sampled images. In this work, we focus on the problem of correspondence hallucination which unlike previously mentioned approaches does not aim at recovering explicit visual content or directly regressing a camera pose. Perhaps closest to our goal is Cai et al. (2021) that seeks to estimate a relative rotation between two non-overlapping images by learning to reason about \"hidden\" cues such as direction of shadows in outdoor scenes, parallel lines or vanishing points.",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7d49913a-5bd8-4003-8afe-de054943e2da"
+          ]
+        }
+      ]
+    },
+    "a70cd16b-aa6a-4c5f-8d46-f62fd2b0f7e2": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "b9d28117-fe42-4cea-9acb-222c1a1f4724"
+      ],
+      "section_title": "3 OUR APPROACH",
+      "group_content": [
+        {
+          "id": "143960bb-db49-4954-913b-dfa759d29663",
+          "text": "Our goal is to train a network that takes as input a pair of partially overlapping source/target images and keypoints in the source image, and outputs for each keypoint a probability distribution over its correspondent's location in the target image plane, regardless of this correspondent being visible, occluded, or outside the field of view. While the problem of learning to find the location of a visible correspondent received a lot of attention in the past few years (see Sec. 2), to the best of our knowledge, this paper is the first attempt of learning to find the location of a correspondent regardless of this correspondent being visible, occluded, or outside the field of view. Since this learning task is virgin territory, we first analyze its specific features below, before defining a loss function and a network architecture able to handle these features.",
+          "depth": 1,
+          "section_title": "3 OUR APPROACH",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724"
+          ]
+        },
+        {
+          "id": "f3bac9b8-cdb2-4e71-9d5f-a1ccb6cd33fe",
+          "text": "The task of finding the location of a correspondent regardless of this correspondent being visible, occluded, or outside the field of view actually leads to three different problems. Before stating those three problems, let us first recall the notion of correspondent as it is the keystone of our problem. Correspondent. Given a keypoint  $\\mathbf{p}_{\\mathrm{S}} \\in \\mathbb{R}^2$  in the source image  $\\mathbf{I}_{\\mathrm{S}}$ , its depth  $d_{\\mathrm{S}} \\in \\mathbb{R}^{+}$ , and the relative camera pose  $\\mathsf{R}_{\\mathrm{TS}} \\in \\mathrm{SO}(3)$ ,  $\\mathbf{t}_{\\mathrm{TS}} \\in \\mathbb{R}^3$  between the coordinate systems of  $\\mathbf{I}_{\\mathrm{S}}$  and the target image  $\\mathsf{I}_{\\mathrm{T}}$ , the correspondent  $\\mathbf{p}_{\\mathrm{T}} \\in \\mathbb{R}^2$  of  $\\mathbf{p}_{\\mathrm{S}}$  in the target image plane is obtained by warping  $\\mathbf{p}_{\\mathrm{S}}$ :  $\\mathbf{p}_{\\mathrm{T}} := \\omega(d_{\\mathrm{S}}, \\mathbf{p}_{\\mathrm{S}}, \\mathsf{R}_{\\mathrm{TS}}, \\mathbf{t}_{\\mathrm{TS}}) := \\mathsf{K}_{\\mathrm{T}} \\pi(d_{\\mathrm{S}} \\mathsf{R}_{\\mathrm{TS}} \\mathsf{K}_{\\mathrm{S}}^{-1} \\mathbf{p}_{\\mathrm{S}} + \\mathbf{t}_{\\mathrm{TS}})$ , where  $\\mathsf{K}_{\\mathrm{S}}$  and  $\\mathsf{K}_{\\mathrm{T}}$  are the camera calibration matrices of source and target images and  $\\pi(\\mathbf{u}) := [\\mathbf{u}_x / \\mathbf{u}_z, \\mathbf{u}_y / \\mathbf{u}_z, 1]^{\\mathrm{T}}$  is the projection function. In a slight abuse of notation, we do not distinguish a homogeneous 2D vector from a non-homogeneous 2D vector. Let us highlight that the correspondent  $\\mathbf{p}_{\\mathrm{T}}$  of  $\\mathbf{p}_{\\mathrm{S}}$  may not be visible, i.e. it may be occluded or outside the field of view.",
+          "depth": 2,
+          "section_title": "3.1 ANALYSIS OF THE PROBLEM",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "6182be81-25c5-49bf-b4d3-a367936369df"
+          ]
+        }
+      ]
+    },
+    "c27f99b5-9c80-4950-a09c-1414bdb76a2e": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+        "6182be81-25c5-49bf-b4d3-a367936369df"
+      ],
+      "section_title": "3 OUR APPROACH",
+      "group_content": [
+        {
+          "id": "a69e2253-faf2-4572-ba6a-48314d69f89d",
+          "text": "Identifying the correspondent. In the case where a network has to establish a correspondence between a keypoint  $\\mathbf{p}_{\\mathrm{S}}$  in  $\\mathbb{I}_S$  and its visible correspondent  $\\mathbf{p}_{\\mathrm{T}}$  in  $\\mathbb{I}_{\\mathrm{T}}$ , standard approaches, such as comparing a local descriptor computed at  $\\mathbf{p}_S$  in  $\\mathbb{I}_{\\mathbb{S}}$  with local descriptors computed at detected keypoints in  $\\mathbb{I}_{\\mathbb{T}}$ , are applicable to identify the correspondent  $\\mathbf{p}_{\\mathrm{T}}$ .",
+          "depth": 2,
+          "section_title": "3.1 ANALYSIS OF THE PROBLEM",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "6182be81-25c5-49bf-b4d3-a367936369df"
+          ]
+        },
+        {
+          "id": "203310f2-5651-4831-b60b-a433307adb78",
+          "text": "Outpainting the correspondent. When  $\\mathbf{p}_{\\mathrm{T}}$  is outside the field of view of  $\\mathbb{I}_{\\mathrm{T}}$ , there is nothing to identify, i.e. neither can  $\\mathbf{p}_{\\mathrm{T}}$  be detected as a keypoint nor can a local descriptor be computed at that location. Here the network first needs to identify correspondences in the region where  $\\mathbb{I}_{\\mathrm{T}}$  overlaps with  $\\mathbb{I}_{\\mathrm{S}}$  and realize that the correspondent  $\\mathbf{p}_{\\mathrm{T}}$  is outside the field of view to eventually outpaint it (see Fig. 1). We call this operation \"outpainting the correspondent\" as the network needs to predict the location of  $\\mathbf{p}_{\\mathrm{T}}$  outside the field of view of  $\\mathbb{I}_{\\mathrm{T}}$ .",
+          "depth": 2,
+          "section_title": "3.1 ANALYSIS OF THE PROBLEM",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "6182be81-25c5-49bf-b4d3-a367936369df"
+          ]
+        },
+        {
+          "id": "97394d29-6b84-4466-ba77-f895d4650580",
+          "text": "Inpainting the correspondent. When  $\\mathbf{p}_{\\mathrm{T}}$  is occluded in  $\\mathbb{I}_{\\mathrm{T}}$ , the problem is even more difficult since local features can be computed at that location but will not match the local descriptor computed at  $\\mathbf{p}_{\\mathrm{S}}$  in  $\\mathbb{I}_{\\mathrm{S}}$ . As in the outpainting case, the network needs to identify correspondences in the region where  $\\mathbb{I}_{\\mathrm{T}}$  overlaps with  $\\mathbb{I}_{\\mathrm{S}}$  and realize that the correspondent  $\\mathbf{p}_{\\mathrm{T}}$  is occluded to eventually inpaint the correspondent  $\\mathbf{p}_{\\mathrm{T}}$  (see Fig. 1). We call this operation \" inpainting the correspondent\" as the network needs to predict the location of  $\\mathbf{p}_{\\mathrm{T}}$  behind the occluding object. Let us now introduce a loss function and an architecture that are able to unify the identifying, inpainting and outpainting tasks.",
+          "depth": 2,
+          "section_title": "3.1 ANALYSIS OF THE PROBLEM",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "6182be81-25c5-49bf-b4d3-a367936369df"
+          ]
+        }
+      ]
+    },
+    "57594587-8379-4d4a-924b-33aa2a3ca461": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+        "f7f39cf2-1d12-410e-a43d-e233b02f78ad"
+      ],
+      "section_title": "3 OUR APPROACH",
+      "group_content": [
+        {
+          "id": "b2b41a4a-cffa-4c5e-9ae0-c42aaf13b3e0",
+          "text": "The distinction we made between the identifying, inpainting and outpainting tasks comes from the fact that the source image  $\\mathbf{I}_{\\mathrm{S}}$  and the target image  $\\mathbf{I}_{\\mathrm{T}}$  are the projections of the same 3D environment from two different camera poses. In order to integrate this idea and obtain a unified correspondence learning task, we rely on the Neural Reprojection Error (NRE) introduced by (Germain et al., 2021). In order to properly present the NRE, we first recall the notion of correspondence map.",
+          "depth": 2,
+          "section_title": "3.2 LOSS FUNCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "f7f39cf2-1d12-410e-a43d-e233b02f78ad"
+          ]
+        },
+        {
+          "id": "8992dc6b-7b42-43fd-82ac-b55c43dbf4ee",
+          "text": "Correspondence map. Given  $\\mathbf{I}_{\\mathrm{S}}$ ,  $\\mathbf{I}_{\\mathrm{T}}$  and a keypoint  $\\mathbf{p}_{\\mathrm{S}}$  in the image plane of  $\\mathbf{I}_{\\mathrm{S}}$ , the correspondence map  $\\mathsf{C}_{\\mathrm{T}}$  of  $\\mathbf{p}_{\\mathrm{S}}$  in the image plane of  $\\mathbf{I}_{\\mathrm{T}}$  is a 2D tensor of size  $H_{\\mathrm{C}} \\times W_{\\mathrm{C}}$  such that  $\\mathsf{C}_{\\mathrm{T}}(\\mathbf{p}_{\\mathrm{T}}) := p(\\mathbf{p}_{\\mathrm{T}}|\\mathbf{p}_{\\mathrm{S}}, \\mathbf{I}_{\\mathrm{S}}, \\mathbf{I}_{\\mathrm{T}})$  is the likelihood of  $\\mathbf{p}_{\\mathrm{T}}$  being the correspondent of  $\\mathbf{p}_{\\mathrm{S}}$ . The likelihood can only be evaluated for  $\\mathbf{p}_{\\mathrm{T}} \\in \\Omega_{\\mathsf{C}_{\\mathrm{T}}}$  where  $\\Omega_{\\mathsf{C}_{\\mathrm{T}}}$  is the set of all the pixel locations in  $\\mathsf{C}_{\\mathrm{T}}$ . Here, we implicitly defined that the likelihood of  $\\mathbf{p}_{\\mathrm{T}}$  falling outside the boundaries of  $\\mathsf{C}_{\\mathrm{T}}$  is zero. In practice, a correspondence map  $\\mathsf{C}_{\\mathrm{T}}$  is implemented as a neural network that takes as input  $\\mathbf{p}_{\\mathrm{S}}$ ,  $\\mathbf{I}_{\\mathrm{S}}$  and  $\\mathbf{I}_{\\mathrm{T}}$ , and outputs a softmaxed 2D tensor. A correspondence map  $\\mathsf{C}_{\\mathrm{T}}$  may not have the same number of lines and columns than  $\\mathbf{I}_{\\mathrm{T}}$  especially when the goal is to outpaint a correspondence. Thus, in the general case, to transform a 2D point from the image plane of  $\\mathbf{I}_{\\mathrm{T}}$  to the correspondence plane of  $\\mathsf{C}_{\\mathrm{T}}$ , we will need another affine transformation matrix  $\\mathsf{K}_{\\mathsf{C}}$ . Let us highlight that this likelihood is obtained using the visual content of  $\\mathbf{I}_{\\mathrm{S}}$  and  $\\mathbf{I}_{\\mathrm{T}}$  only.",
+          "depth": 2,
+          "section_title": "3.2 LOSS FUNCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "f7f39cf2-1d12-410e-a43d-e233b02f78ad"
+          ]
+        }
+      ]
+    },
+    "4b6d2aa4-77ca-4ccd-93d9-30918d41a96b": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+        "f7f39cf2-1d12-410e-a43d-e233b02f78ad"
+      ],
+      "section_title": "3 OUR APPROACH",
+      "group_content": [
+        {
+          "id": "02758d83-0397-4020-a7ac-f7d40eced6f2",
+          "text": "Neural Reprojection Error. The NRE (Germain et al., 2021) is a loss function that warps a keypoint  $\\mathbf{p}_{\\mathrm{s}}$  into the image plane of  $\\mathbf{I}_{\\mathrm{T}}$  and evaluates the negative log-likelihood at this location. In our context, the NRE can be written as: $$ \\operatorname {N R E} \\left(\\mathbf {p} _ {\\mathrm {S}}, \\mathrm {C} _ {\\mathrm {T}}, \\mathrm {R} _ {\\mathrm {T S}}, \\mathbf {t} _ {\\mathrm {T S}}, d _ {\\mathrm {S}}\\right) := - \\ln \\mathrm {C} _ {\\mathrm {T}} \\left(\\mathbf {x} _ {\\mathrm {T}}\\right) \\text {w h e r e} \\mathbf {x} _ {\\mathrm {T}} = \\mathrm {K} _ {\\mathrm {C}} \\omega \\left(d _ {\\mathrm {S}}, \\mathbf {p} _ {\\mathrm {S}}, \\mathrm {R} _ {\\mathrm {T S}}, \\mathbf {t} _ {\\mathrm {T S}}\\right). \\tag {1} $$ In general,  $\\mathbf{x}_{\\mathrm{T}}$  does not have integer coordinates and the notation  $\\ln C_{\\mathrm{T}}(\\mathbf{x}_{\\mathrm{T}})$  corresponds to performing a bilinear interpolation after the logarithm. For more details concerning the derivation of the NRE, the reader is referred to Germain et al. (2021).",
+          "depth": 2,
+          "section_title": "3.2 LOSS FUNCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "f7f39cf2-1d12-410e-a43d-e233b02f78ad"
+          ]
+        }
+      ]
+    },
+    "7b20526a-9d5b-4f0d-870c-da1eaec2af81": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+        "f7f39cf2-1d12-410e-a43d-e233b02f78ad"
+      ],
+      "section_title": "3 OUR APPROACH",
+      "group_content": [
+        {
+          "id": "4d80188d-7212-4650-8ad6-86075ab32ea5",
+          "text": "The NRE provides us with a framework to learn to identify, inpaint or outpaint the correspondent of  $\\mathbf{p}_{\\mathrm{S}}$  in  $\\mathsf{I}_{\\mathsf{T}}$  in a unified manner since Eq. (1) is differentiable w.r.t.  $C_{\\mathrm{T}}$  and there is no assumption regarding可视ibility. The main difficulty to overcome is the definition of a network architecture able to output a consistent  $C_{\\mathrm{T}}$  being given only  $\\mathbf{p}_{\\mathrm{S}}$ ,  $\\mathsf{I}_{\\mathsf{S}}$  and  $\\mathsf{I}_{\\mathsf{T}}$  as inputs, i.e. the network must figure out whether the correspondent of  $\\mathbf{p}_{\\mathrm{S}}$  in  $\\mathsf{I}_{\\mathsf{T}}$  can be identified or has to be inpainted or outpainted.",
+          "depth": 2,
+          "section_title": "3.2 LOSS FUNCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "f7f39cf2-1d12-410e-a43d-e233b02f78ad"
+          ]
+        }
+      ]
+    },
+    "cd1e3cca-f992-4573-883c-a447a9c93739": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+        "07de6924-74e2-44c0-931a-e4591222d394"
+      ],
+      "section_title": "3 OUR APPROACH",
+      "group_content": [
+        {
+          "id": "433876b0-1480-4ceb-bb02-179daa3e2af7",
+          "text": "The analysis from Sec. 3.1 and the use of the NRE as a loss (Sec. 3.2) call for: - a non-siamese architecture to be able to link the information from  $\\mathsf{I}_{\\mathbb{S}}$  with the information from  $\\mathsf{I}_{\\mathbb{T}}$ to outpaint or inpaint the correspondent if needed; - an architecture that outputs a matching score for all the possible locations in  $\\mathsf{I}_{\\mathrm{T}}$  as well as locations beyond the field of view of  $\\mathsf{I}_{\\mathrm{T}}$  as the network could decide to identify, inpaint or outpaint a correspondent at these locations.",
+          "depth": 2,
+          "section_title": "3.3 NETWORK ARCHITECTURE",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "07de6924-74e2-44c0-931a-e4591222d394"
+          ]
+        },
+        {
+          "id": "b76bedd3-230d-412d-953f-2cee0380c4f9",
+          "text": "To fulfill these requirements, we propose the following: Our network takes as input  $\\mathbf{I}_{\\mathrm{S}}$  and  $\\mathbf{I}_{\\mathrm{T}}$  as well as a set of keypoints  $\\{\\mathbf{p}_{\\mathrm{s},n}\\}_{n = 1\\dots N}$  in the source image plane of  $\\mathbf{I}_{\\mathrm{S}}$ . A siamese CNN backbone is applied to  $\\mathbf{I}_{\\mathrm{S}}$  and  $\\mathbf{I}_{\\mathrm{T}}$  to produce compact dense local descriptor maps  $\\mathbf{H}_{\\mathrm{S}}$  and  $\\mathbf{H}_{\\mathrm{T}}$ . In order to be able to outpaint correspondents in the target image plane, we pad  $\\mathbf{H}_{\\mathrm{T}}$  with a learnable fixed vector  $\\lambda$ . This padding step allows to initialize descriptors at locations outside the field of view of  $\\mathbf{I}_{\\mathrm{T}}$ . We note  $\\gamma$  the relative output-to-input correspondence map resolution ratio.",
+          "depth": 2,
+          "section_title": "3.3 NETWORK ARCHITECTURE",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "07de6924-74e2-44c0-931a-e4591222d394"
+          ]
+        },
+        {
+          "id": "b5090f20-a227-462f-b01f-9613d8bcb4fa",
+          "text": "The dense descriptor maps  $\\mathbb{H}_{\\mathbb{S}}$  and  $\\mathrm{H}_{\\mathrm{T},\\mathrm{pad}}$ , and the keypoints  $\\{\\mathbf{p}_{\\mathbb{S},n}\\}_{n = 1\\dots N}$  are then used as inputs of a cross-attention-based backbone  $\\mathcal{F}$  with positional encoding. This part of the network outputs a feature vector  $\\mathbf{d}_{\\mathbb{S},n}$  for each keypoint  $\\mathbf{p}_{\\mathbb{S},n}$  and dense feature vectors  $\\mathrm{D}_{\\mathrm{T},\\mathrm{pad}}$  of the size of  $\\mathrm{H}_{\\mathrm{T},\\mathrm{pad}}$ . This cross-attention-based backbone allows the local descriptors  $\\mathbb{H}_{\\mathbb{S}}$  and  $\\mathrm{H}_{\\mathrm{T},\\mathrm{pad}}$  to communicate with each other. Thus, during training, the network will be able to leverage this ability to communicate, to learn to hallucinate peaked inpainted and outpainted correspondence maps. The correspondence map  $\\mathbf{C}_{\\mathrm{T},n}$  of  $\\mathbf{p}_{\\mathrm{S},n}$  in the image plane of  $\\mathbf{I}_{\\mathrm{T}}$  is computed by applying a  $1 \\times 1$  convolution to  $\\mathbf{D}_{\\mathrm{T},\\mathrm{pad}}$  using  $\\mathbf{d}_{\\mathrm{S},n}$  as filter, followed by a 2D softmax.",
+          "depth": 2,
+          "section_title": "3.3 NETWORK ARCHITECTURE",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "07de6924-74e2-44c0-931a-e4591222d394"
+          ]
+        }
+      ]
+    },
+    "47670cd2-acee-47f9-b0fd-dbef73bad745": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+        "07de6924-74e2-44c0-931a-e4591222d394"
+      ],
+      "section_title": "3 OUR APPROACH",
+      "group_content": [
+        {
+          "id": "c9b08ef1-c59e-42f9-b256-f981b837c1a5",
+          "text": "An overview of our architecture, that we call NeurHal, is presented in Fig. 2. In practice, in order to keep the required amount of memory and the computational time reasonably low, the correspondence maps  $\\{\\mathsf{C}_{\\mathrm{T},n}\\}_{n = 1\\dots N}$  have a low resolution, i.e. for a target image of size  $640\\times$ 480, we use a CNN with an effective stride of  $s = 8$  and consequently the resulting correspondence maps (with  $\\gamma = 50\\%$ ) are of size  $160 \\times 120$ . Producing low resolution correspondence maps prevents NeurHal from predicting accurate correspondences. But as we show in the experiments, this low resolution is sufficient to hallucinate correspondences and have an affirmative answer to both questions: (i) can we derive a network architecture able to learn to hallucinate correspondences? and (ii) is correspondence hallucination beneficial for absolute pose estimation? Thus, we leave the question of the accuracy of hallucinated correspondences for future research. Additional details concerning the architecture are provided in Sec. C.1 of the appendix.",
+          "depth": 2,
+          "section_title": "3.3 NETWORK ARCHITECTURE",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "07de6924-74e2-44c0-931a-e4591222d394"
+          ]
+        },
+        {
+          "id": "f3ead7a4-9515-482d-aff4-23b5a3429021",
+          "text": "Given a pair of partially overlapping images  $(\\mathbf{I}_{\\mathrm{S}},\\mathbf{I}_{\\mathrm{T}})$ , a set of keypoints with ground truth depths  $\\{\\mathbf{p}_{\\mathrm{S},n},d_{\\mathrm{S},n}\\}_{n = 1\\dots N}$  as well as the ground truth relative camera pose  $(\\mathbb{R}_{\\mathrm{TS}},\\mathbf{t}_{\\mathrm{TS}})$ , the corresponding sum of NRE terms (Eq. 1) can be minimized w.r.t. the parameters of the network that produces the correspondence maps. Thus, we train our network using stochastic gradient descent and early stopping by providing pairs of overlapping images along with the aforementioned ground truth information. Let us also highlight that there is no distinction in the training process between the identifying, inpainting and outpainting tasks since the only thing our network outputs are correspondence maps. Moreover there is no need for labeling keypoints with ground truth labels such as \"identify/visible\", \"inpaint/occluded\" or \"outpaint/outside the field of view\". Additional information concerning the training are provided in Sec. C.2 of the appendix.",
+          "depth": 2,
+          "section_title": "3.4 TRAINING-TIME",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "85827ff8-fe6e-45cf-baa5-a952cf3581c5"
+          ]
+        },
+        {
+          "id": "6588b169-0945-40bc-99a8-ce604f7a9c7f",
+          "text": "At test-time, our network only requires a pair of partially overlapping images  $(\\mathbf{I}_{\\mathrm{S}},\\mathbf{I}_{\\mathrm{T}})$  as well as keypoints  $\\{\\mathbf{p}_{\\mathbf{s},n}\\}_{n = 1\\dots N}$  in  $\\mathbf{I}_{\\mathrm{S}}$  , and outputs a correspondence map  $C_{T,n}$  in the image plane of  $\\mathbf{I}_{\\mathrm{T}}$  for each keypoint, regardless of its correspondent being visible, occluded or outside the field of view.",
+          "depth": 2,
+          "section_title": "3.5 TEST-TIME",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "b9d28117-fe42-4cea-9acb-222c1a1f4724",
+            "102e13a0-f265-49f6-bd02-c7627730abd1"
+          ]
+        }
+      ]
+    },
+    "d981a9bd-6697-4a5e-af6f-28b08f021ee2": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "05993358-a28b-43d0-b6d0-3eb5c90514df"
+      ],
+      "section_title": "4 EXPERIMENTS",
+      "group_content": [
+        {
+          "id": "e35b9c29-6b50-4cc9-96ad-e4d33c50c398",
+          "text": "In these experiments, we seek to answer two questions: 1) \"Is the proposed NeurHal approach presented in Sec. 3 capable of hallucinating correspondences?\" and 2) \"In the context of absolute camera pose estimation, does the ability to hallucinate correspondences bring further robustness?\".",
+          "depth": 1,
+          "section_title": "4 EXPERIMENTS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df"
+          ]
+        },
+        {
+          "id": "094a9f5e-f0f6-4d5e-bfb8-878391c93d6e",
+          "text": "We evaluate the ability of our network to hallucinate correspondences on four datasets: the indoor datasets ScanNet (Dai et al., 2017) and NYU (Nathan Silberman & Fergus, 2012), and the outdoor datasets MegaDepth (Li & Snavely, 2018) and ETH-3D (Schöps et al., 2017). For the indoor setting (outdoor setting, respectively), we train NeurHal on ScanNet (Megadepth, respectively) on the training scenes as described in Sec. 3.4, and evaluate it on the disjoint set of validation scenes. Thus, all the qualitative and quantitative results presented in this section cannot be ascribed to scene memorization. For each dataset, we run predictions over 2,500 source and target image pairs sampled from the test set, with overlaps between  $2\\%$  and  $80\\%$ . For every image pair, we also feed as input to NeurHal keypoints in the source image. These keypoints have known ground truth correspondents in the target image and labels (visible, occluded, outside the field of view) that we use to evaluate the ability of our network to hallucinate correspondences. For more details on the settings of our experiment see Sec. C.2. For this experiment, we use  $\\gamma = 50\\%$ .",
+          "depth": 2,
+          "section_title": "4.1 EVALUATION OF THE ABILITY TO HALLUCINATE CORRESPONDENCES",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df",
+            "857ffdd3-9102-4e79-89f4-82e10629eec6"
+          ]
+        }
+      ]
+    },
+    "198eec34-836b-4650-935d-e4dae7fecbab": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "05993358-a28b-43d0-b6d0-3eb5c90514df",
+        "857ffdd3-9102-4e79-89f4-82e10629eec6"
+      ],
+      "section_title": "4 EXPERIMENTS",
+      "group_content": [
+        {
+          "id": "76c2ba38-69a8-4733-a631-25a3c17e4a0f",
+          "text": "We report in Fig. 3 two histograms computed over more than one million keypoints for each task we seek to validate: identification, inpainting, and outpainting. The first histogram Fig. 3 (left) is obtained by evaluating for each correspondence map the NRE cost (Eq. 1) at the ground truth correspondent's location. In order to draw conclusions, we also report the negative log-likelihood of a uniform correspondence map  $(\\ln |\\Omega_{\\mathsf{C_T}}|)$ . We find that for each task and for both datasets, the predicted probability mass lies significantly below  $\\ln |\\Omega_{\\mathsf{C_T}}|$ , which demonstrates NeurHal's ability to perform identification, inpainting and outpainting. On ScanNet, we also observe that identification is a simpler task than outpainting while inpainting is the hardest task: On average, the NRE cost of inpainted correspondents is higher than the average NRE cost of outpainted correspondents, which indicates the predicted correspondence maps are less peaked for inpainting than they are for outpainting. This corroborates what we empirically observed on qualitative results in Fig. 1, and supports our analysis in Sec. 3.1. On Megadepth, outpainting and inpainting histograms have a similar shape which does (a) Inpainting - S (c) Inpainting - M (d) Outpainting - M not reflect the previous statement, but we believe this is due to the fact that inpainting labels are noisy for this dataset, as explained in Sec. C.2.",
+          "depth": 2,
+          "section_title": "4.1 EVALUATION OF THE ABILITY TO HALLUCINATE CORRESPONDENCES",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df",
+            "857ffdd3-9102-4e79-89f4-82e10629eec6"
+          ]
+        },
+        {
+          "id": "7d5ba652-d190-4093-8661-682204981dc5",
+          "text": "On the right histogram of Fig. 3, we report the distribution of the distance between the argmax of a correspondence map and the ground truth correspondent's location. We also report the average error of a random prediction. We find the histogram mass lies significantly to the left of the random prediction average error, indicating our model is able to place modes correctly in the correspondence maps, regardless of the task at hand. On ScanNet, we observe that the inpainting and outpainting histograms are very similar, indicating the predicted argmax is equally good for both tasks. As mentioned above, the correspondence maps produced by NeurHal have a low resolution (see Sec. 3.3) which explains why the \"argmax error\" is not closer to zero pixel.",
+          "depth": 2,
+          "section_title": "4.1 EVALUATION OF THE ABILITY TO HALLUCINATE CORRESPONDENCES",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df",
+            "857ffdd3-9102-4e79-89f4-82e10629eec6"
+          ]
+        }
+      ]
+    },
+    "8193d122-a316-4855-860f-6982fded30cd": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "05993358-a28b-43d0-b6d0-3eb5c90514df",
+        "857ffdd3-9102-4e79-89f4-82e10629eec6"
+      ],
+      "section_title": "4 EXPERIMENTS",
+      "group_content": [
+        {
+          "id": "311b5761-e58c-4cc3-bb44-e149bf488c60",
+          "text": "In Fig. 4, we compare the hallucination performances of NeurHal against state-of-the-art local feature matching methods. Since all these local feature matching methods were designed and trained on pairs of images with significant overlap to perform only identification, they obtain poor inpainting results. Concerning the outpainting task, these methods seek to find a correspondent within the image boundaries, consequently they cannot outpaint correspondences and obtain very poor results. In Fig. 5 we show several qualitative inpainting/outpainting results on ScanNet and MegaDepth datasets. In the appendix, we also report qualitative results obtained on the NYU Depth dataset (Fig. 15) and on the ETH-3D dataset (Fig. 14). These results allow us to conclude that NeurHal is able to hallucinate correspondences with a strong generalization capacity. Additional experiments concerning the ability to hallucinate correspondences are provided in Sec. A as well as technical details regarding the evaluation protocol in Sec. C.3.",
+          "depth": 2,
+          "section_title": "4.1 EVALUATION OF THE ABILITY TO HALLUCINATE CORRESPONDENCES",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df",
+            "857ffdd3-9102-4e79-89f4-82e10629eec6"
+          ]
+        },
+        {
+          "id": "7e1dacbc-9e62-4da2-b2d4-1b2337b8aa80",
+          "text": "In the previous experiment, we showed that our network is able to hallucinate correspondences. We now evaluate whether this ability helps improving the robustness of an absolute camera pose estimator. We run this evaluation on the test set of ScanNet over 2,500 source and target image pairs captured in scenes that were not used at training time. For each source/target image pair, we employ NeurHal to produce correspondence maps. As in the previous experiment, we use  $\\gamma = 50\\%$ . Given these correspondence maps and the depth map of the source image, we estimate the absolute camera pose between the target image and the source image using the method proposed in Germain et al. (2021).",
+          "depth": 2,
+          "section_title": "4.2 APPLICATION TO ABSOLUTE CAMERA POSE ESTIMATION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df",
+            "ef9e1ab1-a511-45a5-95e2-5a1e0a7379df"
+          ]
+        },
+        {
+          "id": "dd2f8182-b43f-4130-89dc-02f10322d51f",
+          "text": "In Fig. 6, we show the results of an ablation study conducted on ScanNet. In this study, we focus on the robustness of the camera pose estimate for various combinations of training data, i.e. we consider a pose is \"correct\" if the rotation error is lower than 20 degrees and the translation error is below 1.5 meters (see Sec. C.3). We find that training our network to perform the three tasks (identification, inpainting, and outpainting) produces the best results. In particular, we find that adding outpainting plays a critical role in improving localization of low-overlap image pairs. We also find that learning to inpaint does not bring much improvement to the absolute camera pose estimation.",
+          "depth": 2,
+          "section_title": "4.2 APPLICATION TO ABSOLUTE CAMERA POSE ESTIMATION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df",
+            "ef9e1ab1-a511-45a5-95e2-5a1e0a7379df"
+          ]
+        }
+      ]
+    },
+    "3cb2e929-3955-4dd1-be25-ccf780791388": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "05993358-a28b-43d0-b6d0-3eb5c90514df",
+        "ef9e1ab1-a511-45a5-95e2-5a1e0a7379df"
+      ],
+      "section_title": "4 EXPERIMENTS",
+      "group_content": [
+        {
+          "id": "3eec8930-140f-4547-b023-fa65ae630ddb",
+          "text": "In Fig. 7, we compare the results of NeurHal against state-of-the-art local feature matching methods. In low-overlap settings, very few keypoints' correspondents can be identified and many keypoints' correspondents have to be outpainted. In this case, we find that NeurHal is able to estimate the camera pose correctly significantly more often than any other method, since NeurHal is the only method able to outpaint correspondences (see Fig. 4). For high-overlap image pairs, the ability to hallucinate is not useful since many keypoints' correspondents can be identified. In this case, we find that state-of-the-art local feature matching methods to be slightly better than NeurHal. This is likely due to the fact that NeurHal outputs low resolution correspondences maps while the other methods output high resolution correspondences. The overall performance shows that NeurHal significantly outperforms all the competitors, which allows us to conclude that the ability of NeurHal to outpaint correspondences is beneficial for absolute pose estimation. Technical details concerning the previous experiment as well as additional experiments concerning the application to absolute camera pose estimation are provided in Sec. B).",
+          "depth": 2,
+          "section_title": "4.2 APPLICATION TO ABSOLUTE CAMERA POSE ESTIMATION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "05993358-a28b-43d0-b6d0-3eb5c90514df",
+            "ef9e1ab1-a511-45a5-95e2-5a1e0a7379df"
+          ]
+        }
+      ]
+    },
+    "585a7072-33b1-4db8-ba34-6f76716a6a64": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "d896eb2a-f539-40e9-80a4-1824afff7acb"
+      ],
+      "section_title": "5 LIMITATIONS",
+      "group_content": [
+        {
+          "id": "fb37ae69-3da9-489e-959e-b393af34cb2b",
+          "text": "We identified the following limitations for our approach:  $(i)$  - The previous experiments showed that NeurHal is able to inpaint correspondences but the inpainted correspondence maps are much less peaked compared to the outpainted correspondence maps. This is likely due to the fact that inpainting correspondences is much more difficult than outpainting correspondences (see Sec 3.1).  $(ii)$  - The proposed architecture outputs low resolution correspondence maps (see Sec. 3.3), e.g.  $160\\times 120$  for input images of size  $640\\times 480$  and an amount of padding  $\\gamma = 50\\%$ . This is essentially due to the quadratic complexity of attention layers we use (see Sec. C.1 of the appendix).  $(iii)$  - Our approach is able to outpaint correspondences but our correspondence maps have a finite size. Thus, in the case where a keypoint's correspondent falls outside the correspondence map, the resulting correspondence map would be erroneous. We believe these three limitations are interesting future research directions. (a)  $\\tau_{t} = 1.5m,\\tau_{r} = 20^{\\circ}$",
+          "depth": 1,
+          "section_title": "5 LIMITATIONS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "d896eb2a-f539-40e9-80a4-1824afff7acb"
+          ]
+        }
+      ]
+    },
+    "7f48a8fc-ce8a-4876-943b-6ca70dfa5dcf": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "c8ef785a-2329-4b70-b9f3-503b36147611"
+      ],
+      "section_title": "6 CONCLUSION",
+      "group_content": [
+        {
+          "id": "51a977ce-b860-46bc-8c22-78011ad3c2b7",
+          "text": "To the best of our knowledge, this paper is the first attempt to learn to inpaint and outpaint correspondences. We proposed an analysis of this novel learning task, which has guided us towards employing an appropriate loss function and designing the architecture of our network. We experimentally demonstrated that our network is indeed able to inpaint and outpaint correspondences on pairs of images captured in scenes that were not seen at training-time, in both indoor (ScanNet) and outdoor (Megadepth) settings. We also tested our network on other datasets (ETH3D and NYU) and discovered that our model has strong generalization ability. We then tried to experimentally illustrate that hallucinating correspondences is not just a fundamental AI problem but is also interesting from a practical point of view. We applied our network to an absolute camera pose estimation problem and found that hallucinating correspondences, especially outpainting correspondences, allowed to significantly outperform the state-of-the-art feature matching methods in terms of robustness of the resulting pose estimate. Beyond this absolute pose estimation application, this work points to new research directions such as integrating correspondence hallucination into Structure-from-Motion pipelines to make them more robust when few images are available.",
+          "depth": 1,
+          "section_title": "6 CONCLUSION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "c8ef785a-2329-4b70-b9f3-503b36147611"
+          ]
+        }
+      ]
+    },
+    "e70b2f37-11e3-4dcb-97d6-923d65bc13e8": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "0f7390cc-95bc-4147-81c0-637add2215d8"
+      ],
+      "section_title": "7 ETHICS STATEMENT",
+      "group_content": [
+        {
+          "id": "9bcf9b22-b1e0-4fcc-babd-b3fea4a243b9",
+          "text": "The method described in this paper has the potential to greatly improve many computer vision-based industrial applications, especially those involving visual localization in GPS-denied or cluttered environments. For example robotics or augmented reality applications could benefit from our algorithm to better relocalize within their surroundings, which could lead to more reliable and overall safer behaviours. If this was to be applied to autonomous driving or drone-based search and rescue, one could appreciate the positive societal impact of our method. On the other hand like many computer vision algorithms, it could be applied to improve robustness of malicious devices such as weaponized UAVs, or invade citizens privacy through environment re-identification. Thankfully as AI technology advances, discussions and regulations are brought forward by governments and public entities. These ethical debates pave the way for a brighter future and can only make us think NeurHal will more bring benefits than harms to society.",
+          "depth": 1,
+          "section_title": "7 ETHICS STATEMENT",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "0f7390cc-95bc-4147-81c0-637add2215d8"
+          ]
+        }
+      ]
+    },
+    "5fd35c28-0f9f-4926-95ae-dc189ec2dced": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "30c0a043-6555-45f8-aa97-16c40769faa3"
+      ],
+      "section_title": "8 REPRODUCIBILITY",
+      "group_content": [
+        {
+          "id": "459e36e6-2aea-473b-95a2-6673b75fd658",
+          "text": "We provide the NeurHal model architecture and weights in the supplementary material. We also release a simple evaluation script that generates qualitative results, and show in a notebook the results obtained on an image pair captured indoors using a smartphone.",
+          "depth": 1,
+          "section_title": "8 REPRODUCIBILITY",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "30c0a043-6555-45f8-aa97-16c40769faa3"
+          ]
+        }
+      ]
+    }
+  }
+}

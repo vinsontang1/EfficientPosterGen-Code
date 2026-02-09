@@ -1,0 +1,49 @@
+# config.yaml
+
+mineru:
+  api_token: ""  
+  base_url: "https://mineru.net/api/v4/extract/task"
+  model_version: "vlm"
+
+files:  
+  parquet_path: "./train-00000-of-00001.parquet"  
+  save_dir: "./paper2poster"
+
+settings:
+  timeout: 15        
+  polling_interval: 5 
+  max_wait_time: 600  
+  gpu_id: 0  
+
+model:
+  name: "Qwen/Qwen3-1.7B"  # PPL 
+
+tree:
+  ROOT_UUID: "00000000-0000-0000-0000-000000000000"
+
+grouper:
+  START_SPLIT_RATIO : 1.2 
+
+graph:
+  graph_threshold: 0.5
+  min_edge_count: 35  
+
+selection:
+  alpha: 0.8
+  beta: 0.6
+  selection_threshold: 0.32
+  min_count: 15   
+  pagerank_k: 0.85  
+  min_section_count: 2
+
+parser:
+  MIN_ALPHA_CHARS: 300  
+
+bullet_points:
+    TEMPERATURE: 0.2
+    MAX_BULLETS: 6                     
+
+png:
+  CONFIG_PATH: "./config/config_en.json"  
+
+

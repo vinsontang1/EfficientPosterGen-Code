@@ -1,0 +1,810 @@
+{
+  "edges": [
+    {
+      "source": "8dc064f4-0053-4eb9-926c-1e7774e0e193",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.7976
+    },
+    {
+      "source": "a7dbecc8-5150-45ad-83e7-8f25fb7c37a4",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.7635
+    },
+    {
+      "source": "743a0b16-2df1-4282-80ab-64d99e1d0b03",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.735
+    },
+    {
+      "source": "0e6950ba-4799-4d67-9a8f-60345a773102",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.5468
+    },
+    {
+      "source": "ed3854e6-ebba-4021-ba1e-4873eefccbdc",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.7429
+    },
+    {
+      "source": "63f05123-2d8f-416e-9125-358e417c8bb4",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.5403
+    },
+    {
+      "source": "6f8007c6-5da3-4804-9ee2-f35e50dab668",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.5528
+    },
+    {
+      "source": "51c17f95-d0f5-45cb-95d4-8d1982d21571",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.5807
+    },
+    {
+      "source": "050e5200-9524-468d-81cc-3fadc53c5e64",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.507
+    },
+    {
+      "source": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "target": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "score": 0.8245
+    },
+    {
+      "source": "8dc064f4-0053-4eb9-926c-1e7774e0e193",
+      "target": "63f05123-2d8f-416e-9125-358e417c8bb4",
+      "score": 0.7236
+    },
+    {
+      "source": "743a0b16-2df1-4282-80ab-64d99e1d0b03",
+      "target": "63f05123-2d8f-416e-9125-358e417c8bb4",
+      "score": 0.6353
+    },
+    {
+      "source": "6f8007c6-5da3-4804-9ee2-f35e50dab668",
+      "target": "63f05123-2d8f-416e-9125-358e417c8bb4",
+      "score": 0.5199
+    },
+    {
+      "source": "51c17f95-d0f5-45cb-95d4-8d1982d21571",
+      "target": "63f05123-2d8f-416e-9125-358e417c8bb4",
+      "score": 0.5312
+    },
+    {
+      "source": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "target": "63f05123-2d8f-416e-9125-358e417c8bb4",
+      "score": 0.6371
+    },
+    {
+      "source": "050e5200-9524-468d-81cc-3fadc53c5e64",
+      "target": "efffd628-49b3-4a43-808f-2af2e10ce478",
+      "score": 0.6224
+    },
+    {
+      "source": "51c17f95-d0f5-45cb-95d4-8d1982d21571",
+      "target": "713104fc-c8a7-4fa3-8f1a-8e93692c3026",
+      "score": 0.5148
+    },
+    {
+      "source": "8dc064f4-0053-4eb9-926c-1e7774e0e193",
+      "target": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "score": 0.67
+    },
+    {
+      "source": "743a0b16-2df1-4282-80ab-64d99e1d0b03",
+      "target": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "score": 0.6608
+    },
+    {
+      "source": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "target": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "score": 0.6172
+    },
+    {
+      "source": "51c17f95-d0f5-45cb-95d4-8d1982d21571",
+      "target": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "score": 0.5018
+    },
+    {
+      "source": "050e5200-9524-468d-81cc-3fadc53c5e64",
+      "target": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "score": 0.5013
+    },
+    {
+      "source": "8dc064f4-0053-4eb9-926c-1e7774e0e193",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5042
+    },
+    {
+      "source": "a7dbecc8-5150-45ad-83e7-8f25fb7c37a4",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.6184
+    },
+    {
+      "source": "743a0b16-2df1-4282-80ab-64d99e1d0b03",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5614
+    },
+    {
+      "source": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5241
+    },
+    {
+      "source": "0e6950ba-4799-4d67-9a8f-60345a773102",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5055
+    },
+    {
+      "source": "ed3854e6-ebba-4021-ba1e-4873eefccbdc",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5393
+    },
+    {
+      "source": "6f8007c6-5da3-4804-9ee2-f35e50dab668",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5642
+    },
+    {
+      "source": "51c17f95-d0f5-45cb-95d4-8d1982d21571",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5744
+    },
+    {
+      "source": "050e5200-9524-468d-81cc-3fadc53c5e64",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5148
+    },
+    {
+      "source": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "target": "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1",
+      "score": 0.5651
+    },
+    {
+      "source": "8dc064f4-0053-4eb9-926c-1e7774e0e193",
+      "target": "743a0b16-2df1-4282-80ab-64d99e1d0b03",
+      "score": 0.4888
+    },
+    {
+      "source": "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716",
+      "target": "63f05123-2d8f-416e-9125-358e417c8bb4",
+      "score": 0.4844
+    },
+    {
+      "source": "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a",
+      "target": "743a0b16-2df1-4282-80ab-64d99e1d0b03",
+      "score": 0.4828
+    }
+  ],
+  "id_map": {
+    "8dc064f4-0053-4eb9-926c-1e7774e0e193": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "ca3d1b24-cc7c-4e9f-a621-fe338684c2c7"
+      ],
+      "section_title": "Abstract",
+      "group_content": [
+        {
+          "id": "e0c95610-573a-4c8d-b220-254c918310bf",
+          "text": "Reinforcement learning (RL) agents have long sought to approach the efficiency of human learning. Humans are great observers who can learn by aggregating external knowledge from various sources, including observations from others' policies of attempting a task. Prior studies in RL have incorporated external knowledge policies to help agents improve sample efficiency. However, it remains non-trivial to perform arbitrary combinations and replacements of those policies, an essential feature for generalization and transferability. In this work, we present Knowledge-Grounded RL (KGRL), an RL paradigm fusing multiple knowledge policies and aiming for human-like efficiency and flexibility. We propose a new actor architecture for KGRL, Knowledge-Inclusive Attention Network (KIAN), which allows free knowledge rearrangement due to embedding-based attentive action prediction. KIAN also addresses entropy imbalance, a problem arising in maximum entropy KGRL that hinders an agent from efficiently exploring the environment, through a new design of policy distributions. The experimental results demonstrate that KIAN outperforms alternative methods incorporating external knowledge policies and achieves efficient and flexible learning. Our implementation is available at https://github.com/Pascalson/KGRL.git.",
+          "depth": 1,
+          "section_title": "Abstract",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "ca3d1b24-cc7c-4e9f-a621-fe338684c2c7"
+          ]
+        }
+      ]
+    },
+    "a2c7c59e-fa45-41d4-bf90-766c1d257c10": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "e5b46844-058e-48c8-865d-f7f30a044664"
+      ],
+      "section_title": "1 Introduction",
+      "group_content": [
+        {
+          "id": "ea61ebe7-5671-4c98-8d71-ce050449d171",
+          "text": "Reinforcement learning (RL) has been effectively used in a variety of fields, including physics [7, 35] and robotics [15, 30]. This success can be attributed to RL's iterative process of interacting with the environment and learning a policy to get positive feedback. Despite being influenced by the learning process of infants [32], the RL process can require a large number of samples to solve a task [1], indicating that the learning efficiency of RL agents is still far behind that of humans.",
+          "depth": 1,
+          "section_title": "1 Introduction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "e5b46844-058e-48c8-865d-f7f30a044664"
+          ]
+        }
+      ]
+    },
+    "a7dbecc8-5150-45ad-83e7-8f25fb7c37a4": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "e5b46844-058e-48c8-865d-f7f30a044664"
+      ],
+      "section_title": "1 Introduction",
+      "group_content": [
+        {
+          "id": "059302cc-6a19-4e2e-a178-85952ca87113",
+          "text": "What learning capabilities do humans possess, yet RL agents still missing? Studies in social learning [4] have demonstrated that humans often observe the behavior of others in diverse situations and utilize those strategies as external knowledge to accelerate their own exploration of solution-space. This type of learning is very flexible for humans since they can freely reuse and update the knowledge they already possess. The followings are the five properties (the last four have been mentioned in [14]) that summarize the efficiency and flexibility of human learning. [Knowledge-Acquirable]: Humans can develop their strategies by observing others. [Sample-Efficient]: Humans require fewer interactions with the environment to solve a task by learning from external knowledge. [Generalizable]: Humans can apply previously observed strategies, whether developed internally or provided externally, to unseen tasks. [Compositional]: Humans can combine strategies from multiple sources to form their knowledge set. [Incremental]: Humans do not need to relearn how to navigate the entire knowledge set from scratch when they remove outdated strategies or add new ones.",
+          "depth": 1,
+          "section_title": "1 Introduction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "e5b46844-058e-48c8-865d-f7f30a044664"
+          ]
+        },
+        {
+          "id": "0c16ab8c-bcee-4352-880e-1d09690573b3",
+          "text": "Possessing all five learning properties remains challenging for RL agents. Previous work has endowed an RL agent with the ability to learn from external knowledge (knowledge-acquirable) and mitigate sample inefficiency [21, 25, 27, 36], where the knowledge focused in this paper is state-action mappings (full definition in Section 3), including pre-collected demonstrations or policies. Among those methods, some have also allowed agents to combine policies in different forms to predict optimal actions (compositional) [25, 27]. However, these approaches may not be suitable for incremental learning, in which an agent learns a sequence of tasks using one expandable knowledge set. In such a case, whenever the knowledge set is updated by adding or replacing policies, prior methods, e.g., [27, 36], require relearning the entire multi-policy fusion process, even if the current task is similar to the previous one. This is because their designs of knowledge representations are intertwined with the knowledge-fusing mechanism, which restricts changing the number of policies in the knowledge set.",
+          "depth": 1,
+          "section_title": "1 Introduction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "e5b46844-058e-48c8-865d-f7f30a044664"
+          ]
+        },
+        {
+          "id": "16f52a61-0ce4-4c3c-8ffd-5764f1fcaba4",
+          "text": "To this end, our goal is to enhance RL grounded on external knowledge policies with more flexibility. We first introduce Knowledge-Grounded Reinforcement Learning (KGRL), an RL paradigm that seeks to find an optimal policy of a Markov Decision Process (MDP) given a set of external policies as illustrated in Figure 1. We then formally define the knowledge-acquirable, sample-efficient, generalizable, compositional, and incremental properties that a well-trained KGRL agent can possess.",
+          "depth": 1,
+          "section_title": "1 Introduction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "e5b46844-058e-48c8-865d-f7f30a044664"
+          ]
+        }
+      ]
+    },
+    "743a0b16-2df1-4282-80ab-64d99e1d0b03": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "e5b46844-058e-48c8-865d-f7f30a044664"
+      ],
+      "section_title": "1 Introduction",
+      "group_content": [
+        {
+          "id": "0fd027a5-21ac-4519-ab80-50251ce61220",
+          "text": "We propose a simple yet effective actor model, Knowledge-Inclusive Attention Network (KIAN), for KGRL. KIAN consists of three components: (1) an internal policy that learns a self-developed strategy, (2) embeddings that represent each policy, and (3) a query that performs embedding-based attentive action prediction to fuse the internal and external policies. The policy-embedding and query design in KIAN is crucial, as it enables the model to be incremental by unifying policy representations and separating them from the policy-fusing process. Consequently, updating or adding policies to KIAN has minimal effect on its architecture and does not require retraining the entire network. Additionally, KIAN addresses the problem of entropy imbalance in KGRL, where agents tend to choose only a few sub-optimal policies from the knowledge set. We provide mathematical evidence that entropy imbalance can prevent agents from exploring the environment with multiple policies. Then we introduce a new approach for modeling external-policy distributions to mitigate this issue.",
+          "depth": 1,
+          "section_title": "1 Introduction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "e5b46844-058e-48c8-865d-f7f30a044664"
+          ]
+        },
+        {
+          "id": "3b7e80c2-cb7c-482f-af24-ef4e7d9534cc",
+          "text": "Through experiments on grid navigation [5] and robotic manipulation [24] tasks, KIAN outperforms alternative methods incorporating external policies in terms of sample efficiency as well as the ability to do compositional and incremental learning. Furthermore, our analyses suggest that KIAN has better generalizability when applied to environments that are either simpler or more complex.",
+          "depth": 1,
+          "section_title": "1 Introduction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "e5b46844-058e-48c8-865d-f7f30a044664"
+          ]
+        }
+      ]
+    },
+    "d50b5c69-dacb-4ff3-bfb1-14f9d2dc3716": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "e5b46844-058e-48c8-865d-f7f30a044664"
+      ],
+      "section_title": "1 Introduction",
+      "group_content": [
+        {
+          "id": "6ea018a6-ca7f-4fa9-9b00-cd75beee8c7d",
+          "text": "Our contributions are: - We introduce KGRL, an RL paradigm studying how agents learn with external policies while being knowledge-acquirable, sample-efficient, generalizable, compositional, and incremental. - We propose KIAN, an actor model for KGRL that fuses multiple knowledge policies with better flexibility and addresses entropy imbalance for more efficient exploration. - We demonstrate in experiments that KIAN outperforms other methods incorporating external knowledge policies under different environmental setups.",
+          "depth": 1,
+          "section_title": "1 Introduction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "e5b46844-058e-48c8-865d-f7f30a044664"
+          ]
+        }
+      ]
+    },
+    "4a058601-2174-4a24-8320-b7fc7e7f5bf4": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "8ae8e78a-09a5-4c11-b1b3-e5801283d369"
+      ],
+      "section_title": "2 Related Work",
+      "group_content": [
+        {
+          "id": "55c8cec4-da20-4221-8f84-bc3c96abbca8",
+          "text": "A popular line of research in RL is to improve sample efficiency with demonstrations (RL from demonstrations; RLfD). Demonstrations are examples of completing a task and are represented as state-action pairs. Previous work has leveraged demonstrations by introducing them into the policy-update steps of RL [8, 11, 21, 23, 28, 34]. For example, Nair et al. [21] adds a buffer of demonstrations to the RL framework and uses the data sampled from it to calculate a behavior-cloning loss. This loss is combined with the regular RL loss to make the policy simultaneously imitate demonstrations and maximize the expected return. RLfD methods necessitate an adequate supply of high-quality demonstrations to achieve sample-efficient learning, which can be time-consuming. In addition, they are low-level representations of a policy. Consequently, if an agent fails to extract a high-level strategy from these demonstrations, it will merely mimic the actions without acquiring a generalizable policy. In contrast, our proposed KIAN enables an agent to learn with external policies of arbitrary quality and fuse them by evaluating the importance of each policy to the task. Thus, the agent must understand the high-level strategies of each policy rather than only imitating its actions.",
+          "depth": 1,
+          "section_title": "2 Related Work",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "8ae8e78a-09a5-4c11-b1b3-e5801283d369"
+          ]
+        }
+      ]
+    },
+    "0e6950ba-4799-4d67-9a8f-60345a773102": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "8ae8e78a-09a5-4c11-b1b3-e5801283d369"
+      ],
+      "section_title": "2 Related Work",
+      "group_content": [
+        {
+          "id": "d4012bb6-f714-44f6-bcfa-ce6fef53151e",
+          "text": "Another research direction in RL focuses on utilizing sub-optimal external policies instead of demonstrations to improve sample efficiency [25, 27, 36]. For instance, Zhang et al. [36] proposed Knowledge-Guided Policy Network (KoGuN) that learns a neural network policy from fuzzy-rule controllers. The neural network concatenates a state and all actions suggested by fuzzy-rule controllers as an input and outputs a refined action. While effective, this method puts restrictions on the representation of a policy to be a fuzzy logic network. On the other hand, Rajendran et al. [27] presented A2T (Attend, Adapt, and Transfer), an attentive deep architecture that fuses multiple policies and does not restrict the form of a policy. These policies can be non-primitive, and a learnable internal policy is included. In A2T, an attention network takes a state as an input and outputs the weights of all policies. The agent then samples an action from the fused distribution based on these weights. The methods KoGuN and A2T are most related to our work. Based on their success, KIAN further relaxes their requirement of retraining for incremental learning since both of them depend on the preset number of policies. Additionally, our approach mitigates the entropy imbalance issue, which can lead to inefficient exploration and was not addressed by KoGuN and A2T.",
+          "depth": 1,
+          "section_title": "2 Related Work",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "8ae8e78a-09a5-4c11-b1b3-e5801283d369"
+          ]
+        },
+        {
+          "id": "5ce75cda-39ca-46c7-85e6-f551cf035601",
+          "text": "There exist other RL frameworks, such as hierarchical RL (HRL), that tackle tasks involving multiple policies. However, these frameworks are less closely related to our work compared to the previously mentioned methods. HRL approaches aim to decompose a complex task into a hierarchy of sub-tasks and learn a sub-policy for each sub-task [2, 6, 13, 16-18, 20, 25, 31, 33]. On the other hand, KGRL methods, including KoGuN, A2T, and KIAN, aim to address a task by observing a given set of external policies. These policies may offer partial solutions, be overly intricate, or even have limited relevance to the task at hand. Furthermore, HRL methods typically apply only one sub-policy to the environment at each time step based on the high-level policy, which determines the sub-task the agent is currently addressing. In contrast, KGRL seeks to simultaneously apply multiple policies within a single time step by fusing them together.",
+          "depth": 1,
+          "section_title": "2 Related Work",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "8ae8e78a-09a5-4c11-b1b3-e5801283d369"
+          ]
+        }
+      ]
+    },
+    "ed3854e6-ebba-4021-ba1e-4873eefccbdc": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a3d2a024-833c-4aa7-a4b7-65968f69e16b"
+      ],
+      "section_title": "3 Problem Formulation",
+      "group_content": [
+        {
+          "id": "0204afda-90bc-4716-b910-e4cb960b4b23",
+          "text": "Our goal is to investigate how RL can be grounded on any given set of external knowledge policies to achieve knowledge-acquirable, sample-efficient, generalizable, compositional, and incremental properties. We refer to this RL paradigm as Knowledge-Grounded Reinforcement Learning (KGRL). A KGRL problem is a sequential decision-making problem that involves an environment, an agent, and a set of external policies. It can be mathematically formulated as a Knowledge-Grounded Markov Decision Process (KGMDP), which is defined by a tuple  $\\mathcal{M}_k = (\\mathcal{S},\\mathcal{A},\\mathcal{T},R,\\rho ,\\gamma ,\\mathcal{G})$ , where  $\\mathcal{S}$  is the state space,  $\\mathcal{A}$  is the action space,  $\\mathcal{T}:S\\times \\mathcal{A}\\times S\\to \\mathbb{R}$  is the transition probability distribution,  $R$  is the reward function,  $\\rho$  is the initial state distribution,  $\\gamma$  is the discount factor, and  $\\mathcal{G}$  is the set of external knowledge policies. An external knowledge set  $\\mathcal{G}$  contains  $n$  knowledge policies,  $\\mathcal{G} = \\{\\pi_{g_1},\\ldots ,\\pi_{g_n}\\}$ . Each knowledge policy is a function that maps from the state space to the action space,  $\\pi_{g_j}(\\cdot |\\cdot):S\\rightarrow A,\\forall j = 1,\\dots ,n$ . A knowledge mapping is not necessarily designed for the original Markov Decision Process (MDP), which is defined by the tuple  $\\mathcal{M} = (\\mathcal{S},\\mathcal{A},\\mathcal{T},\\mathcal{R},\\rho ,\\gamma)$ . Therefore, applying  $\\pi_{g_j}$  to  $\\mathcal{M}$  may result in a poor expected return.",
+          "depth": 1,
+          "section_title": "3 Problem Formulation",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a3d2a024-833c-4aa7-a4b7-65968f69e16b"
+          ]
+        },
+        {
+          "id": "fbcbc2d6-ece6-46b6-b08c-6d56aa29018f",
+          "text": "The goal of KGRL is to find an optimal policy  $\\pi^{*}(\\cdot |\\cdot ;\\mathcal{G}):S\\to \\mathcal{A}$  that maximizes the expected return:  $\\mathbb{E}_{\\mathbf{s}_0\\sim \\rho ,\\mathcal{T},\\pi^*}[\\sum_{t = 0}^T\\gamma^t R_t]$ . Note that  $\\mathcal{M}_k$  and  $\\mathcal{M}$  share the same optimal value function,  $V^{*}(\\mathbf{s}) = \\max_{\\pi \\in \\Pi}\\mathbb{E}_{\\mathcal{T},\\pi}[\\sum_{k = 0}^{\\infty}\\gamma^{k}R_{t + k + 1}|\\mathbf{s}_{t} = \\mathbf{s}]$ , if they are provided with the same policy class  $\\Pi$ . A well-trained KGRL agent can possess the following properties: knowledge-acquirable, sample-efficient, generalizable, compositional, and incremental. Here we formally define these properties.",
+          "depth": 1,
+          "section_title": "3 Problem Formulation",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a3d2a024-833c-4aa7-a4b7-65968f69e16b"
+          ]
+        },
+        {
+          "id": "e7a81e12-1b0f-4fea-9be7-e35a0abd1ebb",
+          "text": "Definition 3.1 (Knowledge-Acquirable). An agent can acquire knowledge internally instead of only following  $\\mathcal{G}$ . We refer to this internal knowledge as an inner policy and denote it as  $\\pi_{in}(\\cdot |\\cdot):S\\to \\mathcal{A}$ Definition 3.2 (Sample-Efficient). An agent requires fewer samples to solve for  $\\mathcal{M}_k$  than for  $\\mathcal{M}$ Definition 3.3 (Generalizable). A learned policy  $\\pi (\\cdot |\\cdot ;\\mathcal{G})$  can solve similar but different tasks. Definition 3.4 (Compositional). Assume that other agents have solved for  $m$  KGMDPs,  $\\mathcal{M}_k^1, \\ldots, \\mathcal{M}_k^m$ , with external knowledge sets,  $\\mathcal{G}^1, \\ldots, \\mathcal{G}^m$ , and inner policies,  $\\pi_{in}^1, \\ldots, \\pi_{in}^m$ . An agent is compositional if it can learn to solve a KGMDP  $\\mathcal{M}_k^*$  with the external knowledge set  $\\mathcal{G}^* \\subseteq \\bigcup_{i=1}^{m} \\mathcal{G}^i \\cup \\{\\pi_{in}^1, \\ldots, \\pi_{in}^m\\}$ .",
+          "depth": 1,
+          "section_title": "3 Problem Formulation",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a3d2a024-833c-4aa7-a4b7-65968f69e16b"
+          ]
+        },
+        {
+          "id": "f36fbe66-6d75-427d-8e33-5e062ae29b87",
+          "text": "Definition 3.5 (Incremental). An agent is incremental if it has the following two abilities: (1) Given a KGMDP  $\\mathcal{M}_k$  for the agent to solve within  $T$  timesteps. The agent can learn to solve  $\\mathcal{M}_k$  with the external knowledge sets,  $\\mathcal{G}_1,\\ldots ,\\mathcal{G}_T$ , where  $\\mathcal{G}_t,t\\in \\{1,\\dots,T\\}$ , is the knowledge set at time step  $t$ , and  $\\mathcal{G}_t$  can be different from one another. (2) Given a sequence of KGMDPs  $\\mathcal{M}_k^1,\\ldots ,\\mathcal{M}_k^m$ , the agent can solve them with external knowledge sets,  $\\mathcal{G}^1,\\ldots ,\\mathcal{G}^m$ , where  $\\mathcal{G}^i,i\\in \\{1,\\dots,m\\}$ , is the knowledge set for task  $i$ , and  $\\mathcal{G}^i$  can be different from one another.",
+          "depth": 1,
+          "section_title": "3 Problem Formulation",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a3d2a024-833c-4aa7-a4b7-65968f69e16b"
+          ]
+        }
+      ]
+    },
+    "63f05123-2d8f-416e-9125-358e417c8bb4": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c"
+      ],
+      "section_title": "4 Knowledge-Inclusive Attention Network",
+      "group_content": [
+        {
+          "id": "81bc5299-53d7-4706-96c7-cabc0fe91c7f",
+          "text": "We propose Knowledge-Inclusive Attention Network (KIAN) as an actor for KGRL. KIAN can be end-to-end trained with various RL algorithms. Illustrated in Figure 2, KIAN comprises three components: an inner actor, knowledge keys, and a query. In this section, we first describe the architecture of KIAN and its action-prediction operation. Then we introduce entropy imbalance, a problem that emerges in maximum entropy KGRL, and propose modified policy distributions for KIAN to alleviate this issue.",
+          "depth": 1,
+          "section_title": "4 Knowledge-Inclusive Attention Network",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c"
+          ]
+        }
+      ]
+    },
+    "9da09fe7-63e2-44dd-8d74-58460719eeec": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+        "47063ec8-8c1d-46ac-a369-7ea4e3acd261"
+      ],
+      "section_title": "4 Knowledge-Inclusive Attention Network",
+      "group_content": [
+        {
+          "id": "2ef64710-42a7-42c7-9da1-2e28ea09ea79",
+          "text": "Inner Actor. The inner actor serves the same purpose as an actor in regular RL, representing the inner knowledge learned by the agent through interactions with the environment. In KIAN, the inner actor, denoted as  $\\pi_{in}(\\cdot |\\cdot ;\\pmb {\\theta}):S\\to \\mathcal{A}$ , is a learnable function approximator with parameter  $\\pmb{\\theta}$ . The presence of the inner actor in KIAN is crucial for the agent to be capable of acquiring knowledge, as it allows the agent to develop its own strategies. Therefore, even if the external knowledge policies in  $\\mathcal{G}$  are unable to solve a particular task, the agent can still discover an optimal solution.",
+          "depth": 2,
+          "section_title": "4.1 Model Architecture",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "47063ec8-8c1d-46ac-a369-7ea4e3acd261"
+          ]
+        },
+        {
+          "id": "31395cff-ba32-4741-a585-600fa83b26a1",
+          "text": "Knowledge Keys. In KIAN, we introduce a learnable embedding vector for each knowledge policy, including  $\\pi_{in}$  and  $\\pi_{g_1},\\ldots ,\\pi_{g_n}$ , in order to create a unified representation space for all knowledge policies. Specifically, for each knowledge mapping  $\\pi_{in}$  or  $\\pi_{g_j}\\in \\mathcal{G}$ , we assign a learnable  $d_{k}$ -dimensional vector as its key (embedding):  $\\mathbf{k}_{in}\\in \\mathbb{R}^{d_k}$  or  $\\mathbf{k}_{g_j}\\in \\mathbb{R}^{d_k}\\forall j\\in \\{1,\\dots ,n\\}$ . It is important to note that these knowledge keys,  $\\mathbf{k}_e$ , represents the entire knowledge mapping  $\\pi_e,\\forall e\\in \\{in,g_1,\\ldots ,g_n\\}$ . Thus,  $\\mathbf{k}_e$  is independent of specific states or actions. These knowledge keys and the query will perform an attention operation to determine how an agent integrates all policies.",
+          "depth": 2,
+          "section_title": "4.1 Model Architecture",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "47063ec8-8c1d-46ac-a369-7ea4e3acd261"
+          ]
+        }
+      ]
+    },
+    "d7111ecd-d8a4-44cc-8d8c-5ecb773faffe": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+        "47063ec8-8c1d-46ac-a369-7ea4e3acd261"
+      ],
+      "section_title": "4 Knowledge-Inclusive Attention Network",
+      "group_content": [
+        {
+          "id": "8e27c489-7ba5-4f1c-aef5-4cf47e6ff1d9",
+          "text": "Our knowledge-key design is essential for an agent to be compositional and incremental. By unifying the representation of policies through knowledge keys, we remove restrictions on the form of a knowledge mapping. It can be any form, such as a lookup table of state-action pairs (demonstrations) [21], if-else-based programs, fuzzy logics [36], or neural networks [25, 27]. In addition, the knowledge keys are not ordered, so  $\\pi_{g_1},\\ldots ,\\pi_{g_n}$  in  $\\mathcal{G}$  and their corresponding  $\\mathbf{k}_{g_1},\\dots,\\mathbf{k}_{g_n}$  can be freely rearranged. Finally, since a knowledge policy is encoded as a key independent of other knowledge keys in a joint embedding space, replacing a policy in  $\\mathcal{G}$  means replacing a knowledge key in the embedding space. This replacement requires no changes in the other part of KIAN's architecture. Therefore, an agent can update  $\\mathcal{G}$  anytime without relearning a significant part of KIAN.",
+          "depth": 2,
+          "section_title": "4.1 Model Architecture",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "47063ec8-8c1d-46ac-a369-7ea4e3acd261"
+          ]
+        },
+        {
+          "id": "1482681a-5cd1-4469-b790-2b025a95f460",
+          "text": "Query. The last component in KIAN, the query, is a function approximator that generates  $d_{k}$ -dimensional vectors for knowledge-policy fusion. The query is learnable with parameter  $\\phi$  and is state-dependent, so we denote it as  $\\Phi (\\cdot ;\\phi):S\\to \\mathbb{R}^{d_k}$ . Given a state  $\\mathbf{s}_t\\in S$ , the query outputs a  $d_{k}$ -dimensional vector  $\\mathbf{u}_t = \\Phi (\\mathbf{s}_t;\\phi)\\in \\mathbb{R}^{d_k}$ , which will be used to perform an attention operation with all knowledge keys. This operation determines the weights of policies when fusing them.",
+          "depth": 2,
+          "section_title": "4.1 Model Architecture",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "47063ec8-8c1d-46ac-a369-7ea4e3acd261"
+          ]
+        },
+        {
+          "id": "b4e46058-9643-4188-9a20-d1e8c1d509bc",
+          "text": "The way to predict an action with KIAN and a set of external knowledge policies,  $\\mathcal{G}$ , is by three steps: (1) calculating a weight for each knowledge policy using an embedding-based attention operation, (2) fusing knowledge policies with these weights, and (3) sampling an action from the fused policy. **Embedding-Based Attention Operation.** Given a state  $\\mathbf{s}_t \\in S$ , KIAN predicts a weight for each knowledge policy as how likely this policy will suggest a good action. These weights can be computed by the dot product between the query and knowledge keys as: $$ \\begin{array}{l} w _ {t, i n} = \\Phi (\\mathbf {s} _ {t}; \\phi) \\cdot \\mathbf {k} _ {i n} / c _ {t, i n} \\in \\mathbb {R}, \\\\ w _ {t, g _ {j}} = \\Phi (\\mathbf {s} _ {t}; \\boldsymbol {\\phi}) \\cdot \\mathbf {k} _ {g _ {j}} / c _ {t, g _ {j}} \\in \\mathbb {R}, \\quad \\forall j \\in \\{1, \\dots , n \\}. (1) \\\\ \\left[ \\hat {w} _ {t, i n}, \\hat {w} _ {t, g _ {1}}, \\dots , \\hat {w} _ {t, g _ {n}} \\right] ^ {\\top} = \\operatorname {s o f t m a x} \\left(\\left[ w _ {t, i n}, w _ {t, g _ {1}}, \\dots , w _ {t, g _ {n}} \\right] ^ {\\top}\\right). (2) \\\\ \\end{array} $$ where  $c_{t,in} \\in \\mathbb{R}$  and  $c_{t,g_j} \\in \\mathbb{R}$  are normalization factors, for example, if  $c_{t,g_j} = \\|\\Phi(\\mathbf{s}_t; \\phi)\\|_2\\|\\mathbf{k}_{g_j}\\|_2$ , then  $w_{t,g_j}$  turns out to be the cosine similarity between  $\\Phi(\\mathbf{s}_t; \\phi)$  and  $\\mathbf{k}_{g_j}$ . We refer to this operation as an embedding-based attention operation since the query evaluates each knowledge key (embedding) by equation (1) to determine how much attention an agent should pay to the corresponding knowledge policy. If  $w_{t,in}$  is larger than  $w_{t,g_j}$ , the agent relies more on its self-learned knowledge policy  $\\pi_{in}$ ; otherwise, the agent depends more on the action suggested by the knowledge policy  $\\pi_{g_j}$ . Note that the computation of one weight is independent of other knowledge keys, so changing the number of knowledge policies will not affect the relation among all remaining knowledge keys.",
+          "depth": 2,
+          "section_title": "4.2 Embedding-Based Attentive Action Prediction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "ba1716d4-7c4c-45c4-883d-78001311f39f"
+          ]
+        },
+        {
+          "id": "0de3cc2f-d7bf-431f-b14b-85779618b52e",
+          "text": "Action Prediction for A Discrete Action Space. An MDP (or KGMDP) with a discrete action space usually involves choosing from  $d_{a} \\in \\mathbb{N}$  different actions, so each knowledge policy maps from a state to a  $d_{a}$ -dimensional probability simplex,  $\\pi_{in}: S \\to \\Delta^{d_a}, \\pi_{g_j}: S \\to \\Delta^{d_a} \\forall j = 1, \\ldots, n$ . When choosing an action given a state  $\\mathbf{s}_t \\in S$ , KIAN first predicts  $\\pi(\\cdot | \\mathbf{s}_t) \\in \\Delta^{d_a} \\subseteq \\mathbb{R}^{d_a}$  with the weights,  $\\hat{w}_{in}, \\hat{w}_{g_1}, \\dots, \\hat{w}_{g_n}$ : $$ \\pi (\\cdot | \\mathbf {s} _ {t}) = \\hat {w} _ {i n} \\pi_ {i n} (\\cdot | \\mathbf {s} _ {t}) + \\Sigma_ {j = 1} ^ {n} \\hat {w} _ {g _ {j}} \\pi_ {g _ {j}} (\\cdot | \\mathbf {s} _ {t}), \\tag {3} $$ The final action is sampled as  $a_{t} \\sim \\pi(\\cdot|\\mathbf{s}_{t})$ , where the  $i$ -th element of  $\\pi(\\cdot|\\mathbf{s}_{t})$  represents the probability of sampling the  $i$ -th action.",
+          "depth": 2,
+          "section_title": "4.2 Embedding-Based Attentive Action Prediction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "ba1716d4-7c4c-45c4-883d-78001311f39f"
+          ]
+        },
+        {
+          "id": "a47a2c59-fb0f-4a76-bb3f-1766abe17c82",
+          "text": "Action Prediction for A Continuous Action Space. Each knowledge policy for a continuous action space is a probability distribution that suggests a  $d_{a}$ -dimensional action for an agent to apply to the task. As prior work [25], we model each knowledge policy as a multivariate normal distribution,  $\\pi_{in}(\\cdot |\\mathbf{s}_t) = \\mathcal{N}(\\pmb{\\mu}_{t,in},\\pmb{\\sigma}_{t,in}^2),\\pi_{g_j}(\\cdot |\\mathbf{s}_t) = \\mathcal{N}(\\pmb{\\mu}_{t,g_j},\\pmb{\\sigma}_{t,g_j}^2)\\forall j\\in \\{1,\\dots ,n\\}$ , where  $\\pmb{\\mu}_{t,in}\\in \\mathbb{R}^{d_a}$  and  $\\pmb{\\mu}_{t,g_j}\\in \\mathbb{R}^{d_a}$  are the means, and  $\\pmb{\\sigma}_{t,in}^{2}\\in \\mathbb{R}_{\\geq 0}^{d_a}$  and  $\\pmb{\\sigma}_{t,g_j}^2\\in \\mathbb{R}_{\\geq 0}^{d_a}$  are the diagonals of the covariance matrices. Note that we assume each random variable in an action is independent of one another.",
+          "depth": 2,
+          "section_title": "4.2 Embedding-Based Attentive Action Prediction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "ba1716d4-7c4c-45c4-883d-78001311f39f"
+          ]
+        }
+      ]
+    },
+    "6f8007c6-5da3-4804-9ee2-f35e50dab668": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+        "ba1716d4-7c4c-45c4-883d-78001311f39f"
+      ],
+      "section_title": "4 Knowledge-Inclusive Attention Network",
+      "group_content": [
+        {
+          "id": "9c524664-5637-4484-8ed3-a16aa4d3ca1e",
+          "text": "A continuous policy fused as equation (3) becomes a mixture of normal distributions. To sample an action from this mixture of distributions without losing the important information provided by each distribution, we choose only one knowledge policy according to the weights and sample an action from it. We first sample an element from the set $\\{in, g_1, \\ldots, g_n\\}$  according to the weights,  $\\{\\hat{w}_{t,in}, \\hat{w}_{t,g_1}, \\ldots, \\hat{w}_{t,g_n}\\}$ , using Gumbel softmax [12]:  $e \\sim \\text{gumbel\\_softmax}([\\hat{w}_{t,in}, \\hat{w}_{t,g_1}, \\ldots, \\hat{w}_{t,g_n}]^\\top)$ , in order to make KIAN differentiable everywhere. Then given a state  $\\mathbf{s}_t \\in S$ , an action is sampled from the knowledge policy,  $\\mathbf{a}_t \\sim \\pi_e(\\cdot|\\mathbf{s}_t)$ , using the reparameterization trick. However, fusing multiple policies as equation (3) will make an agent biased toward a small set of knowledge policies when exploring the environment in the context of maximum entropy KGRL.",
+          "depth": 2,
+          "section_title": "4.2 Embedding-Based Attentive Action Prediction",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "ba1716d4-7c4c-45c4-883d-78001311f39f"
+          ]
+        },
+        {
+          "id": "29010b45-20f9-47bb-a40f-a71053aadcc5",
+          "text": "Maximizing entropy is a commonly used approach to encourage exploration in RL [9, 10, 37]. However, in maximum entropy KGRL, when the entropy of policy distributions are different from one another, it leads to the problem of entropy imbalance. Entropy imbalance is a phenomenon in which an agent consistently selects only a single or a small set of knowledge policies. We show this in math by first revisiting the formulation of maximum entropy RL. In maximum entropy RL, an entropy term is added to the standard RL objective as  $\\pi^{*} = \\operatorname{argmax}_{\\pi} \\sum_{t} \\mathbb{E}_{(\\mathbf{s}_{t}, \\mathbf{a}_{t} \\sim \\pi)}[R(\\mathbf{s}_{t}, \\mathbf{a}_{t}) + \\alpha H(\\pi(\\cdot | \\mathbf{s}_{t}))]$  [9, 10], where  $\\alpha \\in \\mathbb{R}$  is a hyperparameter, and  $H(\\cdot)$  represents the entropy of a distribution. By maximizing  $\\alpha H(\\pi(\\cdot | \\mathbf{s}_{t}))$ , the policy becomes more uniform since the entropy of a probability distribution is maximized when it is a uniform distribution [19]. With this in mind, we show that in maximum entropy KGRL, some of the weights in  $\\{\\hat{w}_{t,in}, \\hat{w}_{t,g_1}, \\dots, \\hat{w}_{t,g_n}\\}$  might always be larger than others. We provide the proofs of all propositions in Appendix A.",
+          "depth": 2,
+          "section_title": "4.3 Exploration in KGRL",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "5298cab5-177c-443f-84a6-200ed74a7304"
+          ]
+        },
+        {
+          "id": "16d39533-e7b5-4f01-a4aa-1095ebddea55",
+          "text": "Proposition 4.1 (Entropy imbalance in discrete decision-making). Assume that a  $d_{a}$ -dimensional probability simplex  $\\pi \\in \\Delta^{d_a}$  is fused by  $\\{\\pi_1,\\dots ,\\pi_m\\}$  and  $\\{\\hat{w}_1,\\ldots ,\\hat{w}_m\\}$  following equation (3), where  $\\pi_j\\in \\Delta^{d_a}$ ,  $\\hat{w}_j\\geq 0$ $\\forall j\\in \\{1,\\dots,m\\}$  and  $\\sum_{j = 1}^{m}\\hat{w}_{j} = 1$ . If the entropy of  $\\pi$  is maximized and  $\\| \\pi_1\\|_{\\infty}\\ll \\| \\pi_2\\|_{\\infty},\\| \\pi_1\\|_{\\infty}\\ll \\| \\pi_3\\|_{\\infty},\\dots,\\| \\pi_1\\|_{\\infty}\\ll \\| \\pi_m\\|_{\\infty}$ , then  $\\hat{w}_1\\rightarrow 1$ We show in Proposition A.1 that if  $\\pi_1$  is more uniform than  $\\pi_j$ , then  $\\| \\pi_1 \\|_{\\infty} < \\| \\pi_j \\|_{\\infty}$ . Proposition 4.2 (Entropy imbalance in continuous control). Assume a one-dimensional policy distribution  $\\pi$  is fused by $$ \\pi = \\hat {w} _ {1} \\pi_ {1} + \\hat {w} _ {2} \\pi_ {2}, \\text {w h e r e} \\pi_ {j} = \\mathcal {N} \\left(\\mu_ {j}, \\sigma_ {j} ^ {2}\\right), \\hat {w} _ {j} \\geq 0 \\forall j \\in \\{1, 2 \\}, \\text {a n d} \\hat {w} _ {1} + \\hat {w} _ {2} = 1. \\tag {4} $$ If the variance of  $\\pi$  is maximized, and  $\\sigma_1^2 \\gg \\sigma_2^2$  and  $\\sigma_1^2 \\gg (\\mu_1 - \\mu_2)^2$ , then  $\\hat{w}_1 \\to 1$ . We can also infer from Proposition 4.2 that the variance of  $\\pi$  defined in equation (4) depends on the distance between  $\\mu_{1}$  and  $\\mu_{2}$ , which leads to Proposition 4.3. Proposition 4.3 (Distribution separation in continuous control). Assume a one-dimensional policy distribution  $\\pi$  is fused by equation (4). If  $\\hat{w}_1, \\hat{w}_2, \\sigma_1^2$ , and  $\\sigma_2^2$  are fixed, then maximizing the variance of  $\\pi$  will increase the distance between  $\\mu_1$  and  $\\mu_2$ .",
+          "depth": 2,
+          "section_title": "4.3 Exploration in KGRL",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "5298cab5-177c-443f-84a6-200ed74a7304"
+          ]
+        }
+      ]
+    },
+    "51c17f95-d0f5-45cb-95d4-8d1982d21571": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+        "5298cab5-177c-443f-84a6-200ed74a7304"
+      ],
+      "section_title": "4 Knowledge-Inclusive Attention Network",
+      "group_content": [
+        {
+          "id": "e1e722b4-5b41-4549-99f0-7ebd679be2f1",
+          "text": "Proposition 4.1, 4.2, and 4.3 indicate that in maximum entropy KGRL, (1) the agent will pay more attention to the policy with large entropy, and (2) in continuous control, an agent with a learnable internal policy will rely on this policy and separate it as far away as possible from other policies. The consistently imbalanced attention prevents the agent from exploring the environment with other policies that might provide helpful suggestions to solve the task. Furthermore, in continuous control, the distribution separation can make  $\\pi$  perform even worse than learning without any external knowledge. The reason is that external policies, although possibly being sub-optimal for the task, might be more efficient in approaching the goal, and moving away from those policies means being less efficient when exploring the environment.",
+          "depth": 2,
+          "section_title": "4.3 Exploration in KGRL",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "5298cab5-177c-443f-84a6-200ed74a7304"
+          ]
+        },
+        {
+          "id": "0423589b-2b4a-4d89-af97-30292572d056",
+          "text": "Proposition 4.1 and 4.2 show that fusing multiple policies with equation (3) can make a KGRL agent rely on a learnable internal policy for exploration. However, the uniformity of the internal policy is often desired since it encourages exploration in the state-action space that is not covered by external policies. Therefore, we keep the internal policy unchanged and propose methods to modify external policy distributions in KIAN to resolve the entropy imbalance issue. We provide the detailed learning algorithm of KGRL with KIAN in Appendix A.6.",
+          "depth": 2,
+          "section_title": "4.4 Modified Policy Distributions",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "b2a1351f-72cb-4d78-977f-f6ce812b1638"
+          ]
+        },
+        {
+          "id": "c0ed7867-4a68-40e7-93db-7a3dd3b4879b",
+          "text": "Discrete Policy Distribution. We modify a fusion of discrete policy distributions in equation (3) as $$ \\pi (\\cdot | \\mathbf {s} _ {t}) = \\hat {w} _ {t, i n} \\pi_ {i n} (\\cdot | \\mathbf {s} _ {t}) + \\sum_ {j = 1} ^ {n} \\hat {w} _ {t, g _ {j}} \\operatorname {s o f t m a x} \\left(\\beta_ {t, g _ {j}} \\pi_ {g _ {j}} (\\cdot | \\mathbf {s} _ {t})\\right), \\tag {5} $$ $$ w _ {t, i n} = \\frac {\\Phi (\\mathbf {s} _ {t}) \\cdot \\mathbf {k} _ {i n}}{\\| \\Phi (\\mathbf {s} _ {t}) \\| _ {2} \\| \\mathbf {k} _ {i n} \\| _ {2}}, w _ {t, g _ {j}} = \\frac {\\Phi (\\mathbf {s} _ {t}) \\cdot \\mathbf {k} _ {g _ {j}}}{\\| \\Phi (\\mathbf {s} _ {t}) \\| _ {2} \\| \\mathbf {k} _ {g _ {j}} \\| _ {2}}, \\tag {6} $$ $$ \\beta_ {t, g _ {j}} = \\| \\Phi (\\mathbf {s} _ {t}) \\| _ {2} \\| \\mathbf {k} _ {g _ {j}} \\| _ {2} \\quad \\forall j \\in \\{1, \\dots , n \\}, \\tag {7} $$ where  $\\beta_{t,g_j} \\in \\mathbb{R}$  is a state-and-knowledge dependent variable that scales  $\\pi_{g_j}(\\cdot|\\mathbf{s}_t)$  to change its uniformity after passing through softmax. If the value of  $\\beta_{t,g_j}$  decreases, the uniformity, i.e., the entropy, of softmax  $(\\beta_{t,g_j}\\pi_{g_j}(\\cdot|\\mathbf{s}_t))$  increases. By introducing  $\\beta_{t,g_j}$ , the entropy of knowledge policies becomes adjustable, resulting in reduced bias towards the internal policy during exploration.",
+          "depth": 2,
+          "section_title": "4.4 Modified Policy Distributions",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "b2a1351f-72cb-4d78-977f-f6ce812b1638"
+          ]
+        },
+        {
+          "id": "66290dcc-207b-455f-8bf8-cb29fbc49397",
+          "text": "Continuous Action Probability. We modify the probability of sampling  $\\mathbf{a}_t \\in \\mathbb{R}^{d_a}$  from a continuous  $\\pi(\\cdot|\\mathbf{s}_t)$  in equation (3) as $$ \\pi \\left(\\mathbf {a} _ {t} \\mid \\mathbf {s} _ {t}\\right) = \\hat {w} _ {i n} \\pi_ {i n} \\left(\\mathbf {a} _ {t, i n} \\mid \\mathbf {s} _ {t}\\right) + \\sum_ {j = 1} ^ {n} \\hat {w} _ {g _ {j}} \\pi_ {g _ {j}} \\left(\\boldsymbol {\\mu} _ {t, g _ {j}} \\mid \\mathbf {s} _ {t}\\right), \\tag {8} $$ where  $\\mathbf{a}_{t,in} \\sim \\pi_{in}(\\cdot|\\mathbf{s}_t)$  and  $\\pmb{\\mu}_{t,g_j} \\in \\mathbb{R}^{d_a}$  is the mean of  $\\pi_{g_j}(\\cdot|\\mathbf{s}_t)$ . We show in the next proposition that equation (8) is an approximation of $$ \\pi \\left(\\mathbf {a} _ {t} \\mid \\mathbf {s} _ {t}\\right) = \\hat {w} _ {i n} \\pi_ {i n} \\left(\\mathbf {a} _ {t} \\mid \\mathbf {s} _ {t}\\right) + \\Sigma_ {j = 1} ^ {n} \\hat {w} _ {g _ {j}} \\pi_ {g _ {j}} \\left(\\mathbf {a} _ {t} \\mid \\mathbf {s} _ {t}\\right), \\tag {9} $$ which is the exact probability of sampling  $\\mathbf{a}_t\\in \\mathbb{R}^{d_a}$  from a continuous  $\\pi (\\cdot |\\mathbf{s}_t)$  in equation (3).",
+          "depth": 2,
+          "section_title": "4.4 Modified Policy Distributions",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "b2a1351f-72cb-4d78-977f-f6ce812b1638"
+          ]
+        }
+      ]
+    },
+    "c6b49e35-eb2d-4d10-a49f-25155fc798d8": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+        "b2a1351f-72cb-4d78-977f-f6ce812b1638"
+      ],
+      "section_title": "4 Knowledge-Inclusive Attention Network",
+      "group_content": [
+        {
+          "id": "444708ca-0a2a-4d2c-946d-c80350920b10",
+          "text": "Proposition 4.4 (Approximation of a mixture of normal distributions). If the following three inequalities hold for  $\\mu_{t,in},\\mu_{t,g_1},\\ldots ,\\mu_{t,g_n}$ , and  $a_{t,in}$ $\\| \\mu_{t,in} - \\mu_{t,g_j}\\| _2 <   \\min \\{\\gamma_{t,in},\\gamma_{t,g_j}\\}$ $\\| a_{t,in} - \\mu_{t,in}\\| _2 <   \\min \\{\\gamma_{t,in},\\gamma_{t,g_j}\\}$ , and  $\\| a_{t,in} - \\mu_{t,g_j}\\| _2 <   \\gamma_{t,g_j},\\forall j\\in \\{1,\\dots ,n\\}$ , where  $\\gamma_{t,in} = 1 / (2\\pi_{in}(\\mu_{t,in}|\\mathbf{s}_t))$  and  $\\gamma_{t,g_j} = 1 / (2\\pi_{g_j}(\\mu_{t,g_j}|\\mathbf{s}_t))$ , then equation (9) for a real-valued action  $a_{t}$  sampled from KIAN can be approximated by $$ \\hat {w} _ {t, i n} \\mathcal {U} \\left(a _ {t}; \\mu_ {t, i n} - \\gamma_ {t, i n}, \\mu_ {t, i n} + \\gamma_ {t, i n}\\right) + \\sum_ {j = 1} ^ {n} \\hat {w} _ {t, g _ {j}} \\mathcal {U} \\left(a _ {t}; \\mu_ {t, i n} - \\gamma_ {t, g _ {j}}, \\mu_ {t, i n} + \\gamma_ {t, g _ {j}}\\right), \\tag {10} $$ $$ w h e r e \\quad \\mathcal {U} (\\cdot ; a, b) = 1 / (b - a). \\tag {11} $$ In addition, equation (8) is a lower bound of equation (10). With equation (8), we can show that maximizing the variance of  $\\pi (\\cdot |\\mathbf{s}_t)$  will not separate the policy distributions. Hence, an agent can refer to external policies for efficient exploration and learn its own refined strategy based on them. Proposition 4.5 (Maximized variance's independence of the distance between means). Assume a one-dimensional policy  $\\pi$  is fused by equation (4). If  $\\pi(a|\\mathbf{s})$  is approximated as equation (8), and the three inequalities in Proposition 4.4 are satisfied, then maximizing the variance of  $\\pi(\\cdot|\\mathbf{s})$  will not affect the distance between  $\\mu_1$  and  $\\mu_2$ .",
+          "depth": 2,
+          "section_title": "4.4 Modified Policy Distributions",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "92919ec9-9ae0-40b4-ae8e-94ac82d9d49c",
+            "b2a1351f-72cb-4d78-977f-f6ce812b1638"
+          ]
+        }
+      ]
+    },
+    "050e5200-9524-468d-81cc-3fadc53c5e64": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "77af206e-d7ac-41fa-ab68-7eeff87ce126"
+      ],
+      "section_title": "5 Experiments",
+      "group_content": [
+        {
+          "id": "4d3dc6e8-2de3-42bb-b0a3-72dca564be67",
+          "text": "We evaluate KIAN on two sets of environments with discrete and continuous action spaces: MiniGrid [5] and OpenAI-Robotics [24]. Through experiments, we answer the following four questions: [Sample Efficiency] Does KIAN require fewer training samples to solve a task than other external-policy-inclusive methods? [Generalizability] Can KIAN trained on one task be directly used to solve another task? [Compositional and Incremental Learning] Can KIAN combine previously learned knowledge keys and inner policies to learn a new task? After adding more external policies to  $\\mathcal{G}$ , can most of the components from a trained KIAN be reused for learning?",
+          "depth": 1,
+          "section_title": "5 Experiments",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126"
+          ]
+        },
+        {
+          "id": "701eb721-0ddb-45d2-abc5-8efdd22ee9f3",
+          "text": "For comparison, we implement the following five methods as our baselines: behavior cloning (BC) [3], RL [10, 29], RL+BC [21], KoGuN [36], and A2T [27]. KoGuN and A2T are modified to be compositional and applicable in both discrete and continuous action spaces. Moreover, all methods (BC, RL+BC, KoGuN, A2T, and KIAN) are equipped with the same initial external knowledge set,  $\\mathcal{G}^{init}$ , for each task. This knowledge set comprises sub-optimal if-else-based programs that cannot complete a task themselves, e.g., pickup_a_key or move_forward_to_the_goal.  $\\mathcal{G}^{init}$  will be expanded with learned policies in compositional- and incremental-learning experiments. We provide the experimental details in Appendix B.",
+          "depth": 1,
+          "section_title": "5 Experiments",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126"
+          ]
+        },
+        {
+          "id": "daaa0e6b-b6cf-45d8-94f1-2fc83b1ef105",
+          "text": "We study the sample efficiency of baselines and KIAN under the intra-task setup, where an agent learns a single task with the external knowledge set  $\\mathcal{G}^{init}$  fixed. Figure 3 plots the learning curves in different environments. All experiments in these figures are run with ten random seeds, and each error band is a  $95\\%$  confidence interval. The results of BC show that the external knowledge policies are sub-optimal for all environments. Given sub-optimal external knowledge, only KIAN shows success in all environments. In general, improvement of KIAN over baselines is more apparent when the task is more complex, e.g., Empty  $<$  Unlock  $<$  DoorKey and Push  $<$  Pick-and-Place. Moreover, KIAN is more stable than baselines in most environments. Note that in continuous-control tasks (Push, Slide, and Pick-and-Place), A2T barely succeeds since it does not consider the entropy imbalance issue introduced in Proposition 4.2 and 4.3. These results suggest that KIAN can more efficiently explore the environment with external knowledge policies and fuse multiple policies to solve a task.",
+          "depth": 2,
+          "section_title": "5.1 Sample Efficiency and Generalizability",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+            "a165a860-a431-4ae5-9f31-c66bffeb445e"
+          ]
+        },
+        {
+          "id": "b3296486-ce1e-4b38-b90b-97e1c4369829",
+          "text": "Next, we evaluate the generalizability of all methods under simple-to-complex (S2C) and complex-to-simple (C2S) setups, where the former trains a policy in a simple task and test it in a complex one, and the latter goes the opposite way. All generalizability experiments are run with the same policies as in Section 5.1. Table 1 and 2 show that KIAN outperforms other baselines in most experiments, and its results have a smaller variance (see Table 3 to 5 in Appendix E). These results demonstrate that KIAN's flexibility in incorporating external policies improves generalizability.",
+          "depth": 2,
+          "section_title": "5.1 Sample Efficiency and Generalizability",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+            "a165a860-a431-4ae5-9f31-c66bffeb445e"
+          ]
+        }
+      ]
+    },
+    "efffd628-49b3-4a43-808f-2af2e10ce478": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+        "63166a10-108f-4871-ac32-5e5bbd13afa6"
+      ],
+      "section_title": "5 Experiments",
+      "group_content": [
+        {
+          "id": "7cbd54fe-1bf9-4fdc-9e5a-15199d5527d3",
+          "text": "In the final experiments, we test different methods in the compositional and incremental learning setting. We modify RL, KoGuN, and A2T to fit into this setting; details can be found in Appendix C. The experiments follow the inter-task setup: (1) We randomly select a pair of tasks  $(\\mathcal{M}_k^1,\\mathcal{M}_k^2)$ . (2) An agent learns a policy to solve  $\\mathcal{M}_k^1$  with  $\\mathcal{G}^{init}$  fixed, as done in Section 5.1. (3) The learned (internal) policy,  $\\pi_{in}^{1}$ , is added to the external knowledge set,  $\\mathcal{G} = \\mathcal{G}^{init} \\cup \\{\\pi_{in}^{1}\\}$ . (4) The same agent learns a policy to solve  $\\mathcal{M}_k^2$  with  $\\mathcal{G}$ . Each experiment is run with ten random seeds.",
+          "depth": 2,
+          "section_title": "5.2 Compositional and Incremental Learning",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+            "63166a10-108f-4871-ac32-5e5bbd13afa6"
+          ]
+        }
+      ]
+    },
+    "1b494579-ccc3-44ff-aa20-9aa7375b28ea": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+        "63166a10-108f-4871-ac32-5e5bbd13afa6"
+      ],
+      "section_title": "5 Experiments",
+      "group_content": [
+        {
+          "id": "47eb7bfd-6c73-4759-a35b-f58049d447fa",
+          "text": "The learning curves in Figure 4 demonstrate that given the same updated  $\\mathcal{G}$ , KIAN requires fewer samples to solve  $\\mathcal{M}_k^2$  than RL, KoGuN, and A2T in all experiments. Our knowledge-key and query design disentangles policy representations from the action-prediction operation, so the agent is more optimized in incremental learning. Unlike our disentangled design, prior methods use a single function approximator to directly predict an action (KoGuN) or the weight of each policy (A2T) given a state. These methods make the action-prediction operation depend on the number of knowledge policies, so changing the size of  $\\mathcal{G}$  requires significant retraining of the entire function approximator.",
+          "depth": 2,
+          "section_title": "5.2 Compositional and Incremental Learning",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+            "63166a10-108f-4871-ac32-5e5bbd13afa6"
+          ]
+        },
+        {
+          "id": "855ed33f-1219-4257-aa27-e4a382c39d51",
+          "text": "Figure 4 also shows that KIAN solves  $\\mathcal{M}_k^2$  more efficiently with  $\\mathcal{G}$  than  $\\mathcal{G}^{init}$  in most experiments. This improvement can be attributed to KIAN reusing the knowledge keys and query, which allows an agent to know which policies to fuse under different scenarios. Note that  $\\mathcal{G}$  can be further expanded with the internal policy learned in  $\\mathcal{M}_k^2$  and be used to solve another task  $\\mathcal{M}_k^3$ .",
+          "depth": 2,
+          "section_title": "5.2 Compositional and Incremental Learning",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+            "63166a10-108f-4871-ac32-5e5bbd13afa6"
+          ]
+        }
+      ]
+    },
+    "713104fc-c8a7-4fa3-8f1a-8e93692c3026": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+        "44f4022a-5f66-47da-a8e5-e7eb39c13eb1"
+      ],
+      "section_title": "5 Experiments",
+      "group_content": [
+        {
+          "id": "f85f0721-86fe-4355-af5d-31bb37aec47c",
+          "text": "In our ablation study, we investigate (1) the impact of entropy imbalance on the performance of maximum entropy KGRL and (2) whether the proposed modifications to external policy distributions in Section 4.4 can alleviate the issue. Figure 5 shows the learning curves comparing KIAN's performance with and without addressing the entropy-imbalance issue. The results demonstrate that when not addressing the issue using equation (5) or (8), KIAN fails to fully capitalize on the guidance offered by external policies. We also draw two noteworthy conclusions from the figure: (1) For discrete decision-making tasks, the detrimental impact of entropy imbalance becomes more evident as task complexity increases. (2) For continuous-control tasks, entropy imbalance can degrade KIAN's performance and make it perform worse than pure RL without external policies, as shown by the results of FetchPickAndPlace and FetchPush. This phenomenon can be attributed to Proposition 4.3. In contrast, by adjusting KIAN's external policy distributions using equation (5) or (8), a KGRL agent can efficiently harness external policies to solve a given task.",
+          "depth": 2,
+          "section_title": "5.3 Analysis of Entropy Imbalance in Maximum Entropy KGRL",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "77af206e-d7ac-41fa-ab68-7eeff87ce126",
+            "44f4022a-5f66-47da-a8e5-e7eb39c13eb1"
+          ]
+        }
+      ]
+    },
+    "d89c6bfe-2bde-4375-8db9-68b9be1e2e1a": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a39860c7-db95-4cac-97ae-c78347f3df8d"
+      ],
+      "section_title": "6 Conclusion and Discussion",
+      "group_content": [
+        {
+          "id": "4ea948f8-52f0-49c8-828d-255c2438296d",
+          "text": "This work introduces KGRL, an RL paradigm aiming to enhance efficient and flexible learning by harnessing external policies. We propose KIAN as an actor model for KGRL, which predicts an action by fusing multiple policies with an embedding-based attention operation. Furthermore, we propose modifications to KIAN's policy distributions to address entropy imbalance, which hinders efficient exploration with external policies in maximum entropy KGRL. Our experimental findings demonstrate that KIAN outperforms alternative methods incorporating external policies regarding sample efficiency, generalizability, and compositional and incremental learning.",
+          "depth": 1,
+          "section_title": "6 Conclusion and Discussion",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a39860c7-db95-4cac-97ae-c78347f3df8d"
+          ]
+        },
+        {
+          "id": "73e16a8d-6971-423a-bf4e-0a9e33b14600",
+          "text": "However, it is essential to acknowledge a limitation not addressed in this work. The efficiency of KIAN, as well as other existing KGRL methods, may decrease when dealing with a large external knowledge set containing irrelevant policies. This issue is examined and discussed in Appendix F. Efficiently handling extensive sets of external policies is left for future research.",
+          "depth": 1,
+          "section_title": "6 Conclusion and Discussion",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a39860c7-db95-4cac-97ae-c78347f3df8d"
+          ]
+        }
+      ]
+    },
+    "a5dbf67f-7ddf-42e4-b5e4-074d087c4af1": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a39860c7-db95-4cac-97ae-c78347f3df8d"
+      ],
+      "section_title": "6 Conclusion and Discussion",
+      "group_content": [
+        {
+          "id": "3a52911b-16ea-4831-9665-8eb41917aa04",
+          "text": "Our research represents an initial step towards the overarching goal of KGRL: learning a knowledge set with a diverse range of policies. These knowledge policies can be shared across various environments and continuously expanded, allowing artificial agents to flexibly query and learn from them. We provide detailed discussions on the broader impact of this work and outline potential directions of future research in Appendix D.",
+          "depth": 1,
+          "section_title": "6 Conclusion and Discussion",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a39860c7-db95-4cac-97ae-c78347f3df8d"
+          ]
+        }
+      ]
+    }
+  }
+}

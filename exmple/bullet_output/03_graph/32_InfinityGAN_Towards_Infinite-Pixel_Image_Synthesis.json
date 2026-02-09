@@ -1,0 +1,803 @@
+{
+  "edges": [
+    {
+      "source": "0bfee5e1-6e63-425e-af87-ecd659e506b9",
+      "target": "c1fc1189-1d28-471d-921e-ea2b97fab08b",
+      "score": 0.4751
+    },
+    {
+      "source": "e5e85e59-d17d-48ea-9643-021b6d8c119b",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.4705
+    },
+    {
+      "source": "0bfee5e1-6e63-425e-af87-ecd659e506b9",
+      "target": "8656c5df-2010-470a-8907-12f87edeb6c8",
+      "score": 0.4414
+    },
+    {
+      "source": "d7aba1ed-6790-463f-a951-776144c56776",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.4193
+    },
+    {
+      "source": "17bf8eaa-c228-4347-9c53-27fd156b4c68",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.4151
+    },
+    {
+      "source": "711f6068-7e29-4d39-9f99-93e41c67ed28",
+      "target": "03de8ca9-ed93-43d1-a716-6811a9131900",
+      "score": 0.3997
+    },
+    {
+      "source": "02f3bc89-5714-4259-87eb-c9c23e98dea7",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3994
+    },
+    {
+      "source": "51435815-e89a-4dd8-9fb4-48c8ffa0fdbc",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3969
+    },
+    {
+      "source": "711f6068-7e29-4d39-9f99-93e41c67ed28",
+      "target": "51435815-e89a-4dd8-9fb4-48c8ffa0fdbc",
+      "score": 0.3852
+    },
+    {
+      "source": "6a215cf0-7032-4ffc-abf5-7a7d24b67207",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3841
+    },
+    {
+      "source": "3f86daa2-d048-4b62-b0ab-35950cbc7904",
+      "target": "c1fc1189-1d28-471d-921e-ea2b97fab08b",
+      "score": 0.3773
+    },
+    {
+      "source": "855ad2be-db37-414e-b3aa-9539d7444cbf",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.377
+    },
+    {
+      "source": "d7aba1ed-6790-463f-a951-776144c56776",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3752
+    },
+    {
+      "source": "17bf8eaa-c228-4347-9c53-27fd156b4c68",
+      "target": "8656c5df-2010-470a-8907-12f87edeb6c8",
+      "score": 0.3722
+    },
+    {
+      "source": "855ad2be-db37-414e-b3aa-9539d7444cbf",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.3648
+    },
+    {
+      "source": "d66b937c-3ab6-4898-81e5-7a5132766ba9",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3612
+    },
+    {
+      "source": "17bf8eaa-c228-4347-9c53-27fd156b4c68",
+      "target": "c1fc1189-1d28-471d-921e-ea2b97fab08b",
+      "score": 0.3578
+    },
+    {
+      "source": "03de8ca9-ed93-43d1-a716-6811a9131900",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3514
+    },
+    {
+      "source": "d66b937c-3ab6-4898-81e5-7a5132766ba9",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.3445
+    },
+    {
+      "source": "711f6068-7e29-4d39-9f99-93e41c67ed28",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.3403
+    },
+    {
+      "source": "16cb6b62-6751-4c13-8655-fd2ddbca120b",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.3402
+    },
+    {
+      "source": "855ad2be-db37-414e-b3aa-9539d7444cbf",
+      "target": "16cb6b62-6751-4c13-8655-fd2ddbca120b",
+      "score": 0.34
+    },
+    {
+      "source": "16cb6b62-6751-4c13-8655-fd2ddbca120b",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3331
+    },
+    {
+      "source": "f79524fc-ff1a-435d-98c5-65f9ecb986f0",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.3316
+    },
+    {
+      "source": "f79524fc-ff1a-435d-98c5-65f9ecb986f0",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3308
+    },
+    {
+      "source": "711f6068-7e29-4d39-9f99-93e41c67ed28",
+      "target": "17bf8eaa-c228-4347-9c53-27fd156b4c68",
+      "score": 0.3247
+    },
+    {
+      "source": "e5e85e59-d17d-48ea-9643-021b6d8c119b",
+      "target": "d66b937c-3ab6-4898-81e5-7a5132766ba9",
+      "score": 0.3206
+    },
+    {
+      "source": "17bf8eaa-c228-4347-9c53-27fd156b4c68",
+      "target": "51435815-e89a-4dd8-9fb4-48c8ffa0fdbc",
+      "score": 0.3168
+    },
+    {
+      "source": "f79524fc-ff1a-435d-98c5-65f9ecb986f0",
+      "target": "16cb6b62-6751-4c13-8655-fd2ddbca120b",
+      "score": 0.3129
+    },
+    {
+      "source": "51435815-e89a-4dd8-9fb4-48c8ffa0fdbc",
+      "target": "c1fc1189-1d28-471d-921e-ea2b97fab08b",
+      "score": 0.3122
+    },
+    {
+      "source": "d7aba1ed-6790-463f-a951-776144c56776",
+      "target": "8656c5df-2010-470a-8907-12f87edeb6c8",
+      "score": 0.3115
+    },
+    {
+      "source": "3f86daa2-d048-4b62-b0ab-35950cbc7904",
+      "target": "0bfee5e1-6e63-425e-af87-ecd659e506b9",
+      "score": 0.3067
+    },
+    {
+      "source": "3f86daa2-d048-4b62-b0ab-35950cbc7904",
+      "target": "4b8db685-cad9-42dc-9abe-c3b5f2fbb025",
+      "score": 0.3043
+    },
+    {
+      "source": "17bf8eaa-c228-4347-9c53-27fd156b4c68",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.304
+    },
+    {
+      "source": "51435815-e89a-4dd8-9fb4-48c8ffa0fdbc",
+      "target": "799ef7e5-ce51-45d3-baee-735b6095152f",
+      "score": 0.3031
+    }
+  ],
+  "id_map": {
+    "f79524fc-ff1a-435d-98c5-65f9ecb986f0": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "90bbcf33-2a9f-49d3-abb8-75fa4b524339"
+      ],
+      "section_title": "Abstract",
+      "group_content": [
+        {
+          "id": "2534bd48-9409-42ab-b2eb-5207aee6f61c",
+          "text": "We present a novel framework, InfinityGAN, for arbitrary-sized image generation. The task is associated with several key challenges. First, scaling existing models to an arbitrarily large image size is resource-constrained, in terms of both computation and availability of large-field-of-view training data. InfinityGAN trains and infers in a seamless patch-by-patch manner with low computational resources. Second, large images should be locally and globally consistent, avoid repetitive patterns, and look realistic. To address these, InfinityGAN disentangles global appearances, local structures, and textures. With this formulation, we can generate images with spatial size and level of details not attainable before. Experimental evaluation validates that InfinityGAN generates images with superior realism compared to baselines and features parallelizable inference. Finally, we show several applications unlocked by our approach, such as spatial style fusion, multimodal outpainting, and image inbetweening. All applications can be operated with arbitrary input and output sizes.",
+          "depth": 1,
+          "section_title": "Abstract",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "90bbcf33-2a9f-49d3-abb8-75fa4b524339"
+          ]
+        }
+      ]
+    },
+    "8684bc86-92c5-4f8b-9b86-32b4f5846bc1": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "64802d81-57ff-40e8-a7d5-64847f1adc75"
+      ],
+      "section_title": "1 INTRODUCTION",
+      "group_content": [
+        {
+          "id": "91548dcb-9faf-412a-95a8-9f7378a02b94",
+          "text": "\"To infinity and beyond!\" - Buzz Lightyear Generative models witness substantial improvements in resolution and level of details. Most improvements come at a price of increased training time (Gulrajani et al., 2017; Mescheder et al., 2018), larger model size (Balaji et al., 2021), and stricter data requirements (Karras et al., 2018). The most recent works synthesize images at  $1024 \\times 1024$  resolution featuring a high level of details and fidelity. However, models generating high resolution images usually still synthesize images of limited field-of-view bounded by the training data. It is not straightforward to scale these models to generate images of arbitrarily large field-of-view. Synthesizing infinite-pixel images is constrained by the finite nature of resources. Finite computational resources (e.g., memory and training time) set bounds for input receptive field and output size. A further limitation is that there exists no infinite-pixel image dataset. Thus, to generate infinite-pixel images, a model should learn the implicit global structure without direct supervision and under limited computational resources.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "64802d81-57ff-40e8-a7d5-64847f1adc75"
+          ]
+        },
+        {
+          "id": "f8943849-415e-4b09-91d6-408bb6246756",
+          "text": "Repetitive texture synthesis methods (Efros & Leung, 1999; Xian et al., 2018) generalize to large spatial sizes. Yet, such methods are not able to synthesize real-world images. Recent works, such as SinGAN (Shaham et al., 2019) and InGAN (Shocher et al., 2019), learn an internal patch distribution for image synthesis. Although these models can generate images with arbitrary shapes, in Section 4.1, we show that they do not infer structural relationships well, and fail to construct plausible holistic views with spatially extended latent space. A different approach, COCO-GAN (Lin et al., 2019), learns a coordinate-conditioned patch distribution for image synthesis. As shown in Figure 4, despite the ability to slightly extend images beyond the learned boundary, it fails to maintain the global coherence of the generated images when scaling to a  $2 \\times$  larger generation size.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "64802d81-57ff-40e8-a7d5-64847f1adc75"
+          ]
+        }
+      ]
+    },
+    "d7aba1ed-6790-463f-a951-776144c56776": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "64802d81-57ff-40e8-a7d5-64847f1adc75"
+      ],
+      "section_title": "1 INTRODUCTION",
+      "group_content": [
+        {
+          "id": "8c2bbbbf-f857-49ef-aeb2-de419ff14cf3",
+          "text": "How to generate infinite-pixel images? Humans are able to guess the whole scene given a partial observation of it. In a similar fashion, we aim to build a generator that trains with image patches, and inference images of unbounded arbitrary-large size. An example of a synthesized scene containing globally-plausible structure and heterogeneous textures is shown in Figure 1.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "64802d81-57ff-40e8-a7d5-64847f1adc75"
+          ]
+        },
+        {
+          "id": "884f8ac2-5c0e-435f-993c-d5fba248b696",
+          "text": "We propose InfinityGAN, a method that trains on a finite-pixel dataset, while generating infinite-pixel images at inference time. InfinityGAN consists of a neural implicit function, termed structure synthesizer, and a padding-free StyleGAN2 generator, dubbed texture synthesizer. Given a global appearance of an infinite-pixel image, the structure synthesizer samples a sub-region using coordinates and synthesizes an intermediate local structural representations. The texture synthesizer then seamlessly synthesizes the final image by parts after filling the fine local textures to the local structural representations. InfinityGAN can infer a compelling global composition of a scene with realistic local details. Trained on small patches, InfinityGAN achieves high-quality, seamless and arbitrarily-sized outputs with low computational resources—a single TITAN X to train and test.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "64802d81-57ff-40e8-a7d5-64847f1adc75"
+          ]
+        },
+        {
+          "id": "247bc083-d988-43fb-b019-c511e3c9a8c6",
+          "text": "We conduct extensive experiments to validate the proposed method. Qualitatively, we present the everlastingly long landscape images. Quantitatively, we evaluate InfinityGAN and related methods using user study and a proposed ScaleInv FID metric. Furthermore, we demonstrate the efficiency and efficacy of the proposed methods with several applications. First, we demonstrate the flexibility and controllability of the proposed method by spatially fusing structures and textures from different distributions within an image. Second, we show that our model is an effective deep image prior for the image outpainting task with the image inversion technique and achieves multi-modal outpainting of arbitrary length from arbitrarily-shaped inputs. Third, with the proposed model we can divide-and-conquer the full image generation into independent patch generation and achieve  $7.2\\times$  of inference speed-up with parallel computing, which is critical for high-resolution image synthesis.",
+          "depth": 1,
+          "section_title": "1 INTRODUCTION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "64802d81-57ff-40e8-a7d5-64847f1adc75"
+          ]
+        }
+      ]
+    },
+    "e5e85e59-d17d-48ea-9643-021b6d8c119b": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "7da242c3-40f2-4710-bab3-cc94eb1c2565"
+      ],
+      "section_title": "2 RELATED WORK",
+      "group_content": [
+        {
+          "id": "2d2295a4-27b1-45fc-9a77-6f3372d98064",
+          "text": "Latent generative models. Existing generative models are mostly designed to synthesize images of fixed sizes. A few methods (Karras et al., 2018; 2020) have been recently developed to train latent generative models on high-resolution images, up to  $1024 \\times 1024$  pixels. However, latent generative models generate images from dense latent vectors that require synthesizing all structural contents at once. Bounded by computational resources and limited by the learning framework and architecture, these approaches synthesize images of certain sizes and are non-trivial to generalize to different output size. In contrast, patch-based GANs trained on image patches (Lin et al., 2019; Shaham et al., 2019; Shocher et al., 2019) are less constrained by the resource bottleneck with the synthesis-by-part approach. However, (Shaham et al., 2019; Shocher et al., 2019) can only model and repeat internal statistics of a single image, and (Lin et al., 2019) can barely extrapolate few patches beyond the training size. ALIS (Skorokhodov et al., 2021) is a concurrent work that also explores synthesizing infinite-pixel images. It recursively inbetweens latent variable pairs in the horizontal direction. We further discuss the method in Appendix A. Finally, autoregressive models (Oord et al., 2016; Razavi et al., 2019; Esser et al., 2021) can theoretically synthesize at arbitrary image sizes. Despite (Razavi et al., 2019) and (Esser et al., 2021) showing unconditional images synthesis at  $1024 \\times 1024$  resolution, their application in infinite-pixel image synthesis has not yet been well-explored.",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7da242c3-40f2-4710-bab3-cc94eb1c2565"
+          ]
+        },
+        {
+          "id": "f43c9109-4319-42c6-97d8-d81a1c4ffd13",
+          "text": "Conditional generative models. Numerous tasks such as image super-resolution, semantic image synthesis, and image extrapolation often showcase results over  $1024 \\times 1024$  pixels. These tasks are less related to our setting, as most structural information is already provided in the conditional inputs. We illustrate and compare the characteristics of these tasks against ours in Appendix B.",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7da242c3-40f2-4710-bab3-cc94eb1c2565"
+          ]
+        },
+        {
+          "id": "02e5e668-2e94-49c0-9044-5bf5bbc60dd3",
+          "text": "Image outpainting. Image outpainting (Abdal et al., 2020; Liu et al., 2021; Sabini & Rusak, 2018; Yang et al., 2019) is related to image inpainting (Liu et al., 2018a; Yu et al., 2019) and shares similar issues that the generator tends to copy-and-paraphrase the conditional input or create mottled textural samples, leading to repetitive results especially when the outpainted region is large. InOut (Cheng et al., 2021) proposes to outpaint image with GANs inversion and yield results with higher diversity. We show that with InfinityGAN as the deep image prior along with InOut (Cheng et al., 2021), we obtain the state-of-the-art outpainting results and avoids the need of sequential outpainting. Then, we demonstrate applications in arbitrary-distant image inbetweening, which is at the intersection of image inpainting (Liu et al., 2018a; Nazeri et al., 2019; Yu et al., 2019) and outpainting research.",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7da242c3-40f2-4710-bab3-cc94eb1c2565"
+          ]
+        },
+        {
+          "id": "880dca7a-5ede-477e-9ba6-0f594d6120e2",
+          "text": "Neural implicit representation. Neural implicit functions (Park et al., 2019; Mescheder et al., 2019; Mildenhall et al., 2020) have been applied to model the structural information of 3D and continuous representations. Adopting neural implicit modeling, our query-by-coordinate synthesizer is able to model structural information effectively. Some recent works (DeVries et al., 2021; Niemeyer & Geiger, 2021; Chan et al., 2021) also attempt to integrate neural implicit function into generative models, but aiming at 3D-structure modeling instead of extending the synthesis field-of-view.",
+          "depth": 1,
+          "section_title": "2 RELATED WORK",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "7da242c3-40f2-4710-bab3-cc94eb1c2565"
+          ]
+        }
+      ]
+    },
+    "9bdca722-e734-45ee-9335-22289155b4e9": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a786aae8-381a-4df0-b603-61072228033c",
+        "bd0d1bbe-2d2b-4337-8cc2-2e575cbe67db"
+      ],
+      "section_title": "3 PROPOSED METHOD",
+      "group_content": [
+        {
+          "id": "62903a68-7f36-41d6-bf94-df9de6d20e4d",
+          "text": "An arbitrarily large image can be described globally and locally. Globally, images should be coherent and hence global characteristics should be expressible by a compact holistic appearance (e.g., a medieval landscape, ocean view panorama). Therefore, we adopt a fixed holistic appearance for each infinite-pixel image to represent the high-level composition and content of the scene. Locally, a close-up view of an image is defined by its local structure and texture. The structure represents objects, shapes and their arrangement within a local region. Once the structure is defined, there exist multiple feasible appearances or textures to render realistic scenes. At the same time, structure and texture should conform to the global holistic appearance to maintain the visual consistency among the neighboring patches. Given these assumptions, we can generate an infinite-pixel image by first sampling a global holistic appearance, then spatially extending local structures and textures following the holistic appearance.",
+          "depth": 2,
+          "section_title": "3.1 OVERVIEW",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "bd0d1bbe-2d2b-4337-8cc2-2e575cbe67db"
+          ]
+        }
+      ]
+    },
+    "0bfee5e1-6e63-425e-af87-ecd659e506b9": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a786aae8-381a-4df0-b603-61072228033c",
+        "bd0d1bbe-2d2b-4337-8cc2-2e575cbe67db"
+      ],
+      "section_title": "3 PROPOSED METHOD",
+      "group_content": [
+        {
+          "id": "cd543efd-bb43-4386-bf0a-82a6a1fc0eb6",
+          "text": "Accordingly, the InfinityGAN generator  $G$  consists of a structure synthesizer  $G_{\\mathrm{S}}$  and a texture synthesizer  $G_{\\mathrm{T}}$ .  $G_{\\mathrm{S}}$  is an implicit function that samples a sub-region with coordinates and creates local structural features.  $G_{\\mathrm{T}}$  is a fully convolutional StyleGAN2 (Karras et al., 2020) modeling textural properties for local patches and rendering final image. Both modules follow a consistent holistic appearance throughout the process. Figure 2 presents the overview of our framework.",
+          "depth": 2,
+          "section_title": "3.1 OVERVIEW",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "bd0d1bbe-2d2b-4337-8cc2-2e575cbe67db"
+          ]
+        },
+        {
+          "id": "0783a485-0c62-4b49-9026-4332b03afc21",
+          "text": "Structure synthesizer is a neural implicit function driven by three sets of latent variables: A global latent vector  $\\mathbf{z}_{\\mathrm{g}}$  representing the holistic appearance of the infinite-pixel image (also called implicit image since the whole image is never explicitly sampled), a local latent tensor  $\\mathbf{z}_1$  expressing the local structural variation of the image content, and a coordinate grid  $\\mathbf{c}$  specifying the location of the patches to sample from the implicit image. The synthesis process is formulated as: $$ \\mathbf {z} _ {\\mathrm {S}} = G _ {\\mathrm {S}} \\left(\\mathbf {z} _ {\\mathrm {g}}, \\mathbf {z} _ {1}, \\mathbf {c}\\right), \\tag {1} $$ where  $\\mathbf{z}_{\\mathrm{S}}$  denotes the structural latent variable that is later used as an input to the texture synthesizer.",
+          "depth": 2,
+          "section_title": "3.2 STRUCTURE SYNTHESIZER  $(G_{\\mathrm{S}})$",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "c7588674-1a7f-49be-b177-05d5d973e0fd"
+          ]
+        },
+        {
+          "id": "b909dd08-6a13-4251-9212-024b59985889",
+          "text": "We sample  $\\mathbf{z}_{\\mathrm{g}} \\in \\mathbb{R}^{D_{\\mathbf{z}_{\\mathrm{g}}}}$  from a unit Gaussian distribution once and inject  $\\mathbf{z}_{\\mathrm{g}}$  into every layer and pixel in  $G_{\\mathrm{S}}$  via feature modulation (Huang & Belongie, 2017; Karras et al., 2020). As local variations are independent across the spatial dimension, we independently sample them from a unit Gaussian prior for each spatial position of  $\\mathbf{z}_{1} \\in \\mathbb{R}^{H \\times W \\times D_{\\mathbf{z}_{1}}}$ , where  $H$  and  $W$  can be arbitrarily extended.",
+          "depth": 2,
+          "section_title": "3.2 STRUCTURE SYNTHESIZER  $(G_{\\mathrm{S}})$",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "c7588674-1a7f-49be-b177-05d5d973e0fd"
+          ]
+        }
+      ]
+    },
+    "3f86daa2-d048-4b62-b0ab-35950cbc7904": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a786aae8-381a-4df0-b603-61072228033c",
+        "c7588674-1a7f-49be-b177-05d5d973e0fd"
+      ],
+      "section_title": "3 PROPOSED METHOD",
+      "group_content": [
+        {
+          "id": "a4673364-d67f-4ac6-978f-1706d2fd8ab0",
+          "text": "We then use coordinate grid  $\\mathbf{c}$  to specify the location of the target patches to be sampled. To be able to condition  $G_{\\mathrm{S}}$  with coordinates infinitely far from the origin, we introduce a prior by exploiting the nature of landscape images: (a) self-similarity for the horizontal direction, and (b) rapid saturation (e.g., land, sky or ocean) for the vertical direction. To implement this, we use the positional encoding for the horizontal axis similar to (Vaswani et al., 2017; Tancik et al., 2020; Sitzmann et al., 2020). We use both sine and cosine functions to encode each coordinate for numerical stability. For the vertical axis, to represent saturation, we apply the tanh function. Formally, given horizontal and vertical indexes  $(i_x,i_y)$  of  $\\mathbf{z}_1$  tensor, we encode them as  $\\mathbf{c} = (\\tanh (i_y),\\cos (i_x / T),\\sin (i_x / T))$  where  $T$  is the period of the sine function and  $\\mathbf{c}$  controls the location of the patch to generate.",
+          "depth": 2,
+          "section_title": "3.2 STRUCTURE SYNTHESIZER  $(G_{\\mathrm{S}})$",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "c7588674-1a7f-49be-b177-05d5d973e0fd"
+          ]
+        },
+        {
+          "id": "125b30d9-6384-4d58-ba49-69c6206b3297",
+          "text": "To prevent the model from ignoring the variation of  $\\mathbf{z}_1$  and generating repetitive content by following the periodically repeating coordinates, we adopt a mode-seeking diversity loss (Mao et al., 2019; Lee et al., 2020) between a pair of local latent variables  $\\mathbf{z}_{\\mathrm{l}_1}$  and  $\\mathbf{z}_{\\mathrm{l}_2}$  while sharing the same  $\\mathbf{z}_{\\mathrm{g}}$  and  $\\mathbf{c}$ : $$ \\mathcal {L} _ {\\mathrm {d i v}} = \\left\\| \\mathbf {z} _ {\\mathrm {l} _ {1}} - \\mathbf {z} _ {\\mathrm {l} _ {2}} \\right\\| _ {1} / \\left\\| G _ {\\mathrm {S}} \\left(\\mathbf {z} _ {\\mathrm {g}}, \\mathbf {z} _ {\\mathrm {l} _ {1}}, \\mathbf {c}\\right) - G _ {\\mathrm {S}} \\left(\\mathbf {z} _ {\\mathrm {g}}, \\mathbf {z} _ {\\mathrm {l} _ {2}}, \\mathbf {c}\\right) \\right\\| _ {1}. \\tag {2} $$ Conventional neural implicit functions produce outputs for each input query independently, which is a pixel in  $\\mathbf{z}_1$  for InfinityGAN. Such a design causes training instabilities and slows convergence, as we show in Figure 37. We therefore adopt the feature unfolding technique (Chen et al., 2021) to enable  $G_{\\mathrm{S}}$  to account for the information in a broader neighboring region of  $\\mathbf{z}_1$  and  $\\mathbf{c}$ , introducing a larger receptive field. For each layer in  $G_{\\mathrm{S}}$ , before feeding forward to the next layer, we apply a  $k \\times k$  feature unfolding transformation at each location  $(i,j)$  of the origin input  $f$  to obtain the unfolded input  $f'$ : $$ f _ {(i, j)} ^ {\\prime} = \\operatorname {C o n c a t} \\left(\\left\\{f (i + n, j + m) \\right\\} _ {n, m \\in \\{- k / 2, k / 2 \\}}\\right), \\tag {3} $$ where  $\\mathrm{Concat}(\\cdot)$  concatenates the unfolded vectors in the channel dimension. In practice, as the grid-shaped  $\\mathbf{z}_1$  and  $\\mathbf{c}$  are sampled with equal spacing between consecutive pixels, the feature unfolding can be efficiently implemented with CoordConv (Liu et al., 2018b).",
+          "depth": 2,
+          "section_title": "3.2 STRUCTURE SYNTHESIZER  $(G_{\\mathrm{S}})$",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "c7588674-1a7f-49be-b177-05d5d973e0fd"
+          ]
+        },
+        {
+          "id": "549b746b-a299-4c3c-8542-0280f7f846ba",
+          "text": "Texture synthesizer aims to model various realizations of local texture given the local structure  $\\mathbf{z}_{\\mathrm{S}}$  generated by the structure synthesizer. In addition to the holistic appearance  $\\mathbf{z}_{\\mathrm{g}}$  and the local structural latent  $\\mathbf{z}_{\\mathrm{S}}$ , texture synthesizer uses noise vectors  $\\mathbf{z}_{\\mathrm{n}}$  to model the finest-grained textural variations that are difficult to capture by other variables. The generation process can be written as: $$ \\mathbf {p} _ {\\mathrm {c}} = G _ {\\mathrm {T}} \\left(\\mathbf {z} _ {\\mathrm {S}}, \\mathbf {z} _ {\\mathrm {g}}, \\mathbf {z} _ {\\mathrm {n}}\\right), \\tag {4} $$ where  $\\mathbf{p}_{\\mathrm{c}}$  is a generated patch at location  $\\mathbf{c}$  (i.e., the  $\\mathbf{c}$  used in Eq 1 for generating  $\\mathbf{z}_{\\mathrm{S}}$ ).",
+          "depth": 2,
+          "section_title": "3.3 TEXTURE SYNTHESIZER  $(G_{\\mathrm{T}})$",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "e1084ccc-67ba-4577-abe7-4843c9a7296d"
+          ]
+        }
+      ]
+    },
+    "c1fc1189-1d28-471d-921e-ea2b97fab08b": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a786aae8-381a-4df0-b603-61072228033c",
+        "e1084ccc-67ba-4577-abe7-4843c9a7296d"
+      ],
+      "section_title": "3 PROPOSED METHOD",
+      "group_content": [
+        {
+          "id": "2c74bf80-6cf1-420f-bf62-39274bcb6123",
+          "text": "We implement upon StyleGAN2 (Karras et al., 2020). First, we replace the fixed constant input with the generated structure  $\\mathbf{z}_{\\mathrm{S}}$ . Similar to StyleGAN2, randomized noises  $\\mathbf{z}_{\\mathrm{n}}$  are added to all layers of  $G_{\\mathrm{T}}$ , representing the local variations of fine-grained textures. Then, a mapping layer projects  $\\mathbf{z}_{\\mathrm{g}}$  to a style vector, and the style is injected into all pixels in each layer via feature modulation. Finally, we remove all zero-paddings from the generator, as shown in Figure 3(b).",
+          "depth": 2,
+          "section_title": "3.3 TEXTURE SYNTHESIZER  $(G_{\\mathrm{T}})$",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "e1084ccc-67ba-4577-abe7-4843c9a7296d"
+          ]
+        }
+      ]
+    },
+    "44107a29-6f63-4dd2-bd77-9072ec98f6a5": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a786aae8-381a-4df0-b603-61072228033c",
+        "e1084ccc-67ba-4577-abe7-4843c9a7296d"
+      ],
+      "section_title": "3 PROPOSED METHOD",
+      "group_content": [
+        {
+          "id": "0f035944-57f8-49e8-a796-506181ada55b",
+          "text": "Both zero-padding and  $G_{\\mathrm{S}}$  can provide positional information to the generator, and we later show that positional information is important for generator learning in Section 4.2. However, it is necessary to remove all zero-paddings from  $G_{\\mathrm{T}}$  for three major reasons. First, zero-padding has a consistent pattern during training, due to the fixed training image size. Such a behavior misleads the generator to memorize the padding pattern, and becomes vulnerable to unseen padding patterns while attempting to synthesize at a different image size. The third column of Figure 4 shows when we extend the input latent variable of the StyleGAN2 generator multiple times, the center part of the features does not receive expected coordinate information from the paddings, resulting in extensively repetitive textures in the center area of the output image. Second, zero-paddings can only provide positional information within a limited distance from the image border. However, while generating infinite-pixel images, the image border is considered infinitely far from the generated patch. Finally, as shown in Figure 3, the existence of paddings hampers  $G_{\\mathrm{T}}$  from generating separate patches that can be composed together. Therefore, we remove all paddings from  $G_{\\mathrm{T}}$ , facilitating the synthesis-by-parts of arbitrary-sized images. We refer to the proposed  $G_{\\mathrm{T}}$  as a padding-free generator (PFG).",
+          "depth": 2,
+          "section_title": "3.3 TEXTURE SYNTHESIZER  $(G_{\\mathrm{T}})$",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "e1084ccc-67ba-4577-abe7-4843c9a7296d"
+          ]
+        }
+      ]
+    },
+    "8656c5df-2010-470a-8907-12f87edeb6c8": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a786aae8-381a-4df0-b603-61072228033c",
+        "9c8bcaa0-925e-411c-997d-bebb34d2d6bf"
+      ],
+      "section_title": "3 PROPOSED METHOD",
+      "group_content": [
+        {
+          "id": "1c31c3e1-f517-4264-906a-3153ab1f17f0",
+          "text": "InfinityGAN enables spatially independent generation thanks to two characteristics of the proposed modules. First,  $G_{\\mathrm{S}}$ , as a neural implicit function, naturally supports independent inference at each spatial location. Second,  $G_{\\mathrm{T}}$ , as a fully convolutional generator with all paddings removed, can synthesize consistent pixel values at the same spatial location in the implicit image, regardless of different querying coordinates, as shown in Figure 3(b). With these properties, we can independently query and synthesize a patch from the implicit image, seamlessly combine multiple patches into an arbitrarily large image, and maintain constant memory usage while synthesizing images of any size.",
+          "depth": 2,
+          "section_title": "3.4 SPATIALLY INDEPENDENT GENERATION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "9c8bcaa0-925e-411c-997d-bebb34d2d6bf"
+          ]
+        }
+      ]
+    },
+    "6a215cf0-7032-4ffc-abf5-7a7d24b67207": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a786aae8-381a-4df0-b603-61072228033c",
+        "9c8bcaa0-925e-411c-997d-bebb34d2d6bf"
+      ],
+      "section_title": "3 PROPOSED METHOD",
+      "group_content": [
+        {
+          "id": "20e0ccec-f4ab-42f9-b6c7-618e5fe0537f",
+          "text": "In practice, having a single center pixel in a  $\\mathbf{z}_{\\mathrm{S}}$  slice that aligns to the center pixel of the corresponding output image patch can facilitate  $\\mathbf{z}_1$  and  $\\mathbf{c}$  indexing. We achieve the goal by shrinking the StyleGAN2 blur kernel size from 4 to 3, causing the model to generate odd-sized features in all layers, due to the convolutional transpose layers.",
+          "depth": 2,
+          "section_title": "3.4 SPATIALLY INDEPENDENT GENERATION",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "9c8bcaa0-925e-411c-997d-bebb34d2d6bf"
+          ]
+        },
+        {
+          "id": "68c16d47-3dca-45de-95ab-46c1f114ff79",
+          "text": "The discriminator  $D$  of InfinityGAN is similar to the one in the StyleGAN2 method. The detailed architectures of  $G$  and  $D$  are presented in Appendix D. The two networks are trained with the non-saturating logistic loss  $\\mathcal{L}_{\\mathrm{adv}}$  (Goodfellow et al., 2014),  $R_{1}$  regularization  $\\mathcal{L}_{\\mathrm{R_1}}$  (Mescheder et al., 2018) and path length regularization  $\\mathcal{L}_{\\mathrm{path}}$  (Karras et al., 2020). Furthermore, to encourage the generator to follow the conditional distribution in the vertical direction, we train  $G$  and  $D$  with an auxiliary task (Odena et al., 2017) predicting the vertical position of the patch: $$ \\mathcal {L} _ {\\mathrm {a r}} = \\left\\| \\hat {\\mathbf {c}} _ {y} - \\bar {\\mathbf {c}} _ {y} \\right\\| _ {1}, \\tag {5} $$ where  $\\hat{\\mathbf{c}}_y$  is the vertical coordinate predicted by  $D$ , and  $\\bar{\\mathbf{c}}_y$  is either (for generated images)  $\\mathbf{c}_y = \\tanh(i_y)$  or (for real images) the vertical position of the patch in the full image. We formulate  $\\mathcal{L}_{\\mathrm{ar}}$  as a regression task. The overall loss function for the InfinityGAN is: $$ \\min  _ {R} \\mathcal {L} _ {\\mathrm {a d v}} + \\lambda_ {\\mathrm {a r}} \\mathcal {L} _ {\\mathrm {a r}} + \\lambda_ {\\mathrm {R} _ {1}} \\mathcal {L} _ {\\mathrm {R} _ {1}}, $$ $$ \\min  _ {G} ^ {D} - \\mathcal {L} _ {\\mathrm {a d v}} + \\lambda_ {\\mathrm {a r}} \\mathcal {L} _ {\\mathrm {a r}} + \\lambda_ {\\mathrm {d i v}} \\mathcal {L} _ {\\mathrm {d i v}} + \\lambda_ {\\text {p a t h}} \\mathcal {L} _ {\\text {p a t h}}, \\tag {6} $$ where  $\\lambda$  's are the weights.",
+          "depth": 2,
+          "section_title": "3.5 MODEL TRAINING",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a786aae8-381a-4df0-b603-61072228033c",
+            "959bfaa6-f5bb-4e61-9024-2d288ca8dcbb"
+          ]
+        }
+      ]
+    },
+    "f81b07f5-2723-4c82-ae8e-3cacf935fe4e": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "9879dc3f-fd65-40b1-a160-c5684d5c17ec",
+          "text": "Datasets. We evaluate the ability of synthesizing at extended image sizes on the Flickr-Landscape dataset consists of 450,000 high-quality landscape images, which are crawled from the Landscape group on Flickr. For the image outpainting experiments, we evaluate with other baseline methods on scenery-related subsets from the Place365 (Zhou et al., 2017) (62,500 images) and Flickr-Scenery (Cheng et al., 2021) (54,710 images) datasets. Note that the Flickr-Scenery here is different from our Flickr-Landscape. For image outpainting task, we split the data into  $80\\%$ ,  $10\\%$ ,  $10\\%$  for training, validation, and test. All quantitative and qualitative evaluations are conducted on test set.",
+          "depth": 1,
+          "section_title": "4 EXPERIMENTAL RESULTS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7"
+          ]
+        },
+        {
+          "id": "c74a64ac-aeab-4d89-80e1-a9ab19246c6d",
+          "text": "Hyperparameters. We use  $\\lambda_{\\mathrm{ar}} = 1$ ,  $\\lambda_{\\mathrm{div}} = 1$ ,  $\\lambda_{\\mathrm{R_1}} = 10$ , and  $\\lambda_{\\mathrm{path}} = 2$  for all datasets. All models are trained with  $101\\times 101$  patches cropped from  $197\\times 197$  real images. Since our InfinityGAN synthesizes odd-sized images, we choose 101 that maintains a sufficient resolution that humans can still recognize its content. On the other hand, 197 is the next output resolution if stacking another upsampling layer to InfinityGAN, which also provides  $101\\times 101$  patches a sufficient field-of-view. We adopt the Adam (Kingma & Ba, 2015) optimizer with  $\\beta_{1} = 0$ ,  $\\beta_{2} = 0.99$  and a batch size 16 for 800,000 iterations. More details are presented in Appendix C.",
+          "depth": 1,
+          "section_title": "4 EXPERIMENTAL RESULTS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7"
+          ]
+        }
+      ]
+    },
+    "03de8ca9-ed93-43d1-a716-6811a9131900": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "7c83464b-c80c-47da-9cbc-22ae514a9b1e",
+          "text": "Metrics. We first evaluate Fréchet Inception Distance (FID) (Heusel et al., 2017) at  $G$  training resolution. Then, without access to real images at larger sizes, we assume that the real landscape with a larger FoV will share a certain level of self-similarity with its smaller FoV parts. We accordingly propose a ScaleInv FID, which resizes larger images to the training data size with bilinear interpolation, then computes FID. We denote  $\\mathrm{N} \\times$  ScaleInv FID when the metric is evaluated with images  $\\mathrm{N} \\times$  larger than the training samples.",
+          "depth": 1,
+          "section_title": "4 EXPERIMENTAL RESULTS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7"
+          ]
+        }
+      ]
+    },
+    "711f6068-7e29-4d39-9f99-93e41c67ed28": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "19e0d0c4-d561-475b-b4b6-5869067ad82e",
+          "text": "Evaluated Method. We perform the evaluation on Flickr-Landscape with the following algorithms: - SinGAN. We train an individual SinGAN model for each image. The images at larger sizes are generated by setting spatially enlarged input latent variables. Note that we do not compare with the super-resolution setting from SinGAN since we focus on extending the learned structure rather than super-resolve the high-frequency details. - COCO-GAN. Follow the \"Beyond-Boundary Generation\" protocol of COCO-GAN, we transfer a trained COCO-GAN model to extended coordinates with a post-training procedure. - StyleGAN2 (+NCI). We replace the constant input of the original StyleGAN2 with a  $\\mathbf{z}_1$  of the same shape, we call such a replacement as \"non-constant input (NCI)\". This modification enables StyleGAN2 to generate images at different output sizes with different  $\\mathbf{z}_1$  sizes.",
+          "depth": 1,
+          "section_title": "4 EXPERIMENTAL RESULTS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7"
+          ]
+        },
+        {
+          "id": "da39ce80-667d-491b-8def-a4df8b1bb499",
+          "text": "Additional (unfair) protocols for fairness. We adopt two additional pre- and post-processing to ensure that InfinityGAN does not take advantage of its different training resolution. To ensure InfinityGAN is trained with the same amount of information as other methods, images are first bilinear interpolated into  $128 \\times 128$  before resized into  $197 \\times 197$ . Next, for all testing sizes in Table 4, InfinityGAN generates at  $1.54 \\times (=197 / 128)$  larger size to ensure final output images share the same FoV with others. In fact, these corrections make the setting disadvantageous for InfinityGAN, as it is trained with patches of  $50\\%$  FoV, generates  $54\\%$  larger images for all settings, and requires to composite multiple patches for its  $1 \\times$  ScaleInv FID.",
+          "depth": 2,
+          "section_title": "4.1 GENERATION AT EXTENDED SIZE.",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "ce9122e1-a8ed-4ace-9f04-cacacc8c51d9"
+          ]
+        },
+        {
+          "id": "a223d888-419b-4b03-86bc-5b01e62805c0",
+          "text": "Quantitative analysis. For all the FID metrics in Table 1, unfortunately, the numbers are not directly comparable, since InfinityGAN is trained with patches with smaller FoV and at a different resolution. Nevertheless, the trend in ScaleInv FID is informative. It reflects the fact that the global structures generated from the baselines drift far away from the real landscape as the testing FoV enlarges. Meanwhile, InfinityGAN maintains a more steady slope, and surpasses the strongest baseline after  $4 \\times$  ScaleInv FID. Showing that InfinityGAN indeed performs favorably better than all baselines as the testing size increases.",
+          "depth": 2,
+          "section_title": "4.1 GENERATION AT EXTENDED SIZE.",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "ce9122e1-a8ed-4ace-9f04-cacacc8c51d9"
+          ]
+        }
+      ]
+    },
+    "17bf8eaa-c228-4347-9c53-27fd156b4c68": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+        "ce9122e1-a8ed-4ace-9f04-cacacc8c51d9"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "fb871ab8-eead-4f53-b8fc-9f1c44f27547",
+          "text": "Qualitative results. In Figure 4, we show that all baselines fall short of creating reasonable global structures with spatially expanded input latent variables. COCO-GAN is unable to transfer to new coordinates when the extrapolated coordinates are too far away from the training distribution. Both SinGAN and StyleGAN2 implicitly establish image features based on position encoded by zero padding, assuming the training and testing position encoding should be the same. However, when synthesizing at extended image sizes, the inevitable change in the spatial size of the input and the features leads to drastically different position encoding in all model layers. Despite the models can still synthesize reasonable contents near the image border, where the position encoding is still partially correct, they fail to synthesize structurally sound content in the image center. Such a result causes ScaleInv FID to rapidly surge as the extended generation size increases to  $1024 \\times 1024$ . Note that at the  $16 \\times$  setting, StyleGAN2 runs out of memory with a batch size of 1 and does not generate any result. In comparison, InfinityGAN achieves reasonable global structures with fine details. Note that the  $1024 \\times 1024$  image from InfinityGAN is created by compositing 121 independently synthesized patches. With the ability of generating consistent pixel values (Section 3.4), the composition is guaranteed to be seamless. We provide more comparisons in Appendix E, a larger set of generated samples in Appendix F, results from models trained at a higher resolution in Appendix G, and a very-long synthesis result in Appendix J. In Figure 5, we further conduct experiments on LSUN bridge and tower datasets, demonstrating InfinityGAN is applicable on other datasets. However, since the two datasets are object centric with a low view-angle variation in the vertical direction, InfinityGAN frequently fills the top and bottom area with blank padding textures.",
+          "depth": 2,
+          "section_title": "4.1 GENERATION AT EXTENDED SIZE.",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "ce9122e1-a8ed-4ace-9f04-cacacc8c51d9"
+          ]
+        },
+        {
+          "id": "9c0773a8-c1e2-4b66-825e-f61b0621a507",
+          "text": "In Figure 6, we switch different  $\\mathbf{z}_1$  and  $G_{\\mathrm{T}}$  styles (i.e.,  $\\mathbf{z}_{\\mathrm{g}}$  projected with the mapping layer) while sharing the same  $\\mathbf{c}$ . More samples can be found in Appendix I. The results show that the structure and texture are disentangled and modeled separately by  $G_{\\mathrm{S}}$  and  $G_{\\mathrm{T}}$ . The figure also shows that  $G_{\\mathrm{S}}$  can generate a diverse set of structures realized by different  $\\mathbf{z}_1$ .",
+          "depth": 2,
+          "section_title": "4.1 GENERATION AT EXTENDED SIZE.",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "ce9122e1-a8ed-4ace-9f04-cacacc8c51d9"
+          ]
+        }
+      ]
+    },
+    "51435815-e89a-4dd8-9fb4-48c8ffa0fdbc": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+        "ce9122e1-a8ed-4ace-9f04-cacacc8c51d9"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "89d5003d-4746-4a4c-9dab-5999160e6952",
+          "text": "User study. We use two-alternative forced choice (2AFC) between InfinityGAN and other baselines on the Flickr-Landscape dataset. A total of 50 participants with basic knowledge in computer vision engage the study, and we conduct 30 queries for each participant. For each query, we show two separate grids of 16 random samples from each of the comparing methods and ask the participant to select \"the one you think is more realistic and overall structurally plausible.\" As presented in Table 1, the user study shows an over  $90\\%$  of preference favorable to InfinityGAN against all baselines.",
+          "depth": 2,
+          "section_title": "4.1 GENERATION AT EXTENDED SIZE.",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "ce9122e1-a8ed-4ace-9f04-cacacc8c51d9"
+          ]
+        },
+        {
+          "id": "54372f38-35fd-46ff-853b-b89b3770c5e8",
+          "text": "As discussed in Section 3.3, we hypothesize that StyleGAN2 highly relies on the positional information from the zero-paddings. In Table 1 and Figure 4, we perform an ablation by removing all paddings from StyleGAN2+NCI, yielding StyleGAN2+NCI+PFG that has no positional information in the generator. The results show that StyleGAN2+NCI+PFG fails to generate reasonable image structures, and significantly degrades in all FID settings. Then, with the proposed  $G_{\\mathrm{S}}$ , the positional information is properly provided from  $\\mathbf{z}_{\\mathrm{S}}$ , and resumes the generator performance back to a reasonable state.",
+          "depth": 2,
+          "section_title": "4.2 ABLATION STUDY: THE POSITIONAL INFORMATION IN GENERATOR",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "6ec8e7e0-7512-4f21-8d1f-3853bf346015"
+          ]
+        }
+      ]
+    },
+    "855ad2be-db37-414e-b3aa-9539d7444cbf": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+        "e7a3f274-8360-4859-b937-cfd7542b129a"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "7fa58cd1-e578-42ee-b49e-dcf9c59e2ca0",
+          "text": "Spatial style fusion. Given a single global latent variable  $\\mathbf{z}_{\\mathrm{g}}$ , the corresponding infinite-pixel image is tied to a single modal of global structures and styles. To achieve greater image diversity and allow the user to interactively generate images, we propose a spatial fusion mechanism that can spatially combine two global latent variables with a smooth transition between them. First, we manually define multiple style centers in the pixel space and then construct an initial fusion map by assigning pixels to the nearest style center. The fusion map consists of one-hot vectors for each pixel, forming a style assignment map. According to the style assignment map, we then propagate the styles in all intermediate layers. Please refer to Appendix L for implementation details. Finally, with the fusion maps annotated for every layer, we can apply the appropriate  $\\mathbf{z}_{\\mathrm{g}}$  from each style center to each pixel using feature modulation. Note that the whole procedure has a similar inference speed as the normal synthesis. Figure 7 shows synthesized fusion samples.",
+          "depth": 2,
+          "section_title": "4.3 APPLICATIONS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "e7a3f274-8360-4859-b937-cfd7542b129a"
+          ]
+        },
+        {
+          "id": "f37bc06e-0327-47d1-9295-52926296aabc",
+          "text": "Outpainting via GAN Inversion. We leverage the pipeline proposed in In&Out (Cheng et al., 2021) to perform image outpainting with latent variable inversion. All loss functions follow the ones proposed in In&Out. We first obtain inverted latent variables that generates an image similar to the given real image via GAN inversion techniques, then outpaint the image by expanding  $\\mathbf{z}_1$  and  $\\mathbf{z}_n$  with their unit Gaussian prior. See Appendix K for implementation details. In Table 2, our model performs favorably against all baselines in image outpainting (Boundless (Teterwak et al., 2019), NS-outpaint (Yang et al., 2019), and In&Out (Cheng et al., 2021)).",
+          "depth": 2,
+          "section_title": "4.3 APPLICATIONS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "e7a3f274-8360-4859-b937-cfd7542b129a"
+          ]
+        }
+      ]
+    },
+    "799ef7e5-ce51-45d3-baee-735b6095152f": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+        "e7a3f274-8360-4859-b937-cfd7542b129a"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "64157d61-f5d4-41d4-98ee-d78c75e8a1c9",
+          "text": "As shown in Figure 8, while dealing with a large outpainting area (e.g., panorama), all previous outpainting methods adopt a sequential process that generates a fixed region at each step. This introduces obvious concatenation seams, and tends to produce repetitive contents and black regions after the multiple steps. In contrast, with InfinityGAN as the image prior in the pipeline of (Cheng et al., 2021), we can directly outpaint arbitrary-size target region from inputs of arbitrary shape. Moreover, in Figure 9, we show that our outpainting pipeline natively supports multi-modal outpainting by sampling different local latent codes in the outpainting area.",
+          "depth": 2,
+          "section_title": "4.3 APPLICATIONS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "e7a3f274-8360-4859-b937-cfd7542b129a"
+          ]
+        }
+      ]
+    },
+    "16cb6b62-6751-4c13-8655-fd2ddbca120b": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+        "e7a3f274-8360-4859-b937-cfd7542b129a"
+      ],
+      "section_title": "4 EXPERIMENTAL RESULTS",
+      "group_content": [
+        {
+          "id": "9f6c8b07-6cbb-4ec9-99ff-8f65c3b92512",
+          "text": "Image inbetweening with inverted latent variables. We show another adaptation of outpainting with model inversion by setting two sets of inverted latent variables at two different spatial locations, then perform spatial style fusion between the variables. Please refer to Appendix K for implementation details. As shown in Figure 10, we can naturally inbetween (Lu et al., 2021) the area between two images with arbitrary distance. A cyclic panorama of arbitrary width can also be naturally generated by setting the same image on two sides. Parallel batching. The nature of spatial-independent generation enables parallel inference on a single image. As shown in Table 3, by stacking a batch of patches together, InfinityGAN can significantly speed up inference at testing up to 7.20 times. Note that this speed-up is critical for high-resolution image synthesis with a large number of FLOPs.",
+          "depth": 2,
+          "section_title": "4.3 APPLICATIONS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "803b1cec-e24f-448d-9bbe-c258a3c94ec7",
+            "e7a3f274-8360-4859-b937-cfd7542b129a"
+          ]
+        }
+      ]
+    },
+    "d66b937c-3ab6-4898-81e5-7a5132766ba9": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "587e336f-9fce-40d5-990d-9c5c80c92803"
+      ],
+      "section_title": "5 CONCLUSIONS",
+      "group_content": [
+        {
+          "id": "40286069-2ae6-41e8-9c09-2d71a12d6c0a",
+          "text": "In this work, we propose and tackle the problem of synthesizing infinite-pixel images, and demonstrate several applications of InfinityGAN, including image outpainting and inbetweening. Our future work will focus on improving InfinityGAN in several aspects. First, our Flickr-Landscape dataset consists of images taken at different FoVs and distances to the scenes. When InfinityGAN composes landscapes of different scales together, synthesized images may contain artifacts. Second, similar to the FoV problem, some images intentionally include tree leaves on top of the image as a part of the photography composition. These greenish textures cause InfinityGAN sometimes synthesizing trees or related elements in the sky region. Third, there is still a slight decrease in FID score in comparison to StyleGAN2. This may be related to the convergence problem in video synthesis (Tian et al., 2021), in which the generator achieves inferior performance if a preceding network (e.g., the motion module in video synthesis) is jointly trained with the image module.",
+          "depth": 1,
+          "section_title": "5 CONCLUSIONS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "587e336f-9fce-40d5-990d-9c5c80c92803"
+          ]
+        }
+      ]
+    },
+    "4b8db685-cad9-42dc-9abe-c3b5f2fbb025": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "0f14bf13-54ff-4183-a148-3097501d9318"
+      ],
+      "section_title": "6 ACKNOWLEDGEMENTS",
+      "group_content": [
+        {
+          "id": "f8aa7f54-981b-457b-a7a1-da875daf155f",
+          "text": "This work is supported in part by the NSF CAREER Grant #1149783 and a gift from Snap Inc.",
+          "depth": 1,
+          "section_title": "6 ACKNOWLEDGEMENTS",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "0f14bf13-54ff-4183-a148-3097501d9318"
+          ]
+        }
+      ]
+    },
+    "02f3bc89-5714-4259-87eb-c9c23e98dea7": {
+      "path": [
+        "00000000-0000-0000-0000-000000000000",
+        "a70e1e1d-7b53-41c0-a8d8-2e79704510af"
+      ],
+      "section_title": "7 ETHICS STATEMENT",
+      "group_content": [
+        {
+          "id": "5136bfd9-52ac-4176-8550-22ebee3ab2d7",
+          "text": "Our work follows the General Ethical Principles listed at ICLR Code of Ethics (https://iclr.cc/public/CodeOfEthics). The research in generative modeling is frequently accompanied by concerns about the misuse of manipulating or hallucinating information for improper use. Despite none of the proposed techniques aiming at improving manipulation of fine-grained image detail or hallucinating human activities, we cannot rule out the potential of misusing the framework to recreate fake scenery images for any inappropriate application. However, as we do not drastically alter the plausibility of synthesis results in the high-frequency domain, our research is still covered by continuing research in ethical generative modeling and image forensics.",
+          "depth": 1,
+          "section_title": "7 ETHICS STATEMENT",
+          "path": [
+            "00000000-0000-0000-0000-000000000000",
+            "a70e1e1d-7b53-41c0-a8d8-2e79704510af"
+          ]
+        }
+      ]
+    }
+  }
+}

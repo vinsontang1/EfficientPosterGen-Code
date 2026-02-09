@@ -1,0 +1,244 @@
+{
+  "structure": [
+    {
+      "id": "c4775daa-f1ba-4f88-8e68-a70766232380",
+      "title": "Abstract",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": [
+        "e53abb7d-d350-48fa-854a-8471e80aae5d"
+      ]
+    },
+    {
+      "id": "a0ada068-177c-474a-beec-dd87c3dd350f",
+      "title": "1 Introduction",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": [
+        "409fb185-883c-4a92-aacb-0e90674f59d5",
+        "cc8b4e0d-b6a1-4e86-b245-70abc2f6ef9d",
+        "c1e6f345-4a09-410b-810e-021c603162ad",
+        "8d475a90-6f90-4456-8d96-7bd96e124972",
+        "00bfffd4-193a-4c01-abd9-44d53dd6840a",
+        "c498dc56-e39e-4afd-beae-4659e2d7a76c",
+        "d3e62361-6e85-4f02-8f4e-fdc4380ac912",
+        "4814f8d0-d525-4c41-9c9a-548eff6273d9"
+      ]
+    },
+    {
+      "id": "f5a07ede-b608-4204-8393-dfac8daaecf4",
+      "title": "2.2 Contextual Auction Design as a Learning Problem",
+      "level": 1,
+      "children": [
+        {
+          "id": "53fe31a1-a115-4ab9-9f28-55001d084613",
+          "title": "2.1 Contextual Auction",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": [
+            "5845c67b-1df4-41d1-8b56-c4a2608777e7",
+            "8a448297-0238-410b-9456-fa34b12c072b",
+            "d260e377-0a0d-44d1-a532-498961e603fd",
+            "4c926621-be1d-4b1d-8e56-05e2edfab00e"
+          ]
+        },
+        {
+          "id": "1e2e18f3-567b-4461-9d58-405d0888b60e",
+          "title": "2.2 Contextual Auction Design as a Learning Problem",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": []
+        },
+        {
+          "id": "6835fab8-8dbd-4384-b5c2-13440cb49619",
+          "title": "2.3 Sample Complexity",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": [
+            "38fa4577-dc8f-45b8-b0f6-2adc8a0d161d"
+          ]
+        }
+      ],
+      "paragraph_ids": [
+        "33cf869f-80e7-4f82-9791-1856334effcc"
+      ]
+    },
+    {
+      "id": "273ab349-9322-4985-ba82-db30d4c9b4d8",
+      "title": "3 Model Architecture",
+      "level": 1,
+      "children": [
+        {
+          "id": "2743a77c-9326-43dc-83f3-202532a64b0e",
+          "title": "3.1 Overview of CITransNet",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": [
+            "a70c6d6e-1cda-4509-b9a5-925ec1b56fdc"
+          ]
+        },
+        {
+          "id": "4c7952aa-acc0-4a2e-a4c3-4d99146353ba",
+          "title": "3.2 Input Layer",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": [
+            "c718eb7f-2a87-4f38-b9d5-75638745f235",
+            "a8830e7c-7b09-4c7d-9fdd-b4a4eb22fcc7"
+          ]
+        },
+        {
+          "id": "cfd1de15-df4d-48c7-9d7e-093247d647ec",
+          "title": "3.3 Interaction Layer",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": [
+            "096bae5a-8852-4e4b-b13e-0d9b10a2f672",
+            "b91aae29-c790-4dba-8d72-a88a984a0c84"
+          ]
+        },
+        {
+          "id": "d4b9ce59-9065-43bb-bd67-0584d2049321",
+          "title": "3.4 Output Layer",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": [
+            "0abf353f-5a0b-481f-a91f-2e87476baa14",
+            "01c9e1a0-dfe8-4bd8-a86a-3edfb8d3bfd7",
+            "50f80a68-13bd-47fe-b1ad-2473af6ec38c"
+          ]
+        },
+        {
+          "id": "992386b0-87fa-4790-8d31-9e08906dfd23",
+          "title": "3.5 Optimization and training",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": [
+            "2c3721f3-2697-49c1-aa60-7ccb47577685"
+          ]
+        }
+      ],
+      "paragraph_ids": [
+        "d6b4d685-becf-4bb1-9bdc-f5e361b00fcf"
+      ]
+    },
+    {
+      "id": "090089b4-d5f1-45e2-8ace-41077eec1eed",
+      "title": "4 Experiments",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": [
+        "cf139b24-c061-438a-b711-6837f23033a4",
+        "cf48ea4b-2af3-4a00-b271-5654c26e9682",
+        "b40e2d6a-b921-4055-9108-448ab2d2f3bf",
+        "25d75d4c-8b8d-4824-a8d5-3dcd1dd50656",
+        "bccb254b-6344-4573-bb64-86fc993ac2e4",
+        "a06570d4-fd40-4b04-ab67-9d6f8b23892a",
+        "93fda662-c49f-4fb4-9607-f3fbc6db80a1",
+        "89017d9a-9cd2-4028-97ca-65ac51c7e163"
+      ]
+    },
+    {
+      "id": "309f1e20-1721-486e-8117-4bf523ebd30e",
+      "title": "5 Conclusion",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": [
+        "04cb7de5-4367-46f9-89b3-ded4e43e19dc"
+      ]
+    },
+    {
+      "id": "2da6753b-534f-4694-8812-d49ac0fa4198",
+      "title": "A Transformer Architecture",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": []
+    },
+    {
+      "id": "0dcdeb5c-a6be-42c8-b910-4f81730ed2bc",
+      "title": "B Optimization and Training Procedures",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": []
+    },
+    {
+      "id": "dbc08db7-2345-43c4-a59f-64ab0cc22365",
+      "title": "C Implementation Details",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": []
+    },
+    {
+      "id": "802e1bd6-9431-404b-9591-796fdb861349",
+      "title": "D Additional Out-of-Setting Generalization Experiments",
+      "level": 1,
+      "children": [],
+      "paragraph_ids": []
+    },
+    {
+      "id": "75ced695-8496-4c18-8de8-de906de0fc66",
+      "title": "E Proof of thm:UC",
+      "level": 1,
+      "children": [
+        {
+          "id": "3d0ce677-f43a-4b40-ba71-ee1d9fb0cfa2",
+          "title": "E.1 Basic Definition",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": []
+        },
+        {
+          "id": "6918291e-2daf-4f95-8ad9-1c3a6934866d",
+          "title": "E.2 Important Lemmas",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": []
+        },
+        {
+          "id": "d192c6a1-e539-46fb-bf5a-35e725cae69d",
+          "title": "E.3 Proof of thm:UC",
+          "level": 2,
+          "children": [],
+          "paragraph_ids": []
+        }
+      ],
+      "paragraph_ids": []
+    }
+  ],
+  "content": {
+    "e53abb7d-d350-48fa-854a-8471e80aae5d": "One of the central problems in auction design is developing an incentive-compatible mechanism that maximizes the auctioneer's expected revenue. While theoretical approaches have encountered bottlenecks in multi-item auctions, recently, there has been much progress on finding the optimal mechanism through deep learning. However, these works either focus on a fixed set of bidders and items, or restrict the auction to be symmetric. In this work, we overcome such limitations by factoring public contextual information of bidders and items into the auction learning framework. We propose CITransNet, a context-integrated transformer-based neural network for optimal auction design, which maintains permutation-equivariance over bids and contexts while being able to find asymmetric solutions. We show by extensive experiments that CITransNet can recover the known optimal solutions in single-item settings, outperform strong baselines in multi-item auctions, and generalize well to cases other than those in training.",
+    "409fb185-883c-4a92-aacb-0e90674f59d5": "Auction design is a classical problem in computational economics, with many applications on sponsored search [Jansen and Mullen, 2008], resource allocation [Huang et al., 2008] and blockchain [Galal and Youssef, 2018]. Designing an incentive-compatible mechanism that maximizes the auctioneer's expected revenue is one of the central topics in auction design. The seminal work by Myerson [1981] provides an optimal auction design for the single-item setting; however, designing a revenue-optimal auction is still not fully understood even for two bidders and two items setting after four decades [Dütting et al., 2019].",
+    "cc8b4e0d-b6a1-4e86-b245-70abc2f6ef9d": "Recently, pioneered by Dütting et al. [2019], there is rapid progress on finding (approximate) optimal auction through deep learning, e.g., [Shen et al., 2019, Luong et al., 2018, Tacchetti et al., 2019, Nedelec et al., 2021, Shen et al., 2020, Brero et al., 2021, Liu et al., 2021]. Typically, we can formulate auction design as a constrained optimization problem and find near-optimal solutions using standard machine learning pipelines. However, existing methods only consider simple settings: they either focus on a fixed set of bidders and items, e.g. [Dütting et al., 2019, Rahme et al., 2021b] or ignore the identity of bidders and items so that the auction is restricted to be symmetric Rahme et al. [2021a]. As a comparison, in practice, auctions are much more complex beyond the aforementioned simple settings. For instance, in e-commerce advertising, there are a large number of bidders and items (i.e., ad slots) with various features Liu et al. [2021], and each auction involves a different number of bidders and items. To handle such a practical problem, we need a new architecture that can incorporate public features and take a different number of bidders and items as inputs.",
+    "c1e6f345-4a09-410b-810e-021c603162ad": "Main Contributions In this paper, we consider contextual auction design, in which each bidder or item is equipped with context. In contextual auctions, the bidder-contexts and item-contexts can characterize various bidders and items to some extent, making the auctions close to those in practice. We formulate the contextual auction design as a learning problem and extend the learning framework proposed in Dütting et al. [2019] to our setting. Furthermore, we present a sample complexity result to bound the generalization error of the learned mechanism.",
+    "8d475a90-6f90-4456-8d96-7bd96e124972": "To overcome the aforementioned limitations of the previous works, we propose CITransNet: a Context-Integrated Transformer-based neural Network architecture as the parameterized mechanism to be optimized. CITransNet incorporates the bidding profile along with the bidder-contexts and item-contexts to develop an auction mechanism. It is built upon the transformer architecture Vaswani et al. [2017], which can capture the complex mutual influence among different bidders and items in an auction. As a result, CITransNet is permutation-equivariant [Rahme et al., 2021a] over bids and contexts, i.e., any permutation of bidders (or items) in the bidding profile and bidder-contexts (or item-contexts) would cause the same permutation of auction result (We will provide a formal definition in Remark 3.1). Moreover, in CITransNet, the number of parameters does not depend on the auction scale (i.e., the number of bidders and items), which brings CITransNet the potential of generalizing to auctions with various bidders or items, which we denote as out-of-setting generalization.",
+    "00bfffd4-193a-4c01-abd9-44d53dd6840a": "We show by extensive experiments that CITransNet can almost reach the same result as Myerson [1981] in single-item auctions and can obtain better performance in complex multi-item auctions compared to those strong baseline algorithms we use. Additionally, we also justify its out-of-setting generalization ability. Experimental results demonstrate that, under the same contextual setting, CITransNet can still perform well in auctions with a different number of bidders or items than those in training.",
+    "c498dc56-e39e-4afd-beae-4659e2d7a76c": "Further Related Work As discussed before, it is an intricate task to design optimal auctions for multiple bidders and multiple items. Many previous works focus on special cases (to name a few, Manelli and Vincent [2006], Pavlov [2011], Giannakopoulos and Koutsoupias [2014], Yao [2017], Daskalakis et al. [2017], Haghpanah and Hartline [2021]) and the algorithmic characterization of optimal auction (e.g., Chawla et al. [2010], Cai et al. [2012], Babaioff et al. [2014], Yao [2014], Cai and Zhao [2017], Hart and Nisan [2017]). In addition, machine learning has also been applied to find approximate solutions for multiple items settings [Balcan et al., 2008, Lahaie, 2011, Dütting et al., 2015], and there are also many works analyzing the sample complexity of designing optimal auctions [Cole and Roughgarden, 2014, Devanur et al., 2016, Balcan et al., 2016, Guo et al., 2019, Gonczarowski and Weinberg, 2021]. In our paper, we follow the paradigm of automated mechanism design [Conitzer and Sandholm, 2002, 2004, Sandholm and Likhodedov, 2015].",
+    "d3e62361-6e85-4f02-8f4e-fdc4380ac912": "Dütting et al. [2019] propose the first neural network framework, RegretNet, to automatically design optimal auctions for general multiple bidders and multiple items settings by modeling an auction as a multi-layer neural network and using standard machine learning pipelines. Feng et al. [2018] and Golowich et al. [2018] modify RegretNet to handle different constraints and objectives. Curry et al. [2020] extend RegretNet to be able to verify strategyproofness of the auction mechanism learned by neural network. ALGNet Rahme et al. [2021b] models the auction design problem as a two-player game through parameterizing the misreporter as well. PreferenceNet Peri et al. [2021] encodes human preference (e.g. fairness) into RegretNet. Rahme et al. [2021a] propose a permutation-equivariant architecture called EquivariantNet to design symmetric auctions, a special case that is anonymous (bidder-symmetric) and item-symmetric. In contrast, we study optimal contextual auction design, and our proposed CITransNet is permutation-equivariant while not restricted to symmetric auctions.",
+    "4814f8d0-d525-4c41-9c9a-548eff6273d9": "Existing literatures of contextual auction mainly discuss the online setting of some known contextual repeated auctions, e.g., posted-price auctions [Amin et al., 2014, Mao et al., 2018, Drutsa, 2020, Zhiyanov and Drutsa, 2020], in which at every round the item is priced by the seller to sell to a strategic buyer, and second price auctions [Golrezaei et al., 2021]. As a comparison, we consider the offline setting of contextual sealed-bid auction. We learn the mechanism from historical data and optimize the expected revenue for the auctioneer. Besides, we do not assume the conditional distribution of the bidder's valuation when given both the bidder-context and item-context. Organization This paper is organized as follows: In Section 2 we introduce contextual auction design, model the problem as a learning problem and derive a sample complexity for it; In Section 3 we present the structure of CITransNet, along with the training and optimization procedure; We conduct experiments in Section 4 and draw the conclusion in Section 5.",
+    "5845c67b-1df4-41d1-8b56-c4a2608777e7": "We consider a contextual auction with  $n$  bidders  $N = \\{1,2,\\dots,n\\}$  and  $m$  items  $M = \\{1,2,\\dots,m\\}$ . Each bidder  $i\\in N$  is equipped with bidder-context  $x_{i}\\in \\mathcal{X}\\subset \\mathbb{R}^{d_{x}}$  and each item  $j\\in M$  is equipped with item-context  $y_{j}\\in \\mathcal{V}\\subset \\mathbb{R}^{d_{y}}$ , in which  $d_{x}$  and  $d_{y}$  are the dimensions of bidder-context variables and item-context variables, respectively. Denote  $x = (x_{1},x_{2},\\ldots ,x_{n})$  as the bidder-contexts and  $y = (y_{1},y_{2},\\ldots ,y_{m})$  as the item-contexts.  $x$  and  $y$  are sampled from underlying joint probability distribution  $\\mathcal{D}_{x,y}$ . Let  $v_{ij}$  be the valuation of bidder  $i$  for item  $j$ . Conditioned on bidder-context  $x_{i}$  and item-context  $y_{j}$ ,  $v_{ij}$  is sampled from a distribution  $\\mathcal{D}_{v_{ij}|x_i,y_j}$ , i.e., the distribution of  $v_{ij}$  depends on both  $x_{i}$  and  $y_{j}$ .",
+    "8a448297-0238-410b-9456-fa34b12c072b": "The valuation profile  $v = (v_{ij})_{i \\in N, j \\in M} \\in \\mathbb{R}^{n \\times m}$  is unknown to the auctioneer, however, she knows the sampled bidder-contexts  $x$  and item-contexts  $y$ . In this paper, we only focus on additive valuation setting, i.e., the valuation of each bidder  $i$  for a set of items  $S \\subseteq M$  is the sum of valuation for each item  $j \\in S$ :  $v_{is} = \\sum_{j \\in S} v_{ij}$ . At an auction round, each bidder bids for each item. Given the bidding profile (or bids)  $b = (b_{ij})_{i \\in N, j \\in M}$ , the contextual auction mechanism is defined as follows: Definition 2.1 (Contextual Auction Mechanism). A contextual auction mechanism  $(g,p)$  consists of an allocation rule  $g$  and a payment rule  $p$ : - The allocation rule  $g = (g_{ij})_{i \\in N, j \\in M}$ , in which  $g_{ij} \\colon \\mathbb{R}^{n \\times m} \\times \\mathcal{X}^n \\times \\mathcal{Y}^m \\to [0,1]$  computes the probability that item  $j$  is allocated to bidder  $i$ , given the bidding profile  $b \\in \\mathbb{R}^{n \\times m}$ , bidder-contexts  $x \\in \\mathcal{X}^n$  and item-contexts  $y \\in \\mathcal{Y}^m$ . For all  $b, x, y$ , and  $j \\in M$ , we have  $\\sum_{i=1}^{n} g_{ij}(b, x, y) \\leq 1$  to guarantee no item is allocated more than once. - The payment rule  $p = (p_1, p_2, \\ldots, p_n)$ , in which  $p_i \\colon \\mathbb{R}^{n \\times m} \\times \\mathcal{X}^n \\times \\mathcal{Y}^m \\to \\mathbb{R}_{\\geq 0}$  computes the price bidder  $i$  need to pay, given the bidding profile  $b \\in \\mathbb{R}^{n \\times m}$ , bidder-contexts  $x \\in \\mathcal{X}^n$  and item-contexts  $y \\in \\mathcal{Y}^m$ .",
+    "d260e377-0a0d-44d1-a532-498961e603fd": "Define  $\\mathcal{V} = \\mathcal{V}_1 \\times \\mathcal{V}_2 \\times \\dots \\times \\mathcal{V}_n$  be the joint valuation profile domain set, in which  $\\mathcal{V}_i$  is the domain set of all the possible valuation profiles  $v_i = (v_{i1}, v_{i2}, \\ldots, v_{im})$  of bidder  $i$ . Let  $\\mathcal{V}_{-i} = (\\mathcal{V}_1, \\ldots, \\mathcal{V}_{i-1}, \\mathcal{V}_{i+1}, \\ldots, \\mathcal{V}_n)$  be the joint valuation profile domain set except  $\\mathcal{V}_i$ . Similarly, we denote  $v_{-i} = (v_1, \\ldots, v_{i-1}, v_{i+1}, \\ldots, v_n)$  and  $b_{-i} = (b_1, \\ldots, b_{i-1}, b_{i+1}, \\ldots, b_n)$ . Without loss of generality, we assume  $b_i \\in \\mathcal{V}_i$  for all  $i \\in N$ . Each bidder  $i \\in N$  aims to maximize her utility, defined as follows, Definition 2.2 (Quasilinear utility). In an additive valuation auction setting, the utility of bidder  $i$  under mechanism  $(g,p)$  is defined by $$ u _ {i} (v _ {i}, b, x, y) = \\sum_ {j = 1} ^ {m} g _ {i j} (b, x, y) v _ {i j} - p _ {i} (b, x, y) $$ for all  $v_{i}\\in \\mathcal{V}_{i},b\\in \\mathcal{V},x\\in \\mathcal{X}^{n},y\\in \\mathcal{Y}^{m}$ In this work, we want the auction mechanism to be dominant strategy incentive compatible (DSIC)<sup>1</sup>, defined as below, Definition 2.3 (DSIC). An auction  $(g,p)$  is dominant strategy incentive compatible (DSIC) if for each bidder, the optimal strategy is to report her true valuation no matter how others report. Formally, for each bidder  $i\\in N$ , for all  $x\\in \\mathcal{X}^n$ ,  $y\\in \\mathcal{V}^m$  and for arbitrary  $b_{-i}\\in \\mathcal{V}_{-i}$ , we have $$ u _ {i} \\left(v _ {i}, \\left(v _ {i}, b _ {- i}\\right), x, y\\right)) \\geq u _ {i} \\left(v _ {i}, \\left(b _ {i}, b _ {- i}\\right), x, y\\right)), $$ for all  $b_{i} \\in \\mathcal{V}_{i}$ .",
+    "4c926621-be1d-4b1d-8e56-05e2edfab00e": "Besides, the auction mechanism needs to be individually rational (IR), defined as follows, Definition 2.4 (IR). An auction  $(g,p)$  is individually rational (IR) if for each bidder, truthful bidding will receive a non-negative utility. Formally, for each bidder  $i\\in N$ , for all  $x\\in \\mathcal{X}^n$ ,  $y\\in \\mathcal{Y}^m$  and for arbitrary  $v_{i}\\in \\mathcal{V}_{i},b_{-i}\\in \\mathcal{V}_{-i}$ , we have $$ u _ {i} \\left(v _ {i}, \\left(v _ {i}, b _ {- i}\\right), x, y\\right) \\geq 0. \\tag {IR} $$ In a DSIC and IR auction, rational bidders would truthfully report their valuations. Therefore, let  $\\mathcal{D}_{v,x,y}$  be the joint distribution of  $v$ ,  $x$  and  $y$ , the expected revenue is: $$ r e v := \\mathbb {E} _ {(v, x, y) \\sim \\mathcal {D} _ {v, x, y}} \\left[ \\sum_ {i = 1} ^ {n} p _ {i} (v, x, y) \\right]. $$ Optimal contextual auction design aims to find an auction mechanism that maximizes the expected revenue while satisfying the DSIC and IR conditions.",
+    "33cf869f-80e7-4f82-9791-1856334effcc": "In this section, we set up the problem of contextual auction design. Then, we extend the learning framework proposed by Dütting et al. [2019] to our contextual setting. Similar to Dütting et al. [2019], we formulate the problem of optimal auction design as a learning problem. First, we define ex-post regret: Definition 2.5 ((Ex-post) Regret). The ex-post regret for a bidder  $i$  under mechanism  $(g,p)$  is the maximum utility gain she can achieve by misreporting when the bids of others are fixed, i.e., $$ r g t _ {i} (v, x, y) := \\max _ {b _ {i} \\in \\mathcal {V} _ {i}} u _ {i} (v _ {i}, (b _ {i}, v _ {- i}), x, y) - u _ {i} (v _ {i}, v, x, y). $$ In particular, similar to Dütting et al. [2019], the DSIC condition is equivalent to  $rgt_{i}(v,x,y) = 0, \\forall i \\in N, v \\in \\mathcal{V}, x \\in \\mathcal{X}^{n}, y \\in \\mathcal{Y}^{m}$ . By assuming that  $\\mathcal{D}_{v,x,y}$  has full support on the space of  $(v,x,y)$  and recognizing that the regret is non-negative, an auction satisfies DSIC (except for measure zero events) if $$ \\mathbb {E} _ {(v, x, y) \\sim \\mathcal {D} _ {v, x, y}} \\left[ \\sum_ {i = 1} ^ {n} r g t _ {i} (v, x, y) \\right] = 0. \\tag {DSIC} $$ Let  $\\mathcal{M}$  be the set of all the auction mechanisms that satisfy Equation (IR). By setting Equation (DSIC) as a constraint, we can formalize the problem of finding an optimal contextual auction as a constraint optimization: $$ \\min  _ {(g, p) \\in \\mathcal {M}} - \\mathbb {E} _ {(v, x, y) \\sim \\mathcal {D} _ {v, x, y}} \\left[ \\sum_ {i = 1} ^ {n} p _ {i} (v, x, y) \\right] \\tag {I} $$ $$ \\mathrm {s . t .} \\mathbb {E} _ {(v, x, y) \\sim \\mathcal {D} _ {v, x, y}} \\left[ \\sum_ {i = 1} ^ {n} r g t _ {i} (v, x, y) \\right] = 0. $$ This optimization problem is generally intractable due to the intricate constraints<sup>2</sup>. To handle such a problem, we parameterize the auction mechanism as  $(g^w,p^w)$ , where  $w\\in \\mathbb{R}^{d_w}$  are the parameters (with dimension  $d_w$ ) to be optimized. All the expectation terms are computed empirically by  $L$  samples of  $(v,x,y)$  independently drawn from  $\\mathcal{D}_{v,x,y}$ . The empirical ex-post regret for bidder  $i$  under parameters  $w$  is defined as $$ \\widehat {r g t} _ {i} (w) := \\frac {1}{L} \\sum_ {\\ell = 1} ^ {L} r g t _ {i} ^ {w} \\left(v ^ {(\\ell)}, x ^ {(\\ell)}, y ^ {(\\ell)}\\right), \\tag {1} $$ where  $rgt_{i}^{w}(v,x,y)$  is computed based on the parameterized mechanism  $(g^w,p^w)$ . On top of that, the learning formulation of Equation (I) is $$ \\min  _ {w \\in \\mathbb {R} ^ {d _ {w}}} - \\frac {1}{L} \\sum_ {\\ell = 1} ^ {L} \\sum_ {i = 1} ^ {n} p _ {i} ^ {w} (v ^ {(\\ell)}, x ^ {(\\ell)}, y ^ {(\\ell)}) \\tag {II} $$ $$ \\begin{array}{l l} \\mathrm {s . t .} & \\widehat {r g t} _ {i} (w) = 0, \\forall i \\in N \\end{array} $$ Equation (IR) can be satisfied through the architecture design. See Section 3.4 for the discussion.",
+    "38fa4577-dc8f-45b8-b0f6-2adc8a0d161d": "We provide a sample complexity to bound the two gaps at the same time: the gap between empirical revenue and expected revenue, and the gap between empirical regret and expected regret. Such result justifies the feasibility to approximately solve Equation (I) by Equation (II). For contextual auction mechanism class  $\\mathcal{M}$ , similar to Dütting et al. [2019], we measure the capacity of  $\\mathcal{M}$  via covering numbers [Shalev-Shwartz and Ben-David, 2014]. We define the  $\\ell_{\\infty,1}$ -distance between two auction mechanisms  $(g,p)$ ,  $(g',p') \\in \\mathcal{M}$  as  $\\max_{v,x,y} \\sum_{i \\in N, j \\in M} |g_{ij}(v,x,y) - g_{ij}'(v,x,y)| + \\sum_{i \\in N} |p_i(v,x,y) - p_i'(v,x,y)|$ . For all  $r > 0$ , let  $\\mathcal{N}_{\\infty,1}(\\mathcal{M}, r)$  be the minimum number of balls with radius  $r$  that cover all the mechanisms in  $\\mathcal{M}$  under  $\\ell_{\\infty,1}$ -distance (called the  $r$ -covering number of  $\\mathcal{M}$ ). We have the following result: Theorem 2.6. For each bidder  $i$ , assume w.l.o.g. that the valuation function  $v_{i}$  satisfies  $v_{i}(S)\\leq 1, \\forall S\\subseteq M$ . Fix  $\\delta ,\\epsilon \\in (0,1)$ , for any  $(g^{w},p^{w})\\in \\mathcal{M}$ , when $$ L \\geq \\frac {9 n ^ {2}}{2 \\epsilon^ {2}} \\left(\\ln \\frac {4}{\\delta} + \\ln \\mathcal {N} _ {\\infty , 1} (\\mathcal {M}, \\frac {\\epsilon}{6 n})\\right), $$ with probability at least  $1 - \\delta$  over draw of training set  $S$  of  $L$  samples from  $\\mathcal{D}_{v,x,y}$ , we have both $$ \\left| \\sum_ {i = 1} ^ {n} \\left(\\mathbb {E} _ {(v, x, y)} p _ {i} ^ {w} (v, x, y) - \\sum_ {\\ell = 1} ^ {L} \\frac {p _ {i} ^ {w} \\left(v ^ {(\\ell)} , x ^ {(\\ell)} , y ^ {(\\ell)}\\right)}{L}\\right) \\right| \\leq \\epsilon , \\tag {2} $$ and $$ \\left| \\mathbb {E} _ {(v, x, y) \\sim \\mathcal {D} _ {v, x, y}} \\left[ \\sum_ {i = 1} ^ {n} r g t _ {i} ^ {w} (v, x, y) \\right] - \\sum_ {i = 1} ^ {n} \\widehat {r g t} _ {i} (w) \\right| \\leq \\epsilon . \\tag {3} $$ See Appendix E for detailed proofs.",
+    "d6b4d685-becf-4bb1-9bdc-f5e361b00fcf": "In this section, we describe CITransNet, the proposed context-integrated transformer-based neural network for computing allocation and payment in Equation (II).",
+    "a70c6d6e-1cda-4509-b9a5-925ec1b56fdc": "As shown in Figure 1, CITransNet takes the bidding profile  $b \\in \\mathbb{R}^{n \\times m}$ , bidder-contexts  $x$  and item-contexts  $y$  as inputs. An input layer is used first to compute a  $d$ -dimensional feature vector for each bidder-item pair. Afterward, the features of all the bidder-item pairs, i.e.,  $I \\in \\mathbb{R}^{n \\times m \\times d}$ , are fed into one or multiple interaction layers. Such transformer-based interaction layers model the interactions between bidders and items. The global feature maps  $F \\in \\mathbb{R}^{n \\times m \\times 3}$  are obtained through the last interaction layer. Finally, we compute the allocation result  $g^w(b, x, y)$  and payment result  $p^w(b, x, y)$  through the final output layer.",
+    "c718eb7f-2a87-4f38-b9d5-75638745f235": "First, we apply a pre-processing to obtain a representation  $e_{x_i} \\in \\mathbb{R}^{d_x'}$  for each bidder context  $x_i$  and  $f_{y_j} \\in \\mathbb{R}^{d_y'}$  for each item context  $y_j$ : - If  $x_{i}$  (or  $y_{j}$ ) is drawn from a continuous space, simply set  $e_{x_i} = x_i$  (or  $f_{y_j} = y_j$ ). - If  $x_{i}$  (or  $y_{j}$ ) is only drawn from some finite types, embed it into a continuous space, similarly as the common procedure in word embedding Mikolov et al. [2013]. The corresponding embedding is  $e_{x_i}$  (or  $f_{y_j}$ ).",
+    "a8830e7c-7b09-4c7d-9fdd-b4a4eb22fcc7": "We construct the initial representation for each bidder-item pair:  $E = (E_{i,j})_{i\\in N,j\\in M}$ , in which $$ E _ {i j} = \\left[ b _ {i j}; e _ {x _ {i}}; f _ {y _ {j}} \\right] \\in \\mathbb {R} ^ {1 + d _ {x} ^ {\\prime} + d _ {y} ^ {\\prime}}, $$ Afterwards, two  $1 \\times 1$  convolutions with a ReLU activation are applied to  $E$  and reduce the third-dimension of  $E$  from  $1 + d_x' + d_y'$  to  $d - 1$ . Formally, $$ E ^ {\\prime} = \\mathrm {C o n v} _ {2} (\\mathrm {R e L U} (\\mathrm {C o n v} _ {1} (E))) \\in \\mathbb {R} ^ {n \\times m \\times (d - 1)}, $$ where both  $\\mathrm{Conv}_1$  and  $\\mathrm{Conv}_2$  are  $1\\times 1$  convolutions, and  $\\mathrm{ReLU}(x)\\coloneqq \\max (x,0)$ . By concatenating  $E^{\\prime}$  and the bids  $b$ , we get  $I\\in \\mathbb{R}^{n\\times m\\times d}$ , the output of our input layer: $$ I = [ b; E ^ {\\prime} ] \\in \\mathbb {R} ^ {n \\times m \\times d}, $$ where feature  $I_{ij} \\in \\mathbb{R}^d$  in  $I$  captures the bidding and context information of the corresponding bidder-item pair.",
+    "096bae5a-8852-4e4b-b13e-0d9b10a2f672": "Given the representation for all bidder-item pairs  $I \\in \\mathbb{R}^{n \\times m \\times d}$ , we move on to model the interactions between different bidders and items, which is illustrated in the lower part of Figure 1. The interaction layer is built based upon transformer model Vaswani et al. [2017], which can be used to capture the high-order feature interactions of input through the multi-head self-attention module Song et al. [2019]. See Appendix A for a description of transformer.",
+    "b91aae29-c790-4dba-8d72-a88a984a0c84": "Precisely, for each bidder  $i$ , we model its interactions with all the  $m$  items through transformer on the  $i$ -th row of  $I$  (denoted as  $I_{i,j} \\in \\mathbb{R}^{m \\times d_h}$ ): $$ I _ {i, \\cdot} ^ {\\mathrm {r o w}} = \\mathrm {t r a n s f o r m e r} (I _ {i, \\cdot}) \\in \\mathbb {R} ^ {m \\times d _ {h}}, \\forall i \\in N, $$ where  $d_h$  is the size of the hidden nodes in the MLP part of the transformer. Symmetrically, for each item  $j$ , we model its interactions with all the  $n$  bidders through another transformer on the  $j$ -th column of  $I$  (called  $I_{.,j} \\in \\mathbb{R}^{n \\times d_h}$ ): $$ I _ {., j} ^ {\\text {c o l u m n}} = \\operatorname {t r a n s f o r m e r} (I _ {., j}) \\in \\mathbb {R} ^ {n \\times d _ {h}}, \\forall j \\in M. $$ Afterward, the global representation for all the bidder-item pairs is obtained by the average of all the features $$ e ^ {\\mathrm {g l o b a l}} = \\frac {1}{n m} \\sum_ {i = 1} ^ {n} \\sum_ {j = 1} ^ {m} I _ {i j} \\in \\mathbb {R} ^ {d}. $$ Combining  $I^{\\mathrm{row}}$ ,  $I^{\\mathrm{column}}$  and  $e^{\\mathrm{global}}$  together, we get new features  $I_{ij}^{\\prime}$  for each bidder-item pair $$ I _ {i j} ^ {\\prime} := [ I _ {i j} ^ {\\mathrm {r o w}}; I _ {i j} ^ {\\mathrm {c o l u m n}}; e ^ {\\mathrm {g l o b a l}} ] \\in \\mathbb {R} ^ {2 d _ {h} + d} $$ Finally, as what we did in input layer, two  $1 \\times 1$  convolutions with a ReLU activation are applied on  $I'$  in order to reduce the third dimension of  $I'$  from  $2d_h + d$  to  $d_{\\mathrm{out}}$ . Formally, $$ F = \\mathrm {C o n v} _ {4} (\\mathrm {R e L U} (\\mathrm {C o n v} _ {3} (I ^ {\\prime}))) \\in \\mathbb {R} ^ {n \\times m \\times d _ {\\mathrm {o u t}}}, $$ where both  $\\mathrm{Conv}_4$  and  $\\mathrm{Conv}_3$  are  $1\\times 1$  convolutions, and  $F$  is the output of the interaction layer. By stacking multiple interaction layers, we can model higher-order interactions among all the bidders and items.",
+    "0abf353f-5a0b-481f-a91f-2e87476baa14": "In the last interaction layer, we set  $d_{\\mathrm{out}} = 3$  and get the global feature maps  $F = (F^{h}, F^{q}, F^{p}) \\in \\mathbb{R}^{n \\times m \\times 3}$ , which will be used to compute the final allocation and payment in the output layer. The first feature map  $F^h \\in \\mathbb{R}^{n \\times m}$  is used to compute the original allocation probability  $h^w(b, x, y) \\in [0,1]^{n \\times m}$  by softmax activation function on each column of  $F^h$ , i.e., $$ h _ { \\cdot , j } ^ { w } = \\operatorname { S o f t m a x } ( F _ { \\cdot , j } ^ { h } ) , \\forall j \\in M . $$ Here  $h_{i,j}^w$  is the probability that item  $j$  is allocated to bidder  $i$  and we have  $\\sum_{i=1}^{n} h_{i,j}^w = 1$  for each item  $j \\in M$ . Since some item  $j$  may not be allocated to any bidder, we use the second feature map  $F^q$  to adjust  $h_w$ . The weight  $q^w(b, x, y) \\in (0, 1)^{n \\times m}$  of each probability is computed through sigmoid activation on  $F^q$ : $$ q _ {i, j} ^ {w} = \\mathrm {S i g m o i d} (F _ {i, j} ^ {q}), \\forall i \\in N, \\forall j \\in M, $$ where  $\\operatorname{Sigmoid}(x) \\coloneqq \\frac{1}{1 + e^{-x}} \\in (0, 1)$ . The allocation result  $g^w$  is then obtained by combining  $h^w$  and  $q^w$  together: $$ g _ {i j} ^ {w} (b, x, y) = q _ {i j} ^ {w} (b, x, y) h _ {i j} ^ {w} (b, x, y). $$ As a result, we have  $0 < \\sum_{i=1}^{n} g_{i,j}^{w}(b,x,y) < 1$  for each item  $j \\in M$ .",
+    "01c9e1a0-dfe8-4bd8-a86a-3edfb8d3bfd7": "For payment, we compute payment fraction  $\\tilde{p}^w (b,x,y)\\in (0,1)^n$  via the third feature map  $F^{p}$ $$ \\tilde {p} _ {i} ^ {w} = \\operatorname {S i g m o i d} \\big (\\frac {1}{m} \\sum_ {j = 1} ^ {m} F _ {i j} ^ {p} \\big), \\forall i \\in N, $$ where  $\\tilde{p}_i^w$  is the fraction of bidder  $i$ 's utility that she has to pay to the auctioneer. Given the allocation  $g^w$  and payment fraction  $\\tilde{p}^w$ , the payment for bidder  $i$  is $$ p _ {i} ^ {w} (b, x, y) = \\tilde {p} _ {i} ^ {w} (b, x, y) \\sum_ {j = 1} ^ {m} g _ {i j} ^ {w} (b, x, y) b _ {i j}. $$ By doing so, Equation (IR) is satisfied.",
+    "50f80a68-13bd-47fe-b1ad-2473af6ec38c": "Remark 3.1 (Permutation-equivariant). Similar to the definition in Rahme et al. [2021a], we say an auction mechanism  $(g^w, p^w)$  is permutation-equivariant if for any two permutation matrices  $\\Pi_n \\in \\{0,1\\}^{n \\times n}$  and  $\\Pi_m \\in \\{0,1\\}^{m \\times m}$ , and any input (including bids  $b \\in \\mathbb{R}^{n \\times m}$ , bidder-contexts  $x \\in \\mathbb{R}^{n \\times d_x}$  and item-contexts  $y \\in \\mathbb{R}^{m \\times d_y}$ ), we have  $g^w(\\Pi_nb\\Pi_m, \\Pi_n x, \\Pi_m^T y) = \\Pi_n g^w(b, x, y)\\Pi_m$  and  $p^w(\\Pi_nb\\Pi_m, \\Pi_n x, \\Pi_m^T y) = \\Pi_np^w(b, x, y)$ . Transformer is known to be permutation-equivariant, since it maps each embedding in input to a new embedding that incorporates the information of the set of all the input embeddings. Moreover, the  $1 \\times 1$  convolutions we use in CITransNet are all per bidder-item wise, i.e., acting on each bidder-item pair. As a result, CITransNet maintains permutation-equivariant.",
+    "2c3721f3-2697-49c1-aa60-7ccb47577685": "Similar to Dütting et al. [2019], CITransNet is optimized through the augmented Lagrangian method. The Lagrangian with a quadratic penalty is: $$ \\begin{array}{l} \\mathcal {L} _ {\\rho} (w; \\lambda) = - \\frac {1}{L} \\sum_ {\\ell = 1} ^ {L} \\sum_ {i = 1} ^ {n} p _ {i} ^ {w} \\left(v ^ {(\\ell)}, x ^ {(\\ell)}, y ^ {(\\ell)}\\right) + \\tag {4} \\\\ \\sum_ {i = 1} ^ {n} \\lambda_ {i} \\widehat {r g t _ {i}} (w) + \\frac {\\rho}{2} \\sum_ {i = 1} ^ {n} \\left(\\widehat {r g t _ {i}} (w)\\right) ^ {2}, \\\\ \\end{array} $$ where  $\\lambda = (\\lambda_1, \\lambda_2, \\dots, \\lambda_n) \\in \\mathbb{R}^n$  is the Lagrange multipliers, and  $\\rho > 0$  is a hyperparameter that controls the weight of the quadratic penalty. During optimization, we update the model parameters and Lagrange multipliers in turn, i.e., we alternately find  $w^{new} \\in \\arg \\min_w \\mathcal{L}_\\rho(w^{old}, \\lambda^{old})$  and update  $\\lambda_i^{new} = \\lambda_i^{old} + \\rho \\cdot \\widehat{rgt}_i(w^{new}), \\forall i \\in N$ . See Appendix B for a detailed optimization and training procedure.",
+    "cf139b24-c061-438a-b711-6837f23033a4": "In this section, we conduct empirical experiments to show the effectiveness of CITransNet in different contextual auctions  $^{3}$ . Afterward, we demonstrate the out-of-setting generalization ability for CITransNet by evaluating the trained model in settings with different numbers of bidders or items. Our experiments are run on a Linux machine with NVIDIA Graphics Processing Unit (GPU) cores. Each result is obtained by averaging across 5 different runs. We ignore the standard deviation since it is small in all the experiments.",
+    "cf48ea4b-2af3-4a00-b271-5654c26e9682": "Baseline Methods We compare CITransNet with the following baselines: 1) Item-wise Myerson, a strong baseline used in Dütting et al. [2019], which independently applies Myerson auction with respect to each item  $^{4}$ ; 2) RegretNet [Dütting et al., 2019], which adopts fully-connected neural networks to compute auction mechanism; EquivariantNet [Rahme et al., 2021a], which is a permutation-equivariant architecture to design the special mechanism of symmetric auctions  $^{5}$ ; 3) CIRegretNet and CIEquivariantNet, which are the context-integrated version of RegretNet and EquivariantNet. Specifically, we replace the interaction layers of our CITransNet with RegretNet and EquivariantNet, respectively. We set these baselines to evaluate the effectiveness of our transformer-based interaction layers. See Appendix C for implementation details of all methods.",
+    "b40e2d6a-b921-4055-9108-448ab2d2f3bf": "Evaluation Following Dütting et al. [2019] and Rahme et al. [2021a], to evaluate each method, we adopt empirical revenue (the minus objective in Equation (II)) and empirical ex-post regret average across all the bidders  $\\widehat{rgt} \\coloneqq \\frac{1}{n}\\sum_{i=1}^{n}\\widehat{rgt}_i$ . We obtain the empirical regret for each bidder by executing gradient ascent on her bids  $b_i$  for 200 iterations. We run such gradient ascent for 100 times with different initial bids  $b_i^{(0)}$ , and the maximum regret is recorded for bidder  $i$ .",
+    "25d75d4c-8b8d-4824-a8d5-3dcd1dd50656": "Single-item Contextual Auctions First, we evaluate CITransNet in single-item auctions, whose optimal solutions are given by Myerson [1981]. We aim to justify whether CITransNet can recover the near-optimal solutions. The specific single-item auctions we consider are: (A) 3 bidders and 1 item, with discrete bidder-contexts and item-context, in which  $\\mathcal{X} = \\{1,2,3,4,5\\}$  and  $\\mathcal{Y} = \\{1\\}$ . Both contexts are independently and uniformly sampled. Given  $x_{i} \\in \\mathcal{X}$  and  $y_{1} = 1$ ,  $v_{i1}$  is drawn according to the truncated normal distribution  $\\mathcal{N}\\left(\\frac{x_i}{6},0.1\\right)$  in  $[0,1]$ . (B) 3 bidders and 1 item, with discrete bidder-contexts and item-context, in which  $\\mathcal{X} = \\{1,2,3,4,5\\}$  and  $\\mathcal{Y} = \\{1,2\\}$ . Both contexts are independently and uniformly sampled. Given  $x_{i} \\in \\mathcal{X}$ ,  $v_{i1}$  is drawn according to the truncated normal distribution  $\\mathcal{N}\\left(\\frac{x_i}{6},0.1\\right)$  in  $[0,1]$  when  $y_{1} = 1$ , and is drawn according to probability densities  $f_{i}(x) = \\frac{i}{6} e^{-\\frac{i}{6} x}$  truncated in  $[0,1]$  when  $y_{1} = 2$ . (C) 5 bidders and 1 item, with continuous bidder-contexts and item-context, in which  $\\mathcal{X} = [-1,1]^{10}$  and  $\\mathcal{Y} = [-1,1]^{10}$ . Both the contexts are independently and uniformly sampled. Given  $x_{i} \\in \\mathcal{X}$  and  $y_{j} \\in \\mathcal{Y}$ ,  $v_{ij}$  is drawn according to  $U[0, \\text{Sigmoid}(x_{i}^{T} y_{j})]$ .",
+    "bccb254b-6344-4573-bb64-86fc993ac2e4": "We present the experimental results of Setting A, B and C in Table 1. We can see that all the context-integrated models (CIRegretNet, CIEquivariantNet and CITransNet) are able to recover the optimal solutions given by Myerson [1981] in these simple settings: near-optimal revenues are achieved with regrets less than 0.001. In comparison, despite low regret, RegretNet and EquivariantNet fail to reach the optimal solution. It turns out that integrating context information into model architecture is crucial in contextual auction design. Furthermore, EquivariantNet, the symmetric mechanism designer, fails to reach the same performance as RegretNet, which reflects the importance of designing asymmetric solutions in contextual auctions.",
+    "a06570d4-fd40-4b04-ab67-9d6f8b23892a": "Multi-item Contextual Auctions Next, we illustrate the potential of CITransNet to discover new auction designs in multi-item contextual auctions without known solutions. We consider discrete context settings as follows: (D) 2 bidders with  $\\mathcal{X} = \\{1,2,\\ldots ,10\\}$  and 5 items with  $\\mathcal{Y} = \\{1,2,\\dots ,10\\}$ . All the contexts are uniform sampled, and  $v_{ij}$  is drawn according to the normal distribution  $\\mathcal{N}\\left(\\frac{(x_i + y_j)\\bmod{10 + 1}}{11},0.05\\right)$  truncated in [0, 1]. (E) 3 bidders and 10 items. The discrete contexts and corresponding values are drawn similarly as Setting D. (F) 5 bidders and 10 items, which is, to the best of our knowledge, the largest auction size considered in previous literatures of deep learning based auction design [Rahme et al., 2021b]. The discrete contexts and corresponding values are drawn similarly as Setting D. (a) (c) Additionally, We also construct continuous context settings based on Setting C: (G) 2 bidders and 5 items. The continuous contexts and corresponding values are drawn similarly as Setting C. (H) 3 bidders and 10 items. The continuous contexts and corresponding values are drawn similarly as Setting C. (I) 5 bidders and 10 items. The continuous contexts and corresponding values are drawn similarly as Setting C.",
+    "93fda662-c49f-4fb4-9607-f3fbc6db80a1": "Experimental results for Setting D-I are shown in Table 2. CITransNet obtains the best revenue results in all the settings while keeping low regret (less than 0.003 in Setting F and less than 0.001 in all the other settings). Notice that the only difference between CITransNet, CIRegretNet and CIEquivariantNet is the architecture of interaction layers. Such a result indicates the effectiveness of our transformer-based interaction module to capture the complex mutual influence among bidders and items. Furthermore, both CITransNet and CIEquivariantNet outperform CIRegretNet a lot in all the  $3 \\times 10$  and  $5 \\times 10$  auctions, showing that adding the inductive bias of permutation-equivariance is helpful in large-scale auction design.",
+    "89017d9a-9cd2-4028-97ca-65ac51c7e163": "Out-of-setting Generalization In addition, to show the effectiveness of CITransNet, we also conduct out-of-setting generalization experiments. Specifically, we train our model and evaluate it in auctions with a different number of bidders or items. Such evaluation is feasible for CITransNet, since the size of parameters in CITransNet does not rely on the number of bidders and items. We illustrate the experimental results on Figure 2, and see Appendix D for more detailed numerical values. Figure 2a shows the experimental results of generalizing to a varying number of bidders. We train CITransNet on Setting E, the discrete context settings with 3 bidders and 10 items, and we evaluate CITransNet on the same contextual auction with  $n$  bidders and 10 items ( $n \\in \\{3,4,5,6,7\\}$ ). We observe good generalization results: In addition to obtain low regret (less than 0.001) in all the test settings, CITransNet outperforms Item-wise Myerson when  $n \\in \\{3,4,5\\}$ . Furthermore, in Figure 2b and Figure 2c we present the experimental results of generalizing to varying number of items. We train CITransNet on Setting D and Setting G respectively, where both settings have 2 bidders and 5 items, and we test the model on the same contextual auction with 2 bidders and  $m$  items ( $m \\in \\{3,4,5,6,7\\}$ ). Again, we observe good generalization results. While still keeping small regret (less than 0.001), CITransNet is able to outperform Item-wise Myerson in all the test auctions.",
+    "04cb7de5-4367-46f9-89b3-ded4e43e19dc": "In this paper, we propose a new (transformer-based) neural architecture, CITransNet, for contextual auction design. CITransNet is permutation-equivariant with respect to bids and contexts, and it can handle asymmetric information in auctions. We show by experiments that CITransNet can recover the known optimal analytical solutions in simple auctions, and we demonstrate the effectiveness of the transformer-based interaction layers in CITransNet by comparing CITransNet with the context integrated version of RegretNet and EquivariantNet. Furthermore, we also illustrate the out-of-setting generalization ability for CITransNet by evaluating it in auctions with a varying number of bidders or items. Given the decent generalizability of CITransNet, an immediate next step is to test CITransNet over an industry-scale dataset. It would also be interesting to test CITransNet in an online manner."
+  }
+}

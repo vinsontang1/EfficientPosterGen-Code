@@ -1,0 +1,73 @@
+{
+  "paper_id": "10_Flexible_Attention-Based_Multi-Policy_Fusion_for_Efficient_Deep_Reinforcement_Le",
+  "content": {
+    "1_Introduction": [
+      "Introduces Knowledge-Grounded Reinforcement Learning with external policies",
+      "Defines knowledge as state–action mappings enabling compositional, incremental learning",
+      "Proposes Knowledge-Inclusive Attention Network (KIAN) actor for KGRL",
+      "Unifies policy embeddings; decouples fusion for plug-and-play updates",
+      "Balances entropy by reweighting external-policy distributions",
+      "Outperforms baselines on navigation and manipulation; improves generalization",
+      "TITLE: Introduction"
+    ],
+    "2_Related_Work": [
+      "KoGuN learns from fuzzy-rule controllers; restricts policy to fuzzy logic.",
+      "A2T attentively fuses multiple policies; includes learnable internal policy.",
+      "KIAN avoids retraining for incremental learning with variable policy sets.",
+      "KIAN mitigates entropy imbalance, improving exploration unaddressed by prior methods.",
+      "KGRL fuses multiple policies per step; HRL selects one.",
+      "TITLE: Related Work"
+    ],
+    "3_Problem_Formulation": [
+      "Introduces Knowledge-Grounded Reinforcement Learning using external knowledge policies",
+      "Formalizes KGMDP with states, actions, transitions, rewards, discount, initial distribution, policies",
+      "Learns policy conditioned on knowledge to maximize expected return",
+      "Notes external policies may be misaligned with MDP, harming returns",
+      "Defines properties: knowledge-acquirable, sample-efficient, generalizable",
+      "Defines properties: compositional via policy union; incremental with growing knowledge",
+      "TITLE: Problem Formulation"
+    ],
+    "4_Knowledge-Inclusive_Attention_Network": [
+      "Introduces Knowledge-Inclusive Attention Network (KIAN) as KGRL actor",
+      "Combines inner actor, knowledge keys, and query; end-to-end trainable",
+      "Predicts actions by Gumbel-softmax key selection and reparameterization",
+      "Reveals entropy imbalance in maximum-entropy KGRL via formal analysis",
+      "Finds attention biased toward high-entropy or internal policies",
+      "Mitigates with modified discrete and continuous policy distributions",
+      "TITLE: Knowledge-Inclusive Attention"
+    ],
+    "5_Experiments": [
+      "Evaluate KIAN on MiniGrid and OpenAI-Robotics with baselines",
+      "All methods share identical, sub-optimal external knowledge",
+      "KIAN consistently solves tasks; gains increase with task complexity",
+      "KIAN fuses multiple external policies for efficient exploration",
+      "KIAN shows superior generalization and reuses policies compositionally and incrementally",
+      "Ablation: fixing entropy imbalance improves performance; discrete tasks most sensitive",
+      "TITLE: Experiments"
+    ],
+    "6_Conclusion_and_Discussion": [
+      "Introduces KGRL: leverages external policies for efficient, flexible RL.",
+      "Proposes KIAN actor fusing multiple policies via embedding-based attention.",
+      "Adjusts KIAN policy distributions to fix entropy imbalance in maximum-entropy KGRL.",
+      "Demonstrates superior sample efficiency, generalization, compositional and incremental learning.",
+      "Notes limitation: performance drops with large, irrelevant external policy sets.",
+      "Envisions shared, growing policy knowledge enabling cross-environment agent querying.",
+      "TITLE: Conclusion Discussion"
+    ],
+    "Abstract": [
+      "Introduces Knowledge-Grounded RL fusing multiple external knowledge policies",
+      "Proposes KIAN actor with embedding-based attentive action prediction",
+      "Allows free knowledge rearrangement for generalization and transferability",
+      "Designs policy distributions to correct entropy imbalance in maximum-entropy KGRL",
+      "Outperforms other external-knowledge methods; achieves efficient, flexible exploration",
+      "Releases open-source implementation on GitHub",
+      "TITLE: Abstract"
+    ]
+  },
+  "token_usage": {
+    "input_text": 4298,
+    "input_image": 3864,
+    "input_total": 8162,
+    "output": 13319
+  }
+}

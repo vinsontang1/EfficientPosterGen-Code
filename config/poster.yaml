@@ -1,0 +1,47 @@
+# Poster rendering defaults
+#
+# Configure non-CLI options for how posters render.
+# You can override per-poster by placing a `poster.yaml` next to the paper.pdf.
+
+# Font size (in points) for main body text (section textboxes).
+# Titles are not affected by this setting.
+main_text_font_size: 60
+section_title_font_size: 80
+
+# Alternatively, you can use a nested structure; both are supported:
+# text:
+#   main_font_size: 24
+
+# Font sizes for the global poster header area
+# Title line font size (paper title at the top)
+poster_title_font_size: 85
+
+# Author/affiliation lines font size (under the poster title)
+poster_author_font_size: 48
+
+# Alternatively, nested structures are supported as well:
+# title:
+#   font_size: 66
+# authors:
+#   font_size: 48
+
+# Color configuration (RGB tuples: [R, G, B] where each value is 0-255)
+# Colors for section titles and poster title/author area
+title_text_color: [255, 255, 255]      # Black text for titles
+title_fill_color: null      # White background for titles
+
+# Colors for main body text (bullet points in sections)
+main_text_color: [47, 85, 151]             # Black text for main content
+main_text_fill_color: null             # No background fill (null/transparent)
+
+# Vertical alignment for section titles
+# Options: "top", "middle", "bottom"
+section_title_vertical_align: "bottom"     # Align section titles to bottom of textbox
+section_title_symbol: "▶ "
+
+# Alternatively, you can use nested structures:
+colors:
+  title_text: [255, 255, 255]
+  title_fill: [47, 85, 151]
+  main_text: [0, 0, 0]
+  main_fill: null
